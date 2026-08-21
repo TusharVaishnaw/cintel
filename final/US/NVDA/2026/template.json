@@ -1,0 +1,2896 @@
+{
+  "metadata": {
+    "company": {
+      "value": "NVIDIA CORP",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "as_of": "2026-02-25"
+    },
+    "cik": {
+      "value": 1045810,
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "as_of": "2026-02-25"
+    },
+    "ticker": {
+      "value": "NVDA",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "as_of": "2026-02-25"
+    },
+    "reporting_period": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_year": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "as_of": "2026-02-25"
+    },
+    "annual_report_source": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_publication_date": {
+      "value": "2026-02-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "as_of": "2026-02-25"
+    },
+    "data_as_of_date": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "extraction_date": {
+      "value": "2026-08-14T09:03:47.215044+00:00",
+      "source": "system",
+      "as_of": null
+    },
+    "last_updated": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "NVIDIA",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "headquarters": {
+        "value": "Santa Clara, California",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "revenue": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "employees": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "brands": {
+        "value": "GeForce, Quadro, NVIDIA RTX, CUDA, NVIDIA DRIVE, Clara, Omniverse, NVIDIA AI Enterprise, NVIDIA NIM, NVIDIA NeMo, NVLink, DPU, Grace, Blackwell, Rubin",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "services": {
+        "value": "accelerated computing, AI model training and inference, data analytics, scientific computing, robotics, 3D graphics, cloud gaming service (GeForce NOW), professional visualization, autonomous driving solutions",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "key_acquisitions": {
+        "value": "Mellanox",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": "United States, China (including Hong Kong and Macau), Russia, Saudi Arabia, United Arab Emirates, Vietnam, Israel",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "regions": {
+        "value": "Asia, U.S., Latin America, Middle East",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "offices": {
+        "value": "Santa Clara, California",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_revenue": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": "Compute & Networking",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "growth_rate": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "employees": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "description": {
+            "value": "Includes data center accelerated computing and networking platforms and AI solutions and software, and Automotive platforms and autonomous and electric vehicle solutions including software.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "key_services": {
+            "value": [
+              "Data Center accelerated computing",
+              "Networking platforms",
+              "AI solutions and software",
+              "Automotive platforms",
+              "Autonomous and electric vehicle solutions"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue_percentage": {
+            "value": null,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-14T09:07:07.981608+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Graphics",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "growth_rate": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "employees": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "description": {
+            "value": "Includes GeForce GPUs for gaming and PCs, and Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "key_services": {
+            "value": [
+              "GeForce GPUs for gaming and PCs",
+              "Quadro/NVIDIA RTX GPUs for enterprise workstation graphics"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue_percentage": {
+            "value": null,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-14T09:07:07.981608+00:00"
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2026.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 215938000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        },
+        "previous_year": {
+          "value": 130497000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        },
+        "two_years_prior": {
+          "value": 60922000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": 130387000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        },
+        "previous_year": {
+          "value": 81453000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        },
+        "two_years_prior": {
+          "value": 32972000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 120067000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        },
+        "previous_year": {
+          "value": 72880000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        },
+        "two_years_prior": {
+          "value": 29760000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "as_of": "2026-02-25"
+        }
+      },
+      "ebitda": {
+        "value": 133230000000.0,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-14T09:07:07.981608+00:00"
+      },
+      "ebit": {
+        "value": 130387000000.0,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-14T09:07:07.981608+00:00"
+      },
+      "gross_profit": {
+        "value": 153463000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "profit_before_tax": {
+        "value": 141450000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-14T09:07:07.981608+00:00"
+      },
+      "depreciation_amortization": {
+        "value": 2843000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "income_tax_expense": {
+        "value": 21383000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "earnings_per_share": {
+        "value": 4.9,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "operating_cash_flow": {
+        "value": 102718000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "capital_expenditure": {
+        "value": 6286000000.0,
+        "source": "approximated (no direct XBRL capex tag): PropertyPlantAndEquipmentGross delta, filing=https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "total_assets": {
+        "value": 206803000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "total_liabilities": {
+        "value": 49510000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "current_assets": {
+        "value": 125605000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "current_liabilities": {
+        "value": 32163000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "shareholders_equity": {
+        "value": 157293000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 10605000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "total_debt": {
+        "value": 8468000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "dividend": {
+        "value": 0.04,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "share_count": {
+        "value": 24304000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": 60922000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_income": {
+            "value": 32972000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "net_income": {
+            "value": 29760000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "ebitda": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "net_zero_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "carbon_emissions": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "emissions_reduction_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "renewable_energy_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "water_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "waste_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "diversity_targets": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "sustainability_frameworks": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "We report our business results in two segments: the Compute & Networking segment and the Graphics segment.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "Jen-Hsun Huang",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "President, Chief Executive Officer and Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Principal Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": "President, Chief Executive Officer and Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Colette M. Kress",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Executive Vice President and Chief Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Principal Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": "Executive Vice President and Chief Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Donald Robertson",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Vice President and Chief Accounting Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Principal Accounting Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": "Vice President and Chief Accounting Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Tench Coxe",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "John O. Dabiri",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Dawn Hudson",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Harvey C. Jones",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Melissa B. Lora",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Stephen C. Neal",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "A. Brooke Seawell",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Aarti Shah",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Mark A. Stevens",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ],
+      "board_of_directors": [
+        {
+          "name": {
+            "value": "Jen-Hsun Huang",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "President, Chief Executive Officer and Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": "Principal Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Tench Coxe",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "John O. Dabiri",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Dawn Hudson",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Harvey C. Jones",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Melissa B. Lora",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Stephen C. Neal",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "A. Brooke Seawell",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Aarti Shah",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Mark A. Stevens",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "NVIDIA CUDA",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Software development platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Parallel processing, AI and accelerated computing",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Our technology stack includes the foundational NVIDIA CUDA development platform that runs on all NVIDIA GPUs.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "Blackwell architecture",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Hardware architecture",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Data-center-scale AI, training, and inference",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Introduced with the Blackwell architecture, our data-center-scale offerings feature extreme co-design.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "GPUs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Hardware",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Parallel processing, deep learning, 3D graphics, AI training and inference",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center, Gaming, Professional Visualization",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "The GPU was initially used to simulate human imagination... Today, it also simulates human intelligence, enabling a deeper understanding of language, science, and the physical world.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "DPUs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Hardware / Processor",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Data center networking and processing",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Our acquisition of Mellanox in 2020 expanded our offerings to include networking... and led to the introduction of a new processor class the data processing unit, or DPU.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "Grace CPUs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Hardware / Processor",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Giant-scale AI and high-performance computing",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "In 2023, we introduced our first data center CPU, Grace, built for giant-scale AI and high-performance computing, or HPC.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "NVIDIA DRIVE",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Software stack",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Autonomous driving",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Automotive",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "NVIDIA DRIVE stack for autonomous driving.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "Clara",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Software stack",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Healthcare",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Healthcare",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Clara for healthcare.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "Omniverse",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Software platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Physical AI applications, 3D design collaboration, virtual world simulation",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Professional Visualization",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Omniverse for physical AI applications.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "NVIDIA AI Enterprise",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Software suite",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Enterprise AI applications",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "NVIDIA AI Enterprise software essentially an operating system for enterprise AI applications.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "NVIDIA DLSS",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "AI Technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Boosting game performance and image quality",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Gaming",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "NVIDIA DLSS, our AI technology that boosts frame rates while generating high-quality images for games.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "NVLink",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Interconnect",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "High-performance data center interconnects",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Our networking offerings include NVLink interconnects and switches.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "NVIDIA Nemotron",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "AI model platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Agentic AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Data Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "More recently, in support of market development, we have accelerated the release cadence of our open AI model platforms including NVIDIA Nemotron for agentic AI.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ],
+      "technology_initiatives": [
+        {
+          "date": {
+            "value": "1999",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "GPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Invention of the GPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Sparked growth of PC gaming market and redefined computer graphics",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "NVIDIA invented the GPU, enabling the virtual worlds of video games and films.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "2006",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "CUDA",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Introduction of CUDA",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Opened parallel processing capabilities of GPU to compute-intensive applications",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Allowed broad range of compute-intensive applications, paving the way for modern AI.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "2017",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "Tensor Core GPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Introduction of first Tensor Core GPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Built from the ground-up for the new era of AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Introduced specialized hardware for AI acceleration.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "2018",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "SoC",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "First autonomous driving system-on-chips (SoC)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Support autonomous driving",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Launched the company's first autonomous driving SoC.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "2020",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "Networking / DPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Acquisition of Mellanox",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Expand offerings to include networking and enable data center scale",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Led to the introduction of a new processor class, the data processing unit (DPU).",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "Grace CPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Introduction of first data center CPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Built for giant-scale AI and high-performance computing (HPC)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Expansion of data center infrastructure into CPUs.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "Blackwell architecture",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Launch of NVIDIA Blackwell architecture",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Real-time trillion-parameter inference and training",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Connected 36 Grace CPUs and 72 Blackwell GPUs in a liquid-cooled design.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "fiscal year 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "Blackwell Ultra platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Launch and scale of Blackwell Ultra platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Optimized for agentic, reasoning, and physical AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Delivers increased token throughput and reduced cost per token compared to Hopper generation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "fiscal year 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "NVIDIA NVLink Fusion",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Introduction of NVLink Fusion",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Enable hyperscalers and custom ASIC designers to integrate custom CPUs and XPUs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Expanded connectivity options for third-party custom silicon.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "date": {
+            "value": "fiscal year 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "technology": {
+            "value": "Rubin platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "initiative": {
+            "value": "Unveiling the NVIDIA Rubin platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_purpose": {
+            "value": "Built for agentic AI and reasoning",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Excels at multi-step problem-solving and massive long-context workflows with 10x cost reduction vs Blackwell.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ],
+      "cloud_technologies": {
+        "value": "All major cloud service providers use NVIDIA data center-scale infrastructure and computing platforms; platforms are available from virtually every major CSP.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "ai_and_ml": {
+        "value": "NVIDIA technology stack includes CUDA, software libraries, frameworks, SDKs, and APIs for AI model training and inference, generative AI, agentic AI, and physical AI.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "data_and_analytics": {
+        "value": "NVIDIA technology supports data analytics through its software stack and platforms, including CUDA-X and data center-scale infrastructure.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "cybersecurity": {
+        "value": "Mentioned as an industry use case for NVIDIA platforms (fraud detection in financial services).",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "digital_platforms": {
+        "value": "NVIDIA platforms include CUDA, NVIDIA AI Enterprise, NVIDIA DRIVE, Clara, Omniverse, and various AI model platforms like Nemotron and Cosmos.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "automation": {
+        "value": "For physical AI, we provide an end-to-end platform spanning data center infrastructure, open models, systems, embedded compute modules, and software stacks to train, simulate, and deploy advanced automation and robotics solutions.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": "Independent software vendors (ISVs)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "partnership_type": {
+            "value": "Ecosystem/Development",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "products_or_technology": {
+            "value": "NVIDIA GPUs and software platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "purpose": {
+            "value": "Optimize offerings and accelerate workflows for design, engineering, and digital content creation",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "NVIDIA works closely with ISVs to optimize their applications for NVIDIA's GPU computing platform.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "partner": {
+            "value": "Automotive ecosystem partners",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "partnership_type": {
+            "value": "Strategic/Development",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "products_or_technology": {
+            "value": "DRIVE Hyperion platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "purpose": {
+            "value": "Deliver full-stack end-to-end solutions for autonomous driving",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Collaboration across hundreds of partners including automotive OEMs, mobility service providers, robotaxis, tier-1 suppliers, and start-ups.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": "2020",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "Mellanox",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": "networking",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": "expanded offerings to include networking, enabled our platforms to be data center scale, and led to the introduction of a new processor class the data processing unit, or DPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": "networking",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "UNVERIFIED \u2014 see acquisition_value, counterparty not in narrative text",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": 1535000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "UNVERIFIED \u2014 see acquisition_value, counterparty not in narrative text",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": 13000000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "UNVERIFIED \u2014 see acquisition_value, counterparty not in narrative text",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": 1007000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "UNVERIFIED \u2014 see acquisition_value, counterparty not in narrative text",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": 83000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "strategic_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "growth_strategy": {
+        "value": "The year over year increase was driven by the major platform shifts in accelerated computing and AI.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "digital_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_strategy": {
+        "value": "Transitioning from offering Hopper HGX systems to Blackwell full-scale datacenter solutions; growth of NVLink compute fabric for GB200 and GB300 systems and Ethernet and InfiniBand platforms.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "market_expansion_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "investment_priorities": {
+        "value": "Continued investment in research and development, including compute and infrastructure, and non-marketable and publicly-held equity securities.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "management_outlook": {
+        "value": "We believe that we have sufficient liquidity to meet our operating requirements for at least the next twelve months and for the foreseeable future.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Mismatch between supply and demand due to long lead times and inaccurate forecasting",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Product shortages, excess inventory, and harm to financial results",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Paid premiums, provided deposits, entered into long-term supply agreements and capacity commitments, and increased supply/capacity purchases",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Dependency on third-party suppliers for manufacturing, assembly, testing, and packaging",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Reduced control over product quality, quantity, and delivery schedules; potential for supply constraints and increased costs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Increasing U.S.-based manufacturing and investing in specialized equipment and processes",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Product defects and security vulnerabilities",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Significant remediation expenses, damage to reputation, loss of market share, and potential liability",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Incorporate defect expense reimbursement provisions in supply arrangements",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Cybersecurity threats and data protection incidents",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Disruption of operations, reduction in revenue, increased expenses, and reputation damage",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Continuously engineer more secure products, enhance security features, and implement training and security awareness initiatives",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Rapidly evolving technology and competitive landscape",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Potential for lower-than-expected selling prices, loss of market share, and failure to monetize new products",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Invest in research and development, adapt strategies, and develop new products and business models",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Product transitions and complex architecture lifecycles",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Volatility in revenue, increased inventory provisions, and warranty costs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Managing product transitions while selling multiple product architectures; planning for new product and architecture cadences",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Export controls and complex international regulations",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Adverse impact on business, especially in competitive markets like China",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Availability of data centers, energy, and capital for AI infrastructure buildout",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Potential to delay customer deployments or reduce the scale of AI adoption, impacting revenue",
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "it_spending": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_investment": {
+        "value": "We have invested over $76.7 billion in research and development since our inception.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "it_budget_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "accelerated computing and data center scale AI infrastructure",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "competitive_landscape_description": {
+        "value": "The market is intensely competitive, characterized by rapid technological change and evolving industry standards. Competition includes hardware and software suppliers for GPUs, CPUs, DPUs, custom chips, and accelerated computing solutions (e.g., AMD, Intel, Huawei), as well as large cloud service companies designing internal solutions (e.g., Alibaba, Alphabet, Amazon, Baidu, Microsoft).",
+        "source": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "as_of": "2026-02-25"
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "revenue": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "operating_income": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "net_income": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "ebitda": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "eps": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "cash_flow": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "guidance": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "management_commentary": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "key_drivers": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "key_headwinds": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 65.47,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "operating_income_growth": {
+      "value": 60.08,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "net_income_growth": {
+      "value": 64.75,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "operating_margin": {
+      "value": 0.6038,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "net_margin": {
+      "value": 0.556,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "gross_margin": {
+      "value": 0.7107,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "free_cash_flow": {
+      "value": 96432000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "net_debt": {
+      "value": -2137000000.0,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "roe": {
+      "value": 0.7633,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "roa": {
+      "value": 0.5806,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "debt_to_equity": {
+      "value": 0.0538,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "current_ratio": {
+      "value": 3.9053,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-14T09:07:07.981608+00:00"
+    },
+    "segment_revenue_percentage": {
+      "value": null,
+      "formula": "per segment: segment.revenue / total revenue",
+      "as_of": null
+    },
+    "quarterly_revenue_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly revenue",
+      "as_of": null
+    },
+    "quarterly_net_income_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly net income",
+      "as_of": null
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Exceptional financial profitability",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "NVIDIA achieved a net margin of 0.556 and a return on equity (ROE) of 0.7633 for the current financial year.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Significant revenue expansion",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Revenue grew from 130.5 billion to 215.9 billion, representing a 65.47% increase year-over-year.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strong liquidity position",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "The current ratio stands at 3.9053, indicating a very strong ability to cover short-term liabilities with current assets.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Technological leadership in AI infrastructure",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Strategy involves high-performance transitions from Hopper HGX systems to Blackwell full-scale datacenter solutions and NVLink compute fabrics.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "Supply chain dependency",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "The company relies on third-party suppliers for manufacturing, assembly, testing, and packaging, reducing control over quality and delivery.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Operational forecasting risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "The business faces a mismatch between supply and demand due to long lead times and inaccurate forecasting, leading to potential inventory and financial issues.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Product lifecycle volatility",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Complex architecture lifecycles and product transitions create challenges, including inventory provisions and warranty costs.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Expansion in accelerated computing and AI",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Growth is being driven by major platform shifts in accelerated computing, with investments in new architectures like GB200 and GB300 systems.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strengthening domestic manufacturing",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Management is actively increasing U.S.-based manufacturing to mitigate risks associated with reliance on external suppliers.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Broadening software and service ecosystem",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "The portfolio includes diverse offerings like NVIDIA NIM, NVIDIA NeMo, and Omniverse, which leverage the company's core hardware strengths.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Geopolitical and regulatory impact",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Export controls and complex international regulations pose an adverse impact on business, specifically within competitive markets like China.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Intense competitive pressure",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "Market competition includes major hardware suppliers (AMD, Intel) and large cloud service companies (Alphabet, Amazon, Microsoft) designing their own internal solutions.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Infrastructure ecosystem constraints",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "The availability of data centers, energy, and capital for AI infrastructure buildout could potentially delay customer deployments or reduce the scale of AI adoption.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Cybersecurity and product integrity",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          },
+          "evidence": {
+            "value": "The company faces risks from cybersecurity threats and potential product defects, which can result in significant remediation expenses and reputation damage.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:07:08.421691+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "Exceptional",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      },
+      "demand_trend": {
+        "value": "Surging",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      },
+      "technology_adoption": {
+        "value": "Rapid/Massive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      },
+      "spending_trend": {
+        "value": "Aggressive expansion",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Complex and restrictive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      },
+      "competitive_intensity": {
+        "value": "Very high",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      },
+      "outlook": {
+        "value": "Strongly positive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:07:08.421691+00:00"
+      }
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "share_price": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "shares_outstanding": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "stock_exchange": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "ticker": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "dividend_yield": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "institutional_ownership": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "analyst_estimates": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "title": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "summary": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "category": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "url": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "industry_growth_rate": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "industry_forecast": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "forecast_period": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "growth_drivers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "industry_challenges": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "industry_trends": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "competitors": {
+      "key_competitors": [
+        {
+          "company_name": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "revenue": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "employees": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "market_cap": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "primary_market": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "competitive_position": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "award": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "organization": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ],
+      "certifications": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "certification": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "issuing_body": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "esg_ratings": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "leadership_links": [
+      {
+        "name": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "linkedin_url": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "photo_url": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        }
+      }
+    ],
+    "vendors_and_contracts": {
+      "vendors": [
+        {
+          "vendor": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "start_date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "contract_value": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "services_provided": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "month_year": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "customer": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "deal_type": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "deal_value": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "details": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    }
+  }
+}

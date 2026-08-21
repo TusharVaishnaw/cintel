@@ -1,0 +1,2459 @@
+{
+  "metadata": {
+    "company": {
+      "value": "GOLDMAN SACHS GROUP INC",
+      "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "as_of": "2026-02-25"
+    },
+    "cik": {
+      "value": 886982,
+      "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "as_of": "2026-02-25"
+    },
+    "ticker": {
+      "value": "GS",
+      "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "as_of": "2026-02-25"
+    },
+    "reporting_period": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_year": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "as_of": "2026-02-25"
+    },
+    "annual_report_source": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_publication_date": {
+      "value": "2026-02-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "as_of": "2026-02-25"
+    },
+    "data_as_of_date": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "extraction_date": {
+      "value": "2026-08-14T09:47:47.981342+00:00",
+      "source": "system",
+      "as_of": null
+    },
+    "last_updated": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "The Goldman Sachs Group, Inc.",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "headquarters": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "revenue": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "employees": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "brands": {
+        "value": "Marcus by Goldman Sachs",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "services": {
+        "value": "Investment banking, advisory, underwriting, market-making, asset management, wealth advisory, private banking, transaction banking",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "key_acquisitions": {
+        "value": "Industry Ventures, Innovator Capital Management",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "regions": {
+        "value": "Americas, EMEA (Europe, Middle East and Africa), Asia",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "offices": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_revenue": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": "Global Banking Markets",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": 41453,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "growth_rate": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_income": {
+            "value": 17574,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "employees": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "description": {
+            "value": "Generates revenues from investment banking fees (advisory, underwriting), FICC (intermediation and financing), Equities (intermediation and financing), and other lending/transaction banking activities.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "key_services": {
+            "value": [
+              "Advisory",
+              "Underwriting",
+              "FICC",
+              "Equities"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Asset Wealth Management",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": 16679,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "growth_rate": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_income": {
+            "value": 4127,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_margin": {
+            "value": 0.25,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "employees": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "description": {
+            "value": "Provides investment services to help clients preserve and grow financial assets, managing client assets across equity, fixed income, and alternative investment strategies.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "key_services": {
+            "value": [
+              "Management and other fees",
+              "Incentive fees",
+              "Private banking and lending",
+              "Investments"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Platform Solutions",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": 151,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "growth_rate": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_income": {
+            "value": 151,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "employees": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2025.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "revenue": {
+        "current_year": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "previous_year": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "two_years_prior": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "previous_year": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "two_years_prior": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 17176000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+          "as_of": "2026-02-25"
+        },
+        "previous_year": {
+          "value": 14276000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+          "as_of": "2026-02-25"
+        },
+        "two_years_prior": {
+          "value": 8516000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+          "as_of": "2026-02-25"
+        }
+      },
+      "ebitda": {
+        "value": null,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-14T09:50:31.324045+00:00"
+      },
+      "ebit": {
+        "value": null,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-14T09:50:31.324045+00:00"
+      },
+      "gross_profit": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "profit_before_tax": {
+        "value": 21852000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-14T09:50:31.324045+00:00"
+      },
+      "depreciation_amortization": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "income_tax_expense": {
+        "value": 4676000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "earnings_per_share": {
+        "value": 51.32,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "operating_cash_flow": {
+        "value": -45154000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "capital_expenditure": {
+        "value": 2064000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "total_assets": {
+        "value": 1809320000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "total_liabilities": {
+        "value": 1684348000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "current_assets": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "current_liabilities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "shareholders_equity": {
+        "value": 124972000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 164259000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "total_debt": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "dividend": {
+        "value": 14.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "share_count": {
+        "value": 296476742.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "revenue": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "operating_income": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "net_income": {
+            "value": 8516000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "ebitda": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "net_zero_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "carbon_emissions": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "emissions_reduction_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "renewable_energy_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "water_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "waste_target": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "diversity_targets": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "sustainability_frameworks": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "Global Banking Markets, Asset Wealth Management, Platform Solutions",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "David Solomon",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director, Chairman and Chief Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Officer/Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": "Principal Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "M. Michele Burns",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Mark A. Flaherty",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Kimberley D. Harris",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "John B. Hess",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Kevin R. Johnson",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Ellen J. Kullman",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "KC McClure",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Lakshmi N. Mittal",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Thomas Montag",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Peter Oppenheimer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Jan E. Tighe",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "David A. Viniar",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "John E. Waldron",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Denis P. Coleman III",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Chief Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": "Principal Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Sheara J. Fredman",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Chief Accounting Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "type": {
+            "value": "Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "responsibility": {
+            "value": "Principal Accounting Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "appointment_date": {
+            "value": "February 25, 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ],
+      "board_of_directors": [
+        {
+          "name": {
+            "value": "David Solomon",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director, Chairman and Chief Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": "Principal Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "M. Michele Burns",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Mark A. Flaherty",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Kimberley D. Harris",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "John B. Hess",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Kevin R. Johnson",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Ellen J. Kullman",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "KC McClure",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Lakshmi N. Mittal",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Thomas Montag",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Peter Oppenheimer",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "Jan E. Tighe",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "David A. Viniar",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "name": {
+            "value": "John E. Waldron",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "designation": {
+            "value": "Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "role": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "Marcus by Goldman Sachs",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Digital Banking Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Raising consumer deposits",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Asset Wealth Management",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "We also raise deposits from consumers through Marcus by Goldman Sachs (Marcus).",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "Transaction banking",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Financial Services Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Deposit taking, payments solutions and other cash management services",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Global Banking Markets",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Additionally, we provide transaction banking services, such as deposit taking, payments solutions and other cash management services, for corporate and institutional clients.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "technology": {
+            "value": "Dealogic",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "category": {
+            "value": "Data Analytics / Market Intelligence",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "use_case": {
+            "value": "Tracking financial advisory and underwriting transaction volumes",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_area": {
+            "value": "Investment Banking",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "evidence": {
+            "value": "Volumes are per Dealogic.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ],
+      "technology_initiatives": [],
+      "cloud_technologies": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "ai_and_ml": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "data_and_analytics": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "cybersecurity": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_platforms": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "automation": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": "T. Rowe Price",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "date": {
+            "value": "September 2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "partnership_type": {
+            "value": "strategic collaboration",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "products_or_technology": {
+            "value": "public and private market investment solutions",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "purpose": {
+            "value": "delivering investment solutions for the retirement and wealth markets",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Strategic collaboration aimed at retirement and wealth markets, including a $1 billion investment in T. Rowe Price common stock.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "partner": {
+            "value": "Industry Ventures",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "date": {
+            "value": "October 2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "partnership_type": {
+            "value": "acquisition",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "products_or_technology": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "purpose": {
+            "value": "corporate expansion/acquisition",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Acquisition agreement entered in October 2025 for $665 million plus contingent consideration; transaction closed in January 2026.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "partner": {
+            "value": "Innovator Capital Management",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "date": {
+            "value": "December 2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "partnership_type": {
+            "value": "acquisition",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "products_or_technology": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "purpose": {
+            "value": "corporate expansion/acquisition",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "brief": {
+            "value": "Acquisition agreement for approximately $2.0 billion; expected to close in the second quarter of 2026.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "Industry Ventures",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": "January 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": "$665 million base plus up to $300 million contingent consideration",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": "Industry Ventures",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "year": {
+            "value": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "company_name": {
+            "value": "Innovator Capital Management",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_date": {
+            "value": "Expected second quarter of 2026",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "acquisition_value": {
+            "value": "Approximately $2.0 billion",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "business_acquired": {
+            "value": "Innovator Capital Management",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "geography": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "strategic_rationale": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "services_or_capabilities_added": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "strategic_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "growth_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_expansion_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "investment_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "management_outlook": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Liquidity risk",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Inability to fund the firm or meet liquidity needs in the event of firm-specific, broader industry, or market liquidity stress events.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Maintenance of a Global Core Liquid Assets (GCLA) portfolio, conservative Asset-Liability Management, and a Contingency Funding Plan.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Market volatility and adverse conditions",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Changes in market values, widening credit spreads, and disruptions to financing flows.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Daily discipline of marking inventory to market, firmwide stress testing, and holding GCLA.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Credit rating downgrades",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Increased liquidity requirements and potential difficulty accessing funding markets.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Incorporating a two-notch downgrade of long-term senior unsecured credit ratings into liquidity stress models.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Regulatory and legal restrictions on intercompany fund flows",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Regulatory bodies may block or reduce the flow of funds from subsidiaries to the parent company, potentially impeding access to funds needed to meet obligations.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Policies assuming that capital and financing provided to regulated subsidiaries are not available to Group Inc. or Funding IHC until maturity; holding GCLA directly at the entity level.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Operational and compliance risks",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "impact": {
+            "value": "Potential losses, regulatory enforcement matters, and reputational damage.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "management_response": {
+            "value": "Three lines of defense model, dedicated risk committees, and comprehensive control monitoring and testing.",
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          },
+          "time_period": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+            "as_of": "2026-02-25"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "it_spending": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_investment": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "it_budget_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "Global Banking and Markets, Asset Wealth Management, and Platform Solutions",
+        "source": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+        "as_of": "2026-02-25"
+      },
+      "competitive_landscape_description": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "revenue": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "operating_income": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "net_income": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "ebitda": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "eps": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "cash_flow": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "guidance": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "management_commentary": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "key_drivers": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "key_headwinds": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": null,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "operating_income_growth": {
+      "value": null,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "net_income_growth": {
+      "value": 20.31,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "operating_margin": {
+      "value": null,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "net_margin": {
+      "value": null,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "gross_margin": {
+      "value": null,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "free_cash_flow": {
+      "value": -47218000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "net_debt": {
+      "value": null,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "roe": {
+      "value": 0.1374,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "roa": {
+      "value": 0.0095,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "debt_to_equity": {
+      "value": null,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "current_ratio": {
+      "value": null,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-14T09:50:31.324045+00:00"
+    },
+    "segment_revenue_percentage": {
+      "value": null,
+      "formula": "per segment: segment.revenue / total revenue",
+      "as_of": null
+    },
+    "quarterly_revenue_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly revenue",
+      "as_of": null
+    },
+    "quarterly_net_income_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly net income",
+      "as_of": null
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Strong profitability growth",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "Net income grew from 8.516 billion in 2023 to 17.176 billion in 2025.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Diversified business segments",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "Operations are split across three distinct segments: Global Banking Markets, Asset Wealth Management, and Platform Solutions.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Significant cash reserves",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The company holds 164.259 billion in cash and cash equivalents.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High operational efficiency in Asset Management",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The Asset Wealth Management segment maintains a 25% operating margin.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "Negative free cash flow",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "Free cash flow is reported at -47.218 billion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Low return on assets",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The Return on Assets (ROA) is 0.0095.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Operational and compliance risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The business faces documented risks regarding potential losses, regulatory enforcement matters, and reputational damage.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Expansion of investment and asset services",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The company acquired Industry Ventures and Innovator Capital Management to bolster its investment capabilities.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Leveraging established brand presence",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The company operates Marcus by Goldman Sachs, providing a platform for consumer-facing financial services.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Regulatory and legal restrictions on funds",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "Regulatory bodies may block or reduce the flow of funds from subsidiaries to the parent company, impeding access to liquidity.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Liquidity risk",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The firm faces the risk of an inability to fund operations or meet liquidity needs during market stress events.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Market volatility",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "The company is vulnerable to changes in market values, widening credit spreads, and disruptions to financing flows.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Credit rating sensitivity",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          },
+          "evidence": {
+            "value": "A credit rating downgrade would lead to increased liquidity requirements and potential difficulty accessing funding markets.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-14T09:50:31.725974+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "Moderate",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      },
+      "demand_trend": {
+        "value": "Stable",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      },
+      "technology_adoption": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      },
+      "spending_trend": {
+        "value": "Increasing",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Strict",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      },
+      "competitive_intensity": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      },
+      "outlook": {
+        "value": "Positive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-14T09:50:31.725974+00:00"
+      }
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "share_price": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "shares_outstanding": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "stock_exchange": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "ticker": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "dividend_yield": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "institutional_ownership": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "analyst_estimates": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "title": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "summary": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "category": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "url": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "industry_growth_rate": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "industry_forecast": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "forecast_period": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "growth_drivers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "industry_challenges": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "industry_trends": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "competitors": {
+      "key_competitors": [
+        {
+          "company_name": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "revenue": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "employees": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "market_cap": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "primary_market": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "competitive_position": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "award": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "organization": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ],
+      "certifications": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "certification": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "issuing_body": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "esg_ratings": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "leadership_links": [
+      {
+        "name": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "linkedin_url": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "photo_url": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        }
+      }
+    ],
+    "vendors_and_contracts": {
+      "vendors": [
+        {
+          "vendor": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "start_date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "contract_value": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "services_provided": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "month_year": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "customer": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "deal_type": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "deal_value": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "details": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    }
+  }
+}

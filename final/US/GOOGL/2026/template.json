@@ -1,0 +1,2218 @@
+{
+  "metadata": {
+    "company": {
+      "value": "Alphabet Inc.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "as_of": "2026-02-05"
+    },
+    "cik": {
+      "value": 1652044,
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "as_of": "2026-02-05"
+    },
+    "ticker": {
+      "value": "GOOGL",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "as_of": "2026-02-05"
+    },
+    "annual_report_year": {
+      "value": "2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "as_of": "2026-02-05"
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "as_of": "2026-02-05"
+    },
+    "extraction_date": {
+      "value": "2026-08-19T11:10:34.262841+00:00",
+      "source": "system",
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "Alphabet Inc.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "founded_year": {
+        "value": "1998",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "headquarters": {
+        "value": "Mountain View, California",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "revenue": {
+        "value": 402836000000.0,
+        "source": "alias of financials.revenue.current_year (https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm)",
+        "as_of": "2026-02-05"
+      },
+      "employees": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "brands": {
+        "value": "Google, YouTube, Android, Chrome, Gmail, Google Drive, Google Gemini, Google Maps, Google Photos, Google Play, Pixel, Waymo, Isomorphic Labs",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "services": {
+        "value": "Google Services (ads, search, platforms, devices), Google Cloud (infrastructure, platform, applications, cybersecurity, data and analytics, AI agents), Other Bets (autonomous transportation, internet services)",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": "to organize the world s information and make it universally accessible and useful",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "vision": {
+        "value": "do the right thing",
+        "source": "https://www.wikidata.org/wiki/Special:EntityData/Q20800404.json",
+        "as_of": "2026-08-19T11:13:57.543851+00:00"
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": "Asia, Europe, and North America",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "regions": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "offices": {
+        "value": "office facilities and data centers",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_revenue": {
+        "value": {
+          "United States": 194229000000.0,
+          "EMEA": 117152000000.0,
+          "APAC": 67680000000.0,
+          "Other Americas": 23902000000.0
+        },
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": "Google Search & other",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 224532000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": 13.35,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 55.74,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "YouTube ads",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 40367000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": 11.67,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 10.02,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Google Network",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 29792000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": -1.87,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 7.4,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Google advertising",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 294691000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": 11.38,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 73.15,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Google subscriptions, platforms, and devices",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 48030000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": 19.06,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 11.92,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Google Services",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 342721000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": 12.39,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": "Core products and platforms including ads, Android, Chrome, devices, Gmail, Google Drive, Google Gemini, Google Maps, Google Photos, Google Play, Search, and YouTube.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": [
+              "ads",
+              "Android",
+              "Chrome",
+              "devices",
+              "Gmail",
+              "Google Drive",
+              "Google Gemini",
+              "Google Maps",
+              "Google Photos",
+              "Google Play",
+              "Search",
+              "YouTube"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 85.08,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Google Cloud",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 58705000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": 35.8,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": "Generates revenues primarily from consumption-based fees and subscriptions for infrastructure, platform, applications, and other cloud services.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": [
+              "AI-optimized Infrastructure",
+              "Developer Platform (Vertex AI)",
+              "Cybersecurity",
+              "Data and Analytics",
+              "Gemini Enterprise",
+              "Gemini for Google Workspace"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 14.57,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Other Bets",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 1537000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "growth_rate": {
+            "value": -6.74,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "description": {
+            "value": "A portfolio of businesses at various stages of development, ranging from research and development to scaling commercialization.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "key_services": {
+            "value": [
+              "autonomous transportation",
+              "internet services",
+              "Waymo",
+              "Isomorphic Labs",
+              "X"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue_percentage": {
+            "value": 0.38,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-19T11:13:37.077606+00:00"
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2025.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 402836000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        },
+        "previous_year": {
+          "value": 350018000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        },
+        "two_years_prior": {
+          "value": 307394000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": 129039000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        },
+        "previous_year": {
+          "value": 112390000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        },
+        "two_years_prior": {
+          "value": 84293000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 132170000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        },
+        "previous_year": {
+          "value": 100118000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        },
+        "two_years_prior": {
+          "value": 73795000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "as_of": "2026-02-05"
+        }
+      },
+      "ebitda": {
+        "value": null,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-19T11:13:37.077606+00:00"
+      },
+      "ebit": {
+        "value": 129039000000.0,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-19T11:13:37.077606+00:00"
+      },
+      "gross_profit": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "profit_before_tax": {
+        "value": 158826000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-19T11:13:37.077606+00:00"
+      },
+      "depreciation_amortization": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "income_tax_expense": {
+        "value": 26656000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "earnings_per_share": {
+        "value": 10.81,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "operating_cash_flow": {
+        "value": 164713000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "capital_expenditure": {
+        "value": 91447000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "total_assets": {
+        "value": 595281000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "total_liabilities": {
+        "value": 180016000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "current_assets": {
+        "value": 206038000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "current_liabilities": {
+        "value": 102745000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "shareholders_equity": {
+        "value": 415265000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 30708000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "total_debt": {
+        "value": 48543000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "dividend": {
+        "value": 0.83,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "share_count": {
+        "value": 12088000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "revenue": {
+            "value": 307394000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "operating_income": {
+            "value": 84293000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "net_income": {
+            "value": 73795000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "ebitda": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": "We believe our approach to AI must be both bold and responsible, developing AI in a way that maximizes the positive benefits to society while addressing its potential challenges.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": "We require our suppliers and business partners to comply with laws and, where applicable, our company policies and practices, such as the Google Supplier Code of Conduct, regarding workplace and employment practices, data security, environmental compliance, and intellectual property licensing.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "Alphabet is a collection of businesses, the largest of which is Google. Google is reported in two segments: Google Services and Google Cloud. All non-Google businesses are collectively reported as Other Bets.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "Sundar Pichai",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "designation": {
+            "value": "Chief Executive Officer and Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Pichai Sundararajan, better known as Sundar Pichai, is an Indian\u2013American business executive who has been the CEO of Google since 2015 and the CEO of its parent company Alphabet Inc. since 2019.",
+            "source": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+            "as_of": "2026-08-19T11:13:54.023329+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Sundar%20Pichai%20Alphabet%20Inc.",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Sundar%20Pichai%20Alphabet%20Inc.",
+            "as_of": "2026-08-19T11:13:54.023329+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg/330px-Sundar_Pichai_-_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+            "as_of": "2026-08-19T11:13:54.023329+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "Anat Ashkenazi",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "designation": {
+            "value": "Senior Vice President and Chief Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "\n\nAnat Ashkenazi is an Israeli-American business executive and is current chief financial officer of Alphabet Inc. and its subsidiary Google. She had previously worked at Eli Lilly and Company since 2001, finishing as CFO there. Lily's market cap tripled during her three year tenure as CFO. In 2025, Ashkenazi was ranked 51 on a list of most powerful women by Fortune.",
+            "source": "https://en.wikipedia.org/wiki/Anat_Ashkenazi",
+            "as_of": "2026-08-19T11:13:54.148723+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Anat%20Ashkenazi%20Alphabet%20Inc.",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Anat%20Ashkenazi%20Alphabet%20Inc.",
+            "as_of": "2026-08-19T11:13:54.148723+00:00"
+          },
+          "photo_url": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ],
+      "technology_team": [
+        {
+          "name": {
+            "value": "Sundar Pichai",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "designation": {
+            "value": "Alphabet and Google CEO",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Leads Alphabet and Google, overseeing the company's AI-first strategy and business segments.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ]
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "Artificial Intelligence (AI)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Core Technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "A foundational platform shift used across products, research, and infrastructure.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Tensor Processing Units (TPUs)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Hardware",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Custom-built AI accelerators, including the seventh-generation Ironwood TPU.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Graphics Processing Units (GPUs)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Hardware",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Specialized hardware used as AI accelerators in data centers.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Gemini",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "AI Model",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "A multimodal AI model used for reasoning, coding, and integration across Google products.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Android",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Mobile operating system platform.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Chrome",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Software",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Browser and operating system platform.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Vertex AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Developer Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "A fully managed AI development platform for accessing, tuning, and deploying models.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Quantum computing",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Frontier Technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "An area of long-term investment for future applications.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Autonomous driving technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "Transportation",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Technology developed by Waymo for fully autonomous ride-hailing services.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "technology": {
+            "value": "Large language models",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "category": {
+            "value": "AI Model",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Models used to improve natural language queries and search quality.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ],
+      "technology_initiatives": [
+        {
+          "date": {
+            "value": "2016",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "AI-first company transition",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "Google transitioned to become an AI-first company.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Gemini 3",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "An intelligent AI model designed for advanced multimodal understanding, agentic and generative coding, and enhanced reasoning.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Ironwood TPU",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "Seventh-generation custom-built Tensor Processing Unit for AI acceleration.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Waymo",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "Fully autonomous driving technology company providing paid ride-hailing services.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Isomorphic Labs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "Applying AI to accelerate the drug discovery process.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Vertex AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "A fully managed AI development platform for accessing, tuning, augmenting, and deploying custom models and agents.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Gemini Enterprise",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "A platform for teams to discover, create, share, and run AI agents to automate workflows.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "title": {
+            "value": "Gemini for Google Workspace",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "details": {
+            "value": "AI-powered agents integrated into Gmail, Docs, Sheets, and other workspace tools.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ],
+      "cloud_technologies": {
+        "value": "Google Cloud Platform and Google Workspace offerings, including AI-optimized infrastructure, developer platforms, and cloud services.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "ai_and_ml": {
+        "value": "Full-stack approach including AI-optimized infrastructure (TPUs, GPUs), Gemini models, Vertex AI, and AI-powered agents for enterprise and workspace.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "data_and_analytics": {
+        "value": "Data platform unifying data lakes, data warehouses, data governance, and advanced machine learning to analyze data using AI models.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "cybersecurity": {
+        "value": "AI-powered threat intelligence and cybersecurity solutions to detect, analyze, protect against, and respond to threats.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "digital_platforms": {
+        "value": "Android, Chrome, Google Play, YouTube, and various advertising platforms.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "automation": {
+        "value": "AI agents and Gemini-powered tools to automate workflows and drive business outcomes.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": "brands and agencies",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "partnership_type": {
+            "value": "advertising partnerships",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Building deep partnerships with brands and agencies to power digital marketing businesses.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "partner": {
+            "value": "Google Network partners",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "partnership_type": {
+            "value": "advertising network",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Google Services generates revenues by delivering advertising that appears on Google Network partners' properties.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "partner": {
+            "value": "content creators",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "partnership_type": {
+            "value": "content creation",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Working with content creators to build new ways for people to create and find digital content.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-02-05"
+          },
+          "acquisition_value": {
+            "value": 1592000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-02-05"
+          },
+          "acquisition_value": {
+            "value": 2931000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-02-05"
+          },
+          "acquisition_value": {
+            "value": 495000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": "Alphabet is a collection of businesses, the largest of which is Google, structured to help each business prosper through strong leaders and independence. The company focuses on building helpful products, investing in moonshots, and maintaining an AI-first approach.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "strategic_priorities": {
+        "value": "Building the most advanced, safe, and responsible AI; protecting the privacy and security of products, users, and customers; investing in long-term frontier technologies; and maintaining a culture that supports high-level performance.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "growth_strategy": {
+        "value": "Driving growth through AI innovation across products and platforms, expanding Google Cloud offerings, scaling Other Bets, and continuing to invest in advertising technologies and consumer subscriptions.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "digital_strategy": {
+        "value": "Embedding generative AI and Gemini models into products and platforms to improve user experience, discovery, and content creation, while leveraging AI to enhance advertising effectiveness.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "technology_strategy": {
+        "value": "A full-stack approach to AI, spanning AI-optimized infrastructure (including custom TPUs and specialized GPUs), world-class research, and AI-integrated products and platforms.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "market_expansion_strategy": {
+        "value": "Expanding Google Cloud services to enterprise customers, scaling commercialization of Other Bets (such as Waymo), and growing international operations.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "investment_priorities": {
+        "value": "Significant investment in research and development (over $200 billion in the last five years), technical infrastructure (data centers, AI accelerators), and new businesses/technologies beyond online advertising.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "management_outlook": {
+        "value": "Management views AI as a profound platform shift and remains committed to long-term investment in AI and other frontier technologies, despite inherent risks and potential near-term financial consequences of privacy and security initiatives.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Dependence on advertising revenue",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Reduced spending by advertisers, loss of partners, or shifts in advertising technology could harm business and financial results.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Over 70% of revenue comes from online advertising, making the company vulnerable to market shifts and advertiser behavior.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Rapid evolution of AI technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Failure to adapt effectively could lead to loss of competitiveness and failure of new advertising formats or strategies.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "AI is reshaping the industry, requiring constant adjustment and significant investment in infrastructure and R&D.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Ad-blocking and privacy technologies",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Impaired ability to personalize ads and reduced availability of third-party digital advertising.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Technologies that block ads or restrict data collection make it harder to deliver effective, personalized advertising.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Macroeconomic conditions",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Fluctuations in advertiser spending, which correlates with overall economic health.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Ad expenditures are sensitive to the broader economic environment, which can negatively impact financial condition.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Investment in new businesses and technologies",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Diversion of management attention, potential for unanticipated liabilities, and risk of inadequate return on capital.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Expanding into new industries is inherently risky and may not result in commercially viable products.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Intense competition",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Pressure on pricing, potential loss of market share, and the need for constant innovation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "The company faces competition from established firms and startups across all sectors, including cloud and AI.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Regulatory scrutiny and compliance",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Increased costs, potential legal/financial/reputational risks, and limitations on business practices.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Heightened global scrutiny regarding AI, data privacy, and competition requires significant compliance efforts.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Infrastructure and operational costs",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Downward pressure on operating margins and increased financial liabilities.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Building and maintaining AI-optimized infrastructure and cloud services involves significant, increasing costs.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Revenue growth and margin pressure",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "impact": {
+            "value": "Potential decline in growth rates and compression of operating margins.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          },
+          "brief": {
+            "value": "Factors like product mix shifts, increased competition, and higher infrastructure costs may impact future profitability.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+            "as_of": "2026-02-05"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": "Alphabet has invested more than $200 billion in research and development over the last five years. The company continues to invest significant resources in technical infrastructure, including the development of custom Tensor Processing Units (TPUs), and research and development to enhance its technology, products, and services. This includes building AI-optimized infrastructure, integrating AI capabilities into products, and expanding investments in property and equipment, such as technical infrastructure, to support AI training, inference, and cloud computing services.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "Technology",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "competitive_landscape_description": {
+        "value": "The company faces competition from general and vertical search engines, e-commerce providers, online advertising platforms, traditional media, digital content and application platform providers, enterprise cloud service providers, AI model developers, consumer hardware manufacturers, digital video services, social networks, and workspace communication providers.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "as_of": "2026-02-05"
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": "2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "as_of": "2026-07-23"
+    },
+    "revenue": {
+      "value": 119796000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "as_of": "2026-07-23"
+    },
+    "operating_income": {
+      "value": 40770000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "as_of": "2026-07-23"
+    },
+    "net_income": {
+      "value": 112193000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "as_of": "2026-07-23"
+    },
+    "ebitda": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "eps": {
+      "value": 9.11,
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "as_of": "2026-07-23"
+    },
+    "cash_flow": {
+      "value": 84859000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "as_of": "2026-07-23"
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 15.09,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "operating_income_growth": {
+      "value": 14.81,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "net_income_growth": {
+      "value": 32.01,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "operating_margin": {
+      "value": 0.3203,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "net_margin": {
+      "value": 0.3281,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "gross_margin": {
+      "value": null,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "free_cash_flow": {
+      "value": 73266000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "net_debt": {
+      "value": 17835000000.0,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "roe": {
+      "value": 0.3183,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "roa": {
+      "value": 0.222,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "debt_to_equity": {
+      "value": 0.1169,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "current_ratio": {
+      "value": 2.0053,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-19T11:13:37.077606+00:00"
+    },
+    "quarterly_revenue_growth": {
+      "value": 24.23,
+      "formula": "yoy % change on quarterly revenue (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-19T11:14:02.236523+00:00"
+    },
+    "quarterly_net_income_growth": {
+      "value": 297.9,
+      "formula": "yoy % change on quarterly net income (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-19T11:14:02.236523+00:00"
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Strong financial performance and growth",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Alphabet reported a current year revenue of $402.84 billion with a 15.09% revenue growth rate and a net income of $132.17 billion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Dominant market position in advertising",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Google advertising accounts for 73.15% of total revenue, generating $294.69 billion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High profitability and cash flow",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The company maintains an operating margin of 32.03% and generated $73.27 billion in free cash flow.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Rapidly expanding cloud business",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Google Cloud achieved a 35.8% growth rate, contributing $58.71 billion in revenue.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "High concentration of revenue in advertising",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Over 70% of revenue is derived from online advertising, creating vulnerability to market shifts and advertiser behavior.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Declining performance in specific segments",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The Google Network segment experienced a negative growth rate of -1.87%, and Other Bets saw a decline of -6.74%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High capital expenditure requirements",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The company reported $91.45 billion in capital expenditure, driven by the need to build and maintain AI-optimized infrastructure.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "AI-driven product innovation",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The company is embedding generative AI and Gemini models into products and platforms to improve user experience and advertising effectiveness.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Expansion of enterprise cloud services",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The growth strategy explicitly includes expanding Google Cloud offerings to enterprise customers.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Scaling of Other Bets",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The company continues to invest in the commercialization of frontier technologies like Waymo autonomous transportation.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Regulatory and legal risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "The company faces heightened global scrutiny regarding AI, data privacy, and competition, which requires significant compliance efforts and poses potential legal/financial risks.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Intense competitive landscape",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Alphabet faces competition from a wide array of firms including general search engines, e-commerce providers, AI model developers, and enterprise cloud service providers.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Privacy and ad-blocking technologies",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Technologies that block ads or restrict data collection impair the company's ability to personalize ads and reduce the availability of third-party digital advertising.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Macroeconomic sensitivity",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          },
+          "evidence": {
+            "value": "Ad expenditures are sensitive to the broader economic environment, which can negatively impact the company's financial condition.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:14:02.477046+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "demand_trend": {
+        "value": "Strong",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "technology_adoption": {
+        "value": "Rapid",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "spending_trend": {
+        "value": "Aggressive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Restrictive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "competitive_intensity": {
+        "value": "Very High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "outlook": {
+        "value": "Positive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      }
+    },
+    "industry_forecast": {
+      "value": "Alphabet is positioned for sustained near-term growth, primarily driven by the rapid 35.8% expansion of its Google Cloud segment and continued innovation in AI-integrated products. While the company remains heavily reliant on its core advertising business, which grew by 11.38%, strategic investments in AI infrastructure and enterprise cloud services are expected to offset competitive pressures and regulatory challenges. The firm's focus on scaling frontier technologies and diversifying revenue through subscriptions and platforms provides a robust foundation for navigating the evolving digital landscape.",
+      "source": "synthesized: LLM analysis over extracted + enriched data",
+      "as_of": "2026-08-19T11:14:02.477046+00:00"
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": 4209543741440,
+        "source": "yfinance:info: GOOGL",
+        "as_of": "2026-08-19T11:13:41.867338+00:00"
+      },
+      "share_price": {
+        "value": 344.2,
+        "source": "yfinance:info: GOOGL",
+        "as_of": "2026-08-19T11:13:41.867338+00:00"
+      },
+      "shares_outstanding": {
+        "value": 5867155790,
+        "source": "yfinance:info: GOOGL",
+        "as_of": "2026-08-19T11:13:41.867338+00:00"
+      },
+      "stock_exchange": {
+        "value": "NMS",
+        "source": "yfinance:info: GOOGL",
+        "as_of": "2026-08-19T11:13:41.867338+00:00"
+      },
+      "ticker": {
+        "value": "GOOGL",
+        "source": "yfinance:info: GOOGL",
+        "as_of": "2026-08-19T11:13:41.867338+00:00"
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": "2026-08-18T11:00:00Z",
+            "source": "http://9to5google.com/2026/08/18/inbox-newsletter-11/",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "title": {
+            "value": "Google\u2019s got Spirit (yes it does)",
+            "source": "http://9to5google.com/2026/08/18/inbox-newsletter-11/",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "summary": {
+            "value": "Good morning. I hope you had a wonderful weekend. Today I\u2019m reading more about Anthropic\u2019s strange new text watermarking process, watching this historic Joshua Ba\u00e9z home run recap on repeat, listening to the incredible new Phoebe Bridgers album, and getting s\u2026",
+            "source": "http://9to5google.com/2026/08/18/inbox-newsletter-11/",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "http://9to5google.com/2026/08/18/inbox-newsletter-11/",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "url": {
+            "value": "http://9to5google.com/2026/08/18/inbox-newsletter-11/",
+            "source": "http://9to5google.com/2026/08/18/inbox-newsletter-11/",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T11:00:00Z",
+            "source": "https://www.seroundtable.com/photos/creepy-robot-by-google-window-41797.html",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "title": {
+            "value": "Creepy Robot By GooglePlex Window",
+            "source": "https://www.seroundtable.com/photos/creepy-robot-by-google-window-41797.html",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "summary": {
+            "value": "Here is a photo of that creepy looking robot standing by one of the big windows at the Google office in Mountain View, California - the GooglePlex.I found this on Instagram.This post is part of our daily Search Photo of the Day column, where we find fun and i\u2026",
+            "source": "https://www.seroundtable.com/photos/creepy-robot-by-google-window-41797.html",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.seroundtable.com/photos/creepy-robot-by-google-window-41797.html",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "url": {
+            "value": "https://www.seroundtable.com/photos/creepy-robot-by-google-window-41797.html",
+            "source": "https://www.seroundtable.com/photos/creepy-robot-by-google-window-41797.html",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T10:56:18Z",
+            "source": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba4fbf49-2215-4211-a2d4-639182aee145",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "title": {
+            "value": "Google Just Bought 100 Million Emails From a Dead Airline for $10 Million",
+            "source": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba4fbf49-2215-4211-a2d4-639182aee145",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "summary": {
+            "value": "",
+            "source": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba4fbf49-2215-4211-a2d4-639182aee145",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba4fbf49-2215-4211-a2d4-639182aee145",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          },
+          "url": {
+            "value": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba4fbf49-2215-4211-a2d4-639182aee145",
+            "source": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba4fbf49-2215-4211-a2d4-639182aee145",
+            "as_of": "2026-08-19T11:13:53.310601+00:00"
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": "The technology industry is undergoing a significant transformation driven by the rapid integration of generative AI across core platforms and enterprise cloud services. While advertising remains a dominant revenue pillar, sustained growth is increasingly dependent on scaling AI-optimized infrastructure and diversifying into high-growth subscription and cloud-based business models.",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      },
+      "growth_drivers": {
+        "value": "Generative AI innovation, cloud computing adoption, enterprise digital transformation, expansion of subscription-based services, advancements in advertising technology, scaling of autonomous transportation",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:14:02.477046+00:00"
+      }
+    },
+    "competitors": {
+      "key_competitors": []
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": "2026-08-18T05:00:42Z",
+            "source": "https://www.geeky-gadgets.com/pixel-11-pro-fold-vs-galaxy-z-fold-8/",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          },
+          "award": {
+            "value": "Google Pixel 11 Pro Fold vs Samsung Galaxy Z Fold 8: Which Should You Buy?",
+            "source": "https://www.geeky-gadgets.com/pixel-11-pro-fold-vs-galaxy-z-fold-8/",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          },
+          "brief": {
+            "value": "Foldable smartphones have evolved from niche gadgets into mainstream devices that showcase the forefront of technological innovation. The Pixel 11 Pro Fold and Galaxy Z Fold 8, both priced at $1,900, represent the apex of this evolution. These devices cater t\u2026",
+            "source": "https://www.geeky-gadgets.com/pixel-11-pro-fold-vs-galaxy-z-fold-8/",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T04:02:17Z",
+            "source": "https://biztoc.com/x/35d7ab52a1644693",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          },
+          "award": {
+            "value": "Google wins $10M bid for Spirit Airlines data",
+            "source": "https://biztoc.com/x/35d7ab52a1644693",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          },
+          "brief": {
+            "value": "The assets include pricing data from 7.2 billion competing flights and 7.5 billion passenger transactions, but exclude customers\u2019 personal information.",
+            "source": "https://biztoc.com/x/35d7ab52a1644693",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-17T23:40:53Z",
+            "source": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          },
+          "award": {
+            "value": "Google pays $10M to get its hands on Spirit Airlines\u2019 business data for AI training",
+            "source": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          },
+          "brief": {
+            "value": "Alphabet Inc.\u2019s Google LLC has won an auction to acquire massive volumes of internal business data from the bankrupt airline operator Spirit Airlines Inc. for a hefty $10 million price. A report by Bloomberg says that Google outbid a number of competitors to \u2026",
+            "source": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+            "as_of": "2026-08-19T11:13:53.765127+00:00"
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": "ALPHABET LANDSCAPING AND MAINTENANCE, LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2026-05-10",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2027-05-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "GROUNDS MAINTENANCE SERVICES - STATEN ISLAND, NY (NY024) \u2014 contract value $21,702",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "ALPHABET LANDSCAPING AND MAINTENANCE, LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2026-04-07",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2027-04-06",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "GROUNDS MAINTENANCE SERVICES IN BULLVILLE, NY (NY011) \u2014 contract value $18,972",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "VERILY LIFE SCIENCES LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2024-09-25",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2025-05-01",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "VERILY LIFE SCIENCES LLC:1478747 [24-006978] \u2014 contract value $250,000",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "VERILY LIFE SCIENCES LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2024-01-12",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2026-09-14",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "WASTEWATER SURVEILLANCE TESTING \u2014 contract value $42,317,282",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "VERILY LIFE SCIENCES LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2023-11-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2024-02-06",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "WASTEWATER SURVEILLANCE TESTING \u2014 contract value $2,772,391",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "VERILY LIFE SCIENCES LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2023-09-26",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2025-04-22",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "WASTEWATER TESTING \u2014 contract value $675,039",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "ALPHABET SIGNS INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2025-11-29",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2025-11-29",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "SAMPLE SIGNS FOR OB3 PROJECTS \u2014 contract value $425",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "ALPHABET MEDIA GROUP INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2022-09-14",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2026-04-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "THE PROJECT SHALL BE THE PRODUCTION OF INTERPRETIVE FILMS FOR THE MOUNT RUSHMORE NATIONAL MEMORIAL IN SOUTH DAKOTA. \u2014 contract value $987,100",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "ALPHABET MEDIA GROUP INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2022-09-15",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2025-09-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "HAFC CANY FILMS \u2014 contract value $310,490",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "ALPHABET MEDIA GROUP INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "start_date": {
+            "value": "2021-11-23",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "end_date": {
+            "value": "2024-11-01",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          },
+          "contract_details": {
+            "value": "ANTIETAM NATIONAL BATTLEFIELD (ANTI) FILM AND VIDEO WALL \u2014 contract value $488,079",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:13:55.541432+00:00"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+ "company_name": "JPMORGAN CHASE & CO",
+ "ticker": "JPM",
+ "report_year": "2026",
+ "overview": {
+  "founded": "1968",
+  "headquarters": "270 Park Avenue, New York City",
+  "employees": "318,512",
+  "revenue": "$182.4B",
+  "market_cap": "$949.7B",
+  "brief": null,
+  "brands": "J.P. Morgan, Chase",
+  "services": "investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, asset management",
+  "key_competitors": [],
+  "key_acquisitions": [
+   "2024 First Republic"
+  ]
+ },
+ "mission_vision": {
+  "mission": null,
+  "vision": null,
+  "values": null
+ },
+ "geo": {
+  "countries": "United States, U.K., India, Philippines",
+  "regions": "North America, Asia-Pacific, Europe/Middle East/Africa, Latin America/Caribbean",
+  "offices": "New York City, Columbus/Westerville, Chicago, Dallas/Plano/Fort Worth, Wilmington/Newark, Houston, Jersey City, Phoenix/Tempe, London, India, Philippines",
+  "delivery_centers": null,
+  "geographic_revenue": "{'Europe/Middle East/Africa': 24478000000.0, 'Asia-Pacific': 14065000000.0, 'Latin America/Caribbean': 4215000000.0, 'Total international': 42758000000.0, 'North America': 139689000000.0}"
+ },
+ "segments": [],
+ "sustainability": {
+  "strategy": null,
+  "goals": null,
+  "key_initiatives": null
+ },
+ "org_structure": "For management reporting purposes, the Firm has three reportable business segments Consumer Community Banking ( CCB ), Commercial Investment Bank ( CIB ) and Asset Wealth Management ( AWM ) with the remaining activities in Corporate.",
+ "leadership": [
+  {
+   "name": "James Dimon",
+   "designation": "Director, Chairman and Chief Executive Officer",
+   "brief": "James Dimon is an American businessman who has been the chairman and chief executive officer (CEO) of JPMorgan Chase since 2006.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=James%20Dimon%20JPMORGAN%20CHASE%20%26%20CO",
+   "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Chancellor_Rachel_Reeves_meets_Jamie_Dimon_%2854838700663%29_%28cropped%29_%28cropped%29.jpg/330px-Chancellor_Rachel_Reeves_meets_Jamie_Dimon_%2854838700663%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_path": "photos\\james-dimon.jpg"
+  },
+  {
+   "name": "Jeremy Barnum",
+   "designation": "Executive Vice President and Chief Financial Officer",
+   "brief": null,
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Jeremy%20Barnum%20JPMORGAN%20CHASE%20%26%20CO",
+   "photo_url": null
+  }
+ ],
+ "technology_team": [],
+ "swot": {
+  "strengths": [
+   {
+    "point": "Strong revenue generation and scale",
+    "evidence": "The company reported annual revenue of $182.447 billion for the current year.",
+    "detail": null
+   },
+   {
+    "point": "Significant asset base",
+    "evidence": "JPMorgan Chase & Co. maintains total assets of $4.4249 trillion.",
+    "detail": null
+   },
+   {
+    "point": "Solid profitability metrics",
+    "evidence": "The company achieved a net income of $57.048 billion and a return on equity (ROE) of 15.74%.",
+    "detail": null
+   },
+   {
+    "point": "Diversified service offerings",
+    "evidence": "The company operates across investment banking, consumer financial services, commercial banking, and asset management.",
+    "detail": null
+   }
+  ],
+  "weaknesses": [
+   {
+    "point": "Negative net income growth",
+    "evidence": "Net income declined by 2.43% compared to the previous year.",
+    "detail": null
+   },
+   {
+    "point": "Complex financial reporting risks",
+    "evidence": "The company faces challenges regarding the inherent limitations of internal control over financial reporting, which may fail to prevent or detect misstatements.",
+    "detail": null
+   },
+   {
+    "point": "Subjectivity in asset valuation",
+    "evidence": "The fair value measurement of Level 3 financial instruments relies on internally developed models and significant unobservable inputs, creating a high degree of subjectivity.",
+    "detail": null
+   }
+  ],
+  "opportunities": [
+   {
+    "point": "Revenue growth potential",
+    "evidence": "The company demonstrated a revenue growth rate of 2.75% year-over-year.",
+    "detail": null
+   },
+   {
+    "point": "Strong quarterly momentum",
+    "evidence": "The company reported a quarterly net income growth of 41.16%.",
+    "detail": null
+   }
+  ],
+  "threats": [
+   {
+    "point": "Highly competitive industry landscape",
+    "evidence": "The company operates in a landscape that includes brokerage firms, hedge funds, private equity, insurance companies, and digital asset/fintech companies.",
+    "detail": null
+   },
+   {
+    "point": "Macroeconomic sensitivity in credit loss estimation",
+    "evidence": "Estimating loan losses requires a weighted average of five macroeconomic scenarios, including volatile variables like unemployment and GDP growth.",
+    "detail": null
+   },
+   {
+    "point": "Operational and compliance risks",
+    "evidence": "Internal controls are subject to potential deterioration of compliance over time and human error, which could impact financial statement accuracy.",
+    "detail": null
+   }
+  ]
+ },
+ "financials_annual": {
+  "revenue": {
+   "current": 182447000000.0,
+   "previous": 177556000000.0,
+   "two_prior": 158104000000.0
+  },
+  "operating_income": {
+   "current": null,
+   "previous": null,
+   "two_prior": null
+  },
+  "net_income": {
+   "current": 57048000000.0,
+   "previous": 58471000000.0,
+   "two_prior": 49552000000.0
+  },
+  "financial_year": "2025",
+  "highlights": {
+   "ebitda": null,
+   "gross_profit": null,
+   "eps": 20.02,
+   "revenue_growth": null,
+   "operating_margin": null,
+   "net_margin": null,
+   "free_cash_flow": null,
+   "roe": null
+  },
+  "historical_years": [
+   {
+    "year": "2023",
+    "revenue": 158104000000.0,
+    "net_income": 49552000000.0
+   }
+  ]
+ },
+ "financials_quarterly": {
+  "quarter": "2026-06-30",
+  "revenue": null,
+  "operating_income": null,
+  "net_income": "$21.2B",
+  "ebitda": null,
+  "eps": 7.7,
+  "cash_flow": "$-237.0B",
+  "revenue_growth": null,
+  "net_income_growth": null
+ },
+ "acquisitions": [
+  {
+   "year": "2024",
+   "company_name": "First Republic",
+   "brief": null,
+   "value": "67865000000"
+  }
+ ],
+ "competitors": [],
+ "awards": [],
+ "challenges": [
+  {
+   "challenge": "Allowance for loan losses estimation",
+   "impact": "Significant judgment required in estimating expected credit losses over the remaining life of loan portfolios, affecting financial statement accuracy.",
+   "brief": "Management must estimate credit losses using a weighted average of five macroeconomic scenarios over an eight-quarter forecast period, involving complex variables like unemployment and GDP growth."
+  },
+  {
+   "challenge": "Fair value measurement of Level 3 financial instruments",
+   "impact": "High degree of subjectivity and complexity in valuation, as these instruments rely on internally developed models and significant unobservable inputs.",
+   "brief": "Valuing certain deposits, short-term borrowings, and long-term debt requires complex models (e.g., option pricing, discounted cash flows) and unobservable inputs like volatility and correlation."
+  },
+  {
+   "challenge": "Inherent limitations of internal control over financial reporting",
+   "impact": "Controls may fail to prevent or detect misstatements, or may become inadequate due to changing conditions or deterioration in compliance.",
+   "brief": "Internal controls provide reasonable, not absolute, assurance; they are subject to human error, changes in conditions, and potential deterioration of compliance over time."
+  }
+ ],
+ "news": {
+  "Partnership": [
+   {
+    "date": null,
+    "title": null,
+    "summary": null,
+    "url": null
+   }
+  ],
+  "Products/Technology": [],
+  "Recognition": []
+ },
+ "it_spending": null,
+ "deals": [
+  {
+   "vendor": "J. P. MORGAN INVESTMENT MANAGEMENT INC.",
+   "start_date": "2016-04-01",
+   "end_date": "2020-11-12",
+   "contract_details": "IGF::CT::IGF PORTFOLIO MANAGEMENT SERVICES \u2014 contract value $17,022,968"
+  },
+  {
+   "vendor": "EVONIK CORP",
+   "start_date": "2016-09-30",
+   "end_date": "2018-05-17",
+   "contract_details": "IGF::OT::IGF H2O2 250 GAL OF 35% AND 450 GAL OF 90% TO MIL-PRF-16005F TYPE 90, GRADE HP \u2014 contract value $43,681"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2013-06-19",
+   "end_date": "2019-05-05",
+   "contract_details": "::IGF::OT::IGF:: DHS BANK CARD PROGRAM. \u2014 contract value $0"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2017-09-29",
+   "end_date": "2017-10-29",
+   "contract_details": "ME STUFF \u2014 contract value $9,718"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2017-09-22",
+   "end_date": "2018-04-11",
+   "contract_details": "LADDER REPLACEMENT \u2014 contract value $16,970"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2017-09-29",
+   "end_date": "2018-04-11",
+   "contract_details": "TOOLS FOR ENG \u2014 contract value $11,009"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2016-04-25",
+   "end_date": "2019-02-08",
+   "contract_details": "FOR FUEL, MAINTENANCE&REPAIR OF DHHS/NIH FLEET VEHICLES&EQUIPMENT IGF::OT::IGF \u2014 contract value $3,149,036"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2014-08-04",
+   "end_date": "2014-08-29",
+   "contract_details": "IGF::CL::IGF  FOR FUEL, SUPPLIES, MAINTENANCE AND REPAIRS OF DHHS/NIH VEHICLES AND EQUIPMENT. HHSN263201300004U, HHSN263201100128U HHSN263201200067U HHSN263200900094U \u2014 contract value $299,895"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2014-04-21",
+   "end_date": "2014-05-15",
+   "contract_details": "FOR FUEL, SUPPLIES, MAINTENANCE AND REPAIRS OF DHHS/NIH VEHICLES AND EQUIPMENT. HHSN263201300004U, HHSN263201100128U HHSN263201200067U HHSN263200900094U \u2014 contract value $335,609"
+  },
+  {
+   "vendor": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "start_date": "2010-03-02",
+   "end_date": "2016-03-01",
+   "contract_details": "BANKING CONTRACT FOR MEDICARE CLAIMS PROCESSORS, WORKLOAD B \u2014 contract value $5,346,509"
+  }
+ ],
+ "tech_initiatives": [
+  {
+   "date": null,
+   "title": "Artificial Intelligence Training",
+   "details": "The Firm offers voluntary training programs and educational resources to all employees covering topics such as artificial intelligence."
+  },
+  {
+   "date": null,
+   "title": "Data Literacy Training",
+   "details": "The Firm offers voluntary training programs and educational resources to all employees covering topics such as data literacy."
+  }
+ ],
+ "technologies_in_use": [
+  {
+   "technology": "Artificial intelligence",
+   "category": "Emerging Technology",
+   "brief": "The Firm offers voluntary training programs and educational resources to employees covering topics such as artificial intelligence."
+  },
+  {
+   "technology": "Trade surveillance platforms",
+   "category": "Compliance Technology",
+   "brief": "The Firm maintains processes to inventory trading venues and confirm the completeness of data fed to these platforms."
+  },
+  {
+   "technology": "Payment systems",
+   "category": "Financial Infrastructure",
+   "brief": "JPMEL is regulated by the U.K. Payment Systems Regulator with respect to its operation and use of payment systems."
+  }
+ ],
+ "industry_indicators": {
+  "growth_rating": "Moderate",
+  "demand_trend": "Stable",
+  "technology_adoption": "High",
+  "spending_trend": "Increasing",
+  "regulatory_environment": "Strict",
+  "competitive_intensity": "Very High",
+  "outlook": "Stable"
+ },
+ "industry_forecast": {
+  "industry": "financial services",
+  "market_size": null,
+  "market_size_year": null,
+  "competitive_landscape": "Highly competitive environment including other banks, brokerage firms, investment banking companies, merchant banks, hedge funds, commodity trading companies, private equity firms, insurance companies, mutual fund companies, investment managers, credit card companies, mortgage banking companies, trust companies, securities processing companies, automobile financing companies, leasing companies, e-commerce and other internet-based companies, digital asset and other financial technology companies.",
+  "forecast": "JPMorgan Chase is positioned for a steady near-term growth trajectory, evidenced by a 2.75% increase in annual revenue. The firm's performance remains driven by its diversified presence across investment banking, consumer financial services, and asset management within a highly competitive landscape. Future growth will depend on navigating complex financial reporting requirements and managing credit loss estimations amidst evolving macroeconomic conditions.",
+  "growth_drivers": "digital transformation, expansion of financial technology services, increased demand for asset management, corporate and consumer credit growth, global transaction processing volume"
+ }
+}

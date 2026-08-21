@@ -1,0 +1,1555 @@
+{
+  "metadata": {
+    "company": {
+      "value": "Apple Inc.",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "as_of": "2025-10-31"
+    },
+    "cik": {
+      "value": 320193,
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "as_of": "2025-10-31"
+    },
+    "ticker": {
+      "value": "AAPL",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "as_of": "2025-10-31"
+    },
+    "annual_report_year": {
+      "value": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "as_of": "2025-10-31"
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "as_of": "2025-10-31"
+    },
+    "extraction_date": {
+      "value": "2026-08-19T11:03:37.804578+00:00",
+      "source": "system",
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "Apple Inc.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "founded_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "headquarters": {
+        "value": "Cupertino, California",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "revenue": {
+        "value": 416161000000.0,
+        "source": "alias of financials.revenue.current_year (https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm)",
+        "as_of": "2025-10-31"
+      },
+      "employees": {
+        "value": "approximately 166,000 full-time equivalent employees",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "brands": {
+        "value": "iPhone, Mac, MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, Mac Pro, iPad, iPad Pro, iPad Air, iPad mini, Apple Watch, AirPods, Beats, Apple Vision Pro, Apple TV 4K, HomePod, AppleCare, Apple Arcade, Apple Fitness+, Apple Music, Apple News+, Apple TV, Apple Card, Apple Pay",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "services": {
+        "value": "advertising services, AppleCare, cloud services, digital content (App Store, Apple Arcade, Apple Fitness+, Apple Music, Apple News+, Apple TV), payment services (Apple Card, Apple Pay)",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": "U.S. and various places outside the U.S.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "regions": {
+        "value": "Americas, Europe, Greater China, Japan, Rest of Asia Pacific",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "offices": {
+        "value": "facilities and land for corporate functions, R D, data centers, retail and other purposes",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_revenue": {
+        "value": {
+          "U.S.": 151790000000.0,
+          "China": 64377000000.0,
+          "Other countries": 199994000000.0
+        },
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_segments": {
+      "segments": []
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2025.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 416161000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        },
+        "previous_year": {
+          "value": 391035000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        },
+        "two_years_prior": {
+          "value": 383285000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": 133050000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        },
+        "previous_year": {
+          "value": 123216000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        },
+        "two_years_prior": {
+          "value": 114301000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 112010000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        },
+        "previous_year": {
+          "value": 93736000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        },
+        "two_years_prior": {
+          "value": 96995000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "as_of": "2025-10-31"
+        }
+      },
+      "ebitda": {
+        "value": 144748000000.0,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-19T11:08:19.273236+00:00"
+      },
+      "ebit": {
+        "value": 133050000000.0,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-19T11:08:19.273236+00:00"
+      },
+      "gross_profit": {
+        "value": 195201000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "profit_before_tax": {
+        "value": 132729000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-19T11:08:19.273236+00:00"
+      },
+      "depreciation_amortization": {
+        "value": 11698000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "income_tax_expense": {
+        "value": 20719000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "earnings_per_share": {
+        "value": 7.46,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "operating_cash_flow": {
+        "value": 111482000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "capital_expenditure": {
+        "value": 12715000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "total_assets": {
+        "value": 359241000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "total_liabilities": {
+        "value": 285508000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "current_assets": {
+        "value": 147957000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "current_liabilities": {
+        "value": 165631000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "shareholders_equity": {
+        "value": 73733000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 35934000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "total_debt": {
+        "value": 90678000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "dividend": {
+        "value": 1.02,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "share_count": {
+        "value": 14773260000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "revenue": {
+            "value": 383285000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "operating_income": {
+            "value": 114301000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "net_income": {
+            "value": 96995000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "ebitda": {
+            "value": 125999000000.0,
+            "source": "derived (approximate): historical_year.operating_income + CURRENT year depreciation_amortization (no per-year D&A available in this filing's XBRL comparatives) \u2014 financials.operating_income.current_year + financials.depreciation_amortization",
+            "as_of": "2026-08-19T11:08:19.273236+00:00"
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "The Company manages its business primarily on a geographic basis. The Company s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "Timothy D. Cook",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "designation": {
+            "value": "Chief Executive Officer and Director (Principal Executive Officer)",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Timothy Donald Cook is an American business executive who has served as the chief executive officer (CEO) of Apple since 2011. He had previously been the company's chief operating officer under its co-founder Steve Jobs. Cook joined Apple in March 1998 as a senior vice president for worldwide operations, and then as vice president for worldwide sales and operations. He was appointed chief executive of Apple on August 24, 2011, after Jobs resigned.",
+            "source": "https://en.wikipedia.org/wiki/Tim_Cook",
+            "as_of": "2026-08-19T11:08:25.521642+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Timothy%20D.%20Cook%20Apple%20Inc.",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Timothy%20D.%20Cook%20Apple%20Inc.",
+            "as_of": "2026-08-19T11:08:25.521642+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tim_Cook_March_2026_%28cropped_2%29.jpg/330px-Tim_Cook_March_2026_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://en.wikipedia.org/wiki/Tim_Cook",
+            "as_of": "2026-08-19T11:08:25.521642+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "Kevan Parekh",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "designation": {
+            "value": "Senior Vice President, Chief Financial Officer (Principal Financial Officer)",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Kevan Parekh is an American business executive who has been the chief financial officer of Apple Inc. since January 2025. Prior to this, he worked in other positions at Apple for eleven years, including as vice president of Financial Planning and Analysis. Parekh had previously worked at Thomson Reuters and General Motors.",
+            "source": "https://en.wikipedia.org/wiki/Kevan_Parekh",
+            "as_of": "2026-08-19T11:08:25.732874+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Kevan%20Parekh%20Apple%20Inc.",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Kevan%20Parekh%20Apple%20Inc.",
+            "as_of": "2026-08-19T11:08:25.732874+00:00"
+          },
+          "photo_url": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        }
+      ],
+      "technology_team": []
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "iOS",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Operating system for the iPhone line of smartphones.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "macOS",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Operating system for the Mac line of personal computers.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "iPadOS",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Operating system for the iPad line of multipurpose tablets.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "watchOS",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Operating system for the Company's line of smartwatches.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "visionOS",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Operating system for the Apple Vision Pro spatial computer.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "tvOS",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Operating system for the Apple TV 4K media streaming and gaming device.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "Cloud Services",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Software Service",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Services to store and keep customer content up-to-date across multiple devices.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "App Store",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Digital Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Platform for customers to discover and download applications and digital content.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "technology": {
+            "value": "Apple Pay",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "category": {
+            "value": "Payment Service",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "A cashless payment service.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        }
+      ],
+      "technology_initiatives": [],
+      "cloud_technologies": {
+        "value": "The Company s cloud services store and keep customers content up-to-date and available across multiple Apple devices and Windows personal computers.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "ai_and_ml": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "data_and_analytics": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "cybersecurity": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_platforms": {
+        "value": "The Company operates various platforms, including the App Store, that allow customers to discover and download applications and digital content.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "automation": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": "third-party cellular network carriers",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "partnership_type": {
+            "value": "distribution",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Indirect distribution channel for the sale of products and certain services.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "partner": {
+            "value": "other resellers",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "partnership_type": {
+            "value": "distribution",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "Indirect distribution channel for the sale of products and certain services.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": []
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": "The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. It is focused on expanding its market opportunities related to these categories.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "strategic_priorities": {
+        "value": "The Company's ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. It also relies on the innovative skills, technical competence and marketing abilities of its personnel.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "growth_strategy": {
+        "value": "The Company continues to develop new technologies to enhance existing products and services, and to expand the range of its offerings through research and development (R&D), licensing of intellectual property and acquisition of third-party businesses and technology.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "digital_strategy": {
+        "value": "The Company operates various platforms, including the App Store, that allow customers to discover and download applications and digital content, and offers subscription-based services including Apple Arcade, Apple Fitness+, Apple Music, Apple News+ and Apple TV+.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "technology_strategy": {
+        "value": "The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "market_expansion_strategy": {
+        "value": "The Company manages its business primarily on a geographic basis (Americas, Europe, Greater China, Japan and Rest of Asia Pacific) to better align with the location of the Company's customers and distribution partners and the unique market dynamics of each geographic region.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "investment_priorities": {
+        "value": "The Company invests in research and development to ensure a continual and timely flow of competitive products, services and technologies, and invests in resources to help its people develop and achieve their career goals.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "management_outlook": {
+        "value": "The Company expects competition to intensify as competitors imitate the Company's approach to providing components seamlessly within their offerings or work collaboratively to offer integrated solutions.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Volatility and downward pressure on gross margins",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "impact": {
+            "value": "Material adverse effect on business, reputation, results of operations, financial condition and stock price",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "The company expects gross margins to face ongoing volatility and downward pressure.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Inability to accurately predict, control or mitigate risks",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "impact": {
+            "value": "Material adverse effect on business, reputation, results of operations, financial condition and stock price",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          },
+          "brief": {
+            "value": "The company acknowledges it may not be able to manage the various risks it faces.",
+            "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+            "as_of": "2025-10-31"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "smartphones, personal computers, tablets, wearables and accessories",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "competitive_landscape_description": {
+        "value": "Highly competitive, characterized by aggressive price competition, downward pressure on gross margins, continual improvement in product performance, price sensitivity, frequent introduction of new products, short product life cycles, and rapid adoption of technological advancements.",
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "as_of": "2025-10-31"
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": "2026-06-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    },
+    "revenue": {
+      "value": 109417000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    },
+    "operating_income": {
+      "value": 35695000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    },
+    "net_income": {
+      "value": 29789000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    },
+    "ebitda": {
+      "value": 45668000000.0,
+      "source": "derived (approximate): https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    },
+    "eps": {
+      "value": 2.02,
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    },
+    "cash_flow": {
+      "value": 116996000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+      "as_of": "2026-07-31"
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 6.43,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "operating_income_growth": {
+      "value": 7.98,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "net_income_growth": {
+      "value": 19.5,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "operating_margin": {
+      "value": 0.3197,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "net_margin": {
+      "value": 0.2692,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "gross_margin": {
+      "value": 0.4691,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "free_cash_flow": {
+      "value": 98767000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "net_debt": {
+      "value": 54744000000.0,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "roe": {
+      "value": 1.5191,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "roa": {
+      "value": 0.3118,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "debt_to_equity": {
+      "value": 1.2298,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "current_ratio": {
+      "value": 0.8933,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-19T11:08:19.273236+00:00"
+    },
+    "quarterly_revenue_growth": {
+      "value": 16.36,
+      "formula": "yoy % change on quarterly revenue (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-19T11:08:34.172001+00:00"
+    },
+    "quarterly_net_income_growth": {
+      "value": 27.12,
+      "formula": "yoy % change on quarterly net income (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-19T11:08:34.172001+00:00"
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Strong financial performance and profitability",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company reported a net income of $112,010,000,000 for the current year, representing a 19.5% growth.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Robust cash flow generation",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company generated $111,482,000,000 in operating cash flow and $98,767,000,000 in free cash flow.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High operational efficiency",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company maintains a strong gross margin of 46.91% and an operating margin of 31.97%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Diverse and integrated product ecosystem",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company offers a wide range of hardware including iPhone, Mac, and Apple Vision Pro, alongside integrated services like the App Store, Apple Pay, and Apple Music.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "Liquidity concerns",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company has a current ratio of 0.8933, indicating that current liabilities exceed current assets.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High debt-to-equity ratio",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company reports a debt-to-equity ratio of 1.2298, with total debt at $90,678,000,000.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Inability to mitigate operational risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company acknowledges it may not be able to accurately predict, control, or mitigate risks, which could have a material adverse effect on its business and financial condition.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Expansion through R&D and innovation",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company's growth strategy involves developing new technologies to enhance existing products and expanding offerings through research and development.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Product diversification into new hardware",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "Recent reports indicate the company is exploring new product categories, such as camera-equipped AirPods.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strategic acquisitions",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company's growth strategy explicitly includes the acquisition of third-party businesses and technology to expand its range of offerings.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Antitrust and regulatory risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company has acknowledged that antitrust battles surrounding its App Store are weighing on its services business.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Downward pressure on margins",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company expects gross margins to face ongoing volatility and downward pressure, which could adversely affect its stock price and financial results.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Intensifying market competition",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The company expects competition to intensify as rivals imitate its approach of providing components seamlessly within their offerings.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Highly competitive industry dynamics",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          },
+          "evidence": {
+            "value": "The industry is characterized by aggressive price competition, short product life cycles, and rapid adoption of technological advancements.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-19T11:08:34.421755+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "Moderate",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "demand_trend": {
+        "value": "Stable",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "technology_adoption": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "spending_trend": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Challenging",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "competitive_intensity": {
+        "value": "Very High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "outlook": {
+        "value": "Cautiously Optimistic",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      }
+    },
+    "industry_forecast": {
+      "value": "Apple is positioned for continued near-term growth, evidenced by a 6.43% annual revenue increase and strong double-digit quarterly gains. The company's strategy centers on R&D-driven innovation across its hardware and services ecosystem to maintain competitiveness in a market defined by rapid technological cycles and aggressive pricing. However, future performance faces headwinds from intensifying competition, potential margin volatility, and ongoing antitrust challenges impacting its services segment.",
+      "source": "synthesized: LLM analysis over extracted + enriched data",
+      "as_of": "2026-08-19T11:08:34.421755+00:00"
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": 4524633751552,
+        "source": "yfinance:info: AAPL",
+        "as_of": "2026-08-19T11:08:22.329518+00:00"
+      },
+      "share_price": {
+        "value": 310.03,
+        "source": "yfinance:info: AAPL",
+        "as_of": "2026-08-19T11:08:22.329518+00:00"
+      },
+      "shares_outstanding": {
+        "value": 14594180000,
+        "source": "yfinance:info: AAPL",
+        "as_of": "2026-08-19T11:08:22.329518+00:00"
+      },
+      "stock_exchange": {
+        "value": "NMS",
+        "source": "yfinance:info: AAPL",
+        "as_of": "2026-08-19T11:08:22.329518+00:00"
+      },
+      "ticker": {
+        "value": "AAPL",
+        "source": "yfinance:info: AAPL",
+        "as_of": "2026-08-19T11:08:22.329518+00:00"
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": "2026-08-18T10:50:18Z",
+            "source": "https://www.pymnts.com/apple/2026/apple-says-antitrust-issues-are-hurting-services-business/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "title": {
+            "value": "Apple Says Antitrust Issues Are Hurting Services Business",
+            "source": "https://www.pymnts.com/apple/2026/apple-says-antitrust-issues-are-hurting-services-business/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "summary": {
+            "value": "Apple says antitrust battles around its App Store are weighing on its services business. The tech giant acknowledged the issue in its most recent filing with the Securities and Exchange Commission (SEC). That filing was flagged in a report Tuesday (Aug. 18) b\u2026",
+            "source": "https://www.pymnts.com/apple/2026/apple-says-antitrust-issues-are-hurting-services-business/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.pymnts.com/apple/2026/apple-says-antitrust-issues-are-hurting-services-business/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "url": {
+            "value": "https://www.pymnts.com/apple/2026/apple-says-antitrust-issues-are-hurting-services-business/",
+            "source": "https://www.pymnts.com/apple/2026/apple-says-antitrust-issues-are-hurting-services-business/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T10:49:24Z",
+            "source": "http://9to5toys.com/2026/08/18/24gb-1tb-m5-macbook-air-sale/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "title": {
+            "value": "This 24GB/1TB M5 MacBook Air is $300 off new list price via official Apple refurb today",
+            "source": "http://9to5toys.com/2026/08/18/24gb-1tb-m5-macbook-air-sale/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "summary": {
+            "value": "This morning we are circling back around to the official Apple Certified Refurbished storefront. While there are some more affordable models up for grabs at well below the MSRPs, Apple has re-stocked the 24GB/1TB 15-inch M5 MacBook Air at $300 off the new lis\u2026",
+            "source": "http://9to5toys.com/2026/08/18/24gb-1tb-m5-macbook-air-sale/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "http://9to5toys.com/2026/08/18/24gb-1tb-m5-macbook-air-sale/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "url": {
+            "value": "http://9to5toys.com/2026/08/18/24gb-1tb-m5-macbook-air-sale/",
+            "source": "http://9to5toys.com/2026/08/18/24gb-1tb-m5-macbook-air-sale/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T10:47:00Z",
+            "source": "https://www.bgr.com/2235462/why-apple-maps-taking-up-storage-space/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "title": {
+            "value": "Why Apple Maps Is Taking Up So Much Storage \u2013 And How To Free Up Space",
+            "source": "https://www.bgr.com/2235462/why-apple-maps-taking-up-storage-space/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "summary": {
+            "value": "Apple Maps taking up too much iPhone storage? Learn what's using the space and how to clear Maps data, offline downloads, and phantom storage.",
+            "source": "https://www.bgr.com/2235462/why-apple-maps-taking-up-storage-space/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.bgr.com/2235462/why-apple-maps-taking-up-storage-space/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "url": {
+            "value": "https://www.bgr.com/2235462/why-apple-maps-taking-up-storage-space/",
+            "source": "https://www.bgr.com/2235462/why-apple-maps-taking-up-storage-space/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T10:18:00Z",
+            "source": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-Most-exciting-camera-upgrade-said-to-be-iPhone-18-Pro-Max-exclusive.1371475.0.html",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "title": {
+            "value": "Apple iPhone 18 Pro: Most exciting camera upgrade said to be iPhone 18 Pro Max exclusive",
+            "source": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-Most-exciting-camera-upgrade-said-to-be-iPhone-18-Pro-Max-exclusive.1371475.0.html",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "summary": {
+            "value": "Apple is reportedly falling back into old patterns, offering the most exciting camera upgrade exclusively on the larger and more expensive iPhone 18 Pro Max. Anyone who wants Apple\u2019s best smartphone cameras to date will therefore inevitably have to put up wit\u2026",
+            "source": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-Most-exciting-camera-upgrade-said-to-be-iPhone-18-Pro-Max-exclusive.1371475.0.html",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "category": {
+            "value": "Recognition",
+            "source": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-Most-exciting-camera-upgrade-said-to-be-iPhone-18-Pro-Max-exclusive.1371475.0.html",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "url": {
+            "value": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-Most-exciting-camera-upgrade-said-to-be-iPhone-18-Pro-Max-exclusive.1371475.0.html",
+            "source": "https://www.notebookcheck.net/Apple-iPhone-18-Pro-Most-exciting-camera-upgrade-said-to-be-iPhone-18-Pro-Max-exclusive.1371475.0.html",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T10:14:57Z",
+            "source": "https://www.yugatech.com/news/apple-might-put-cameras-in-the-next-gen-airpods/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "title": {
+            "value": "Apple might put cameras in the next-gen AirPods",
+            "source": "https://www.yugatech.com/news/apple-might-put-cameras-in-the-next-gen-airpods/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "summary": {
+            "value": "Based on industry rumors, Apple is working on new AirPods with small cameras built into them. But before you get...\nThe post Apple might put cameras in the next-gen AirPods appeared first on YugaTech | Philippines Tech News & Reviews.",
+            "source": "https://www.yugatech.com/news/apple-might-put-cameras-in-the-next-gen-airpods/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.yugatech.com/news/apple-might-put-cameras-in-the-next-gen-airpods/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "url": {
+            "value": "https://www.yugatech.com/news/apple-might-put-cameras-in-the-next-gen-airpods/",
+            "source": "https://www.yugatech.com/news/apple-might-put-cameras-in-the-next-gen-airpods/",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T10:12:26Z",
+            "source": "https://slashdot.org/firehose.pl?op=view&amp;id=185035830",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "title": {
+            "value": "Apple\u2019s camera-equipped AirPods appear in leaked video - The Verge",
+            "source": "https://slashdot.org/firehose.pl?op=view&amp;id=185035830",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "summary": {
+            "value": "Apple\u2019s camera-equipped AirPods appear in leaked videoThe Verge macOS Tahoe 26.7 is Full of References to Unreleased Apple ProductsMacRumors Apple Accidentally Confirms Camera-Equipped AirPods Are ComingPCMag macOS Tahoe 26.7 beta references several unrelease\u2026",
+            "source": "https://slashdot.org/firehose.pl?op=view&amp;id=185035830",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "category": {
+            "value": "Products/Technology",
+            "source": "https://slashdot.org/firehose.pl?op=view&amp;id=185035830",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          },
+          "url": {
+            "value": "https://slashdot.org/firehose.pl?op=view&amp;id=185035830",
+            "source": "https://slashdot.org/firehose.pl?op=view&amp;id=185035830",
+            "as_of": "2026-08-19T11:08:24.846099+00:00"
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": "The consumer electronics industry remains highly competitive, characterized by rapid innovation cycles and intense price sensitivity that exert ongoing pressure on profit margins. Despite these challenges, companies that successfully integrate hardware, software, and subscription-based services are well-positioned to sustain long-term growth.",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      },
+      "growth_drivers": {
+        "value": "continuous product innovation, expansion of digital services and subscription platforms, rapid adoption of new technological advancements, strategic research and development investment, geographic market penetration",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-19T11:08:34.421755+00:00"
+      }
+    },
+    "competitors": {
+      "key_competitors": []
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": "2026-08-18T09:30:27Z",
+            "source": "https://economictimes.indiatimes.com/news/new-updates/apple-releases-ios-26-6-1-ipados-26-6-1-with-security-fixes-for-major-vulnerabilities/articleshow/133317534.cms",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          },
+          "award": {
+            "value": "Apple releases iOS 26.6.1, iPadOS 26.6.1 with security fixes for major vulnerabilities",
+            "source": "https://economictimes.indiatimes.com/news/new-updates/apple-releases-ios-26-6-1-ipados-26-6-1-with-security-fixes-for-major-vulnerabilities/articleshow/133317534.cms",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          },
+          "brief": {
+            "value": "IOS update 26.6 1: Apple has released iOS 26.6.1 and iPadOS 26.6.1 with security fixes addressing vulnerabilities across Audio, ImageIO, IOGPUFamily, Kernel, Telephony and WebKit. The issues could have exposed sensitive information, caused system crashes, ena\u2026",
+            "source": "https://economictimes.indiatimes.com/news/new-updates/apple-releases-ios-26-6-1-ipados-26-6-1-with-security-fixes-for-major-vulnerabilities/articleshow/133317534.cms",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T02:53:40Z",
+            "source": "https://www.eonline.com/news/1435132/gwyneth-paltrow-daughter-apple-martin-look-alike-in-summer-photo",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          },
+          "award": {
+            "value": "Gwyneth Paltrow, Daughter Apple Martin Twin In Sweet Summer Selfie",
+            "source": "https://www.eonline.com/news/1435132/gwyneth-paltrow-daughter-apple-martin-look-alike-in-summer-photo",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          },
+          "brief": {
+            "value": "Gwyneth Paltrow and Apple Martin are letting the goop times roll this summer.\nIndeed, the Oscar winner showed off snaps of her spending time with her 22-year-old daughter\u2014shared with ex Chris...",
+            "source": "https://www.eonline.com/news/1435132/gwyneth-paltrow-daughter-apple-martin-look-alike-in-summer-photo",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-17T21:14:09Z",
+            "source": "https://www.cnet.com/tech/mobile/google-pixel-11-pro-xl-vs-iphone-17-pro-max-buying-guide/",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          },
+          "award": {
+            "value": "Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple\u2019s Flagship Phones",
+            "source": "https://www.cnet.com/tech/mobile/google-pixel-11-pro-xl-vs-iphone-17-pro-max-buying-guide/",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          },
+          "brief": {
+            "value": "Choosing between Android and iOS? I\u2019m here to help you decide between the $1,199 iPhone 17 Pro Max and the brand-new $1,299 Pixel 11 Pro XL.",
+            "source": "https://www.cnet.com/tech/mobile/google-pixel-11-pro-xl-vs-iphone-17-pro-max-buying-guide/",
+            "as_of": "2026-08-19T11:08:25.262812+00:00"
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": "APPLE NINE HOSPITALITY MANAGEMENT, INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2019-01-10",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2019-01-13",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "297TH MP CO YELLOW RIBBON EVENT \u2014 contract value $9,077",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE NINE HOSPITALITY MANAGEMENT, INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2019-08-26",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2019-09-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "ESGR RECOGNITION DINNER 26 SEP 19 \u2014 contract value $4,326",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE NINE HOSPITALITY MANAGEMENT, INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2018-07-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2018-09-20",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "ESGR APAM TRAINING AND BANQUET \u2014 contract value $6,295",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE OCCUPATIONAL MEDICAL SERVICES LLC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2020-08-27",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2023-10-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "THIS IS FOR OCCUPATIONAL HEALTH EXAMS FOR FEDERAL TECHNICIANS. \u2014 contract value $274,929",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE HOSPITALITY REIT, INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2020-06-22",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2020-08-21",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "HARWOOD HEIGHTS LODGING, MEALS AND LAUNDRY \u2014 contract value $523,813",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE HOSPITALITY REIT, INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2020-04-27",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2020-06-24",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "LODGING FOR CHICAGO HEIGHTS COVID - 19 TEST SITE \u2014 contract value $698,450",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE TRANSFER INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2025-03-26",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2025-03-27",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "SUPPORT JFHQ NCR USA MDW COMMAND TEAM WITH THE REMOVAL, TRANSPORTATION AND RELOCATION OF SERVICEABLE/UNSERVICEABLE FURNITURE CURRENTLY LOCATED IN THE BASEMENT OF BLDG. 39 \u2014 contract value $3,627",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE TRANSFER INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2024-07-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2024-07-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "DRAYAGE SERVICE BPA CALL BUILDING 47 FT. MCNAIR FOR THE PERIOD OF PERFORMANCE 03 JULY - 9 JULY 2024 \u2014 contract value $1,476",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE TRANSFER INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2024-03-05",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2024-03-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "DRAYAGE SERVICE BPA CALL BUILDING 39 FT. MCNAIR FOR THE PERIOD OF PERFORMANCE 5 MARCH 2024 - 9 MARCH 2024 \u2014 contract value $6,301",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "APPLE TRANSFER INC",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "start_date": {
+            "value": "2023-09-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "end_date": {
+            "value": "2023-09-10",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          },
+          "contract_details": {
+            "value": "DRAYAGE MISSION BPA CALL BLDG 46 FT. MCNAIR FOR THE POP 07 SEP 2023 - 12 SEP 2023 \u2014 contract value $8,393",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-19T11:08:27.731032+00:00"
+          }
+        }
+      ]
+    }
+  }
+}

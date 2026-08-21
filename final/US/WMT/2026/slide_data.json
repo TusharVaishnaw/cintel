@@ -1,0 +1,351 @@
+{
+ "company_name": "Walmart Inc.",
+ "ticker": "WMT",
+ "report_year": "2026",
+ "overview": {
+  "founded": "1945",
+  "headquarters": "Bentonville, Arkansas",
+  "employees": "approximately 2.1 million associates",
+  "revenue": "$706.4B",
+  "market_cap": "$909.6B",
+  "brief": null,
+  "brands": "Walmart, Walmart Neighborhood Market, Sam's Club, Athletic Works, bettergoods, Equate, Free Assembly, Freshness Guaranteed, George, Great Value, Holiday Time, Hyper Tough, Joyspun, Kid Connection, Mainstays, Marketside, No Boundaries, onn., Ozark Trail, Parent's Choice, Sam's Choice, Scoop, Spring Valley, Time and Tru, Way to Celebrate, Wonder Nation, Avia, Better Homes Gardens, Sofia Jeans by Sofia Vergara, The Pioneer Woman, Member's Mark, Aurrera, Lider",
+  "services": "retail, wholesale, eCommerce, membership, advertising, marketplace, fulfillment services, financial services, pharmacy, optical, hearing services, tire and battery installation, photo and tech assistance, home and auto solutions",
+  "key_competitors": [],
+  "key_acquisitions": [
+   "2018 Flipkart",
+   "2018 PhonePe",
+   "2025 VIZIO Holding Corp."
+  ]
+ },
+ "mission_vision": {
+  "mission": "helping people around the world save money and live better",
+  "vision": "Save money. Live better.",
+  "values": null
+ },
+ "geo": {
+  "countries": null,
+  "regions": "U.S., Africa, Canada, Central America, Chile, China, India, Mexico",
+  "offices": "office facilities in Bentonville, Arkansas, and throughout the U.S. and internationally",
+  "delivery_centers": "192 distribution facilities in the U.S. and 179 distribution facilities outside the U.S.",
+  "geographic_revenue": "Walmart U.S. (68%), Walmart International (19%), Sam's Club U.S. (13%)"
+ },
+ "segments": [
+  {
+   "name": "Walmart\u00a0U.S.",
+   "revenue": "$483.0B",
+   "revenue_pct": null,
+   "growth": "+4.5%",
+   "op_margin": null,
+   "description": "A mass merchandiser of consumer products, operating under the \"Walmart\" and \"Walmart Neighborhood Market\" brands, as well as walmart.com and the Walmart mobile application."
+  }
+ ],
+ "sustainability": {
+  "strategy": "We are deliberate about where and how we choose to operate to best enable long-term, sustainable and profitable growth.",
+  "goals": null,
+  "key_initiatives": null
+ },
+ "org_structure": "The Company's operations comprise three reportable segments: Walmart U.S., Walmart International, and Sam's Club U.S.",
+ "leadership": [
+  {
+   "name": "John R. Furner",
+   "designation": "President and Chief Executive Officer and Director",
+   "brief": "John Furner is an American business executive who is the president and chief executive officer (CEO) of Walmart Inc. He was president and CEO of Walmart U.S. from 2019 to 2026, and CEO of Sam's Club from 2017 to 2019. Furner succeeded Doug McMillon, who retired in January 2026.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=John%20R.%20Furner%20Walmart%20Inc.",
+   "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/John_Furner_headshot_2019.jpg/330px-John_Furner_headshot_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_path": "photos\\john-r-furner.jpg"
+  },
+  {
+   "name": "John David Rainey",
+   "designation": "Executive Vice President and Chief Financial Officer",
+   "brief": "John David Rainey is a senior United States district judge of the United States District Court for the Southern District of Texas.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=John%20David%20Rainey%20Walmart%20Inc.",
+   "photo_url": null
+  }
+ ],
+ "technology_team": [],
+ "swot": {
+  "strengths": [
+   {
+    "point": "Massive scale and revenue generation",
+    "evidence": "Walmart reported annual revenue of $706.413 billion for fiscal year 2026.",
+    "detail": null
+   },
+   {
+    "point": "Strong omnichannel presence",
+    "evidence": "The company operates a vast network including Walmart U.S., Walmart Neighborhood Market, Sam's Club, and integrated digital platforms like walmart.com and mobile applications.",
+    "detail": null
+   },
+   {
+    "point": "Extensive private label portfolio",
+    "evidence": "The company maintains a diverse range of brands including Great Value, Equate, Member's Mark, and Mainstays.",
+    "detail": null
+   },
+   {
+    "point": "Robust operational cash flow",
+    "evidence": "Walmart generated $41.565 billion in operating cash flow in fiscal year 2026.",
+    "detail": null
+   }
+  ],
+  "weaknesses": [
+   {
+    "point": "High e-commerce fulfillment costs",
+    "evidence": "Higher costs associated with fulfilling e-commerce orders have pressured margins, particularly in the Sam's Club U.S. segment.",
+    "detail": null
+   },
+   {
+    "point": "Margin pressure from product mix shifts",
+    "evidence": "Changes in the mix of merchandise sold toward lower-margin categories have acted as a headwind to gross profit rate improvements.",
+    "detail": null
+   },
+   {
+    "point": "Rising legal and liability expenses",
+    "evidence": "Higher costs to resolve self-insured general liability claims negatively impacted operating expenses by approximately $0.9 billion in fiscal 2026.",
+    "detail": null
+   },
+   {
+    "point": "Tight liquidity position",
+    "evidence": "The company has a current ratio of 0.7898, with current liabilities ($107.469 billion) exceeding current assets ($84.874 billion).",
+    "detail": null
+   }
+  ],
+  "opportunities": [
+   {
+    "point": "Expansion of high-margin services",
+    "evidence": "The company is actively expanding offerings such as membership, advertising, marketplace, fulfillment, and financial services.",
+    "detail": null
+   },
+   {
+    "point": "Leveraging AI for operational efficiency",
+    "evidence": "The company's technology strategy includes heavy investment in AI-powered tools for associate productivity and operational efficiency.",
+    "detail": null
+   },
+   {
+    "point": "Growth in membership programs",
+    "evidence": "The growth strategy focuses on increasing comparable store and club sales via membership growth at Sam's Club U.S. and Walmart+.",
+    "detail": null
+   }
+  ],
+  "threats": [
+   {
+    "point": "Currency exchange rate volatility",
+    "evidence": "Fluctuations in currency exchange rates reduced net sales by $2.8 billion in fiscal 2026.",
+    "detail": null
+   },
+   {
+    "point": "Fuel price volatility",
+    "evidence": "Fluctuations in fuel prices negatively impacted comparable sales for Sam's Club U.S. and create uncertainty for future operating results.",
+    "detail": null
+   },
+   {
+    "point": "Macroeconomic and regulatory uncertainty",
+    "evidence": "Management expects continued uncertainty due to factors such as tariffs, trade restrictions, and inflationary trends.",
+    "detail": null
+   },
+   {
+    "point": "Intense competitive landscape",
+    "evidence": "The industry is described as highly competitive and rapidly evolving, involving a wide range of brick-and-mortar, eCommerce, and social commerce competitors.",
+    "detail": null
+   }
+  ]
+ },
+ "financials_annual": {
+  "revenue": {
+   "current": 706413000000.0,
+   "previous": 674538000000.0,
+   "two_prior": 642637000000.0
+  },
+  "operating_income": {
+   "current": 29825000000.0,
+   "previous": 29348000000.0,
+   "two_prior": 27012000000.0
+  },
+  "net_income": {
+   "current": 21893000000.0,
+   "previous": 19436000000.0,
+   "two_prior": 15511000000.0
+  },
+  "financial_year": "2026",
+  "highlights": {
+   "ebitda": null,
+   "gross_profit": null,
+   "eps": 2.73,
+   "revenue_growth": null,
+   "operating_margin": null,
+   "net_margin": null,
+   "free_cash_flow": null,
+   "roe": null
+  },
+  "historical_years": [
+   {
+    "year": "2024",
+    "revenue": 642637000000.0,
+    "operating_income": 27012000000.0,
+    "net_income": 15511000000.0
+   }
+  ]
+ },
+ "financials_quarterly": {
+  "quarter": "2026-04-30",
+  "revenue": "$175.7B",
+  "operating_income": "$7.5B",
+  "net_income": "$5.3B",
+  "ebitda": null,
+  "eps": 0.67,
+  "cash_flow": "$4.7B",
+  "revenue_growth": null,
+  "net_income_growth": null
+ },
+ "acquisitions": [
+  {
+   "year": "2018",
+   "company_name": "Flipkart",
+   "brief": "Acquisition of a majority stake in Flipkart in India to expand eCommerce and digital presence.",
+   "value": null
+  },
+  {
+   "year": "2018",
+   "company_name": "PhonePe",
+   "brief": "Acquisition of a majority stake in PhonePe in India to expand eCommerce and digital presence.",
+   "value": null
+  },
+  {
+   "year": "2025",
+   "company_name": "VIZIO Holding Corp.",
+   "brief": "Acquisition in December 2024 within the Walmart U.S. segment.",
+   "value": null
+  }
+ ],
+ "competitors": [],
+ "awards": [],
+ "challenges": [
+  {
+   "challenge": "Cost increases",
+   "impact": "Influences net sales and gross profit margin; requires pricing and merchandising strategy adjustments.",
+   "brief": "The company faces cost increases that it must either absorb or pass on to customers, impacting profitability."
+  },
+  {
+   "challenge": "Rising costs to resolve self-insured general liability claims",
+   "impact": "Increased operating expenses as a percentage of net sales.",
+   "brief": "Higher costs to resolve claims across retail and related industries negatively impacted operating expenses by approximately $0.9 billion in fiscal 2026."
+  },
+  {
+   "challenge": "Volatility in fuel prices",
+   "impact": "Negatively impacted comparable sales for Sam's Club U.S. and creates uncertainty for future operating results.",
+   "brief": "Fluctuations in fuel prices directly affect the comparable sales and operating results of the Sam's Club U.S. segment."
+  },
+  {
+   "challenge": "Currency exchange rate fluctuations",
+   "impact": "Negatively impacted net sales.",
+   "brief": "Fluctuations in currency exchange rates reduced net sales by $2.8 billion and $3.2 billion in fiscal 2026 and 2025, respectively."
+  },
+  {
+   "challenge": "Mix shifts into lower margin merchandise categories",
+   "impact": "Partially offset increases in gross profit rate.",
+   "brief": "Changes in the mix of merchandise sold toward lower-margin categories have acted as a headwind to gross profit rate improvements."
+  },
+  {
+   "challenge": "E-commerce fulfillment costs",
+   "impact": "Partially offset gross profit rate increases in the Sam's Club U.S. segment.",
+   "brief": "Higher costs associated with fulfilling e-commerce orders have pressured margins."
+  }
+ ],
+ "news": {
+  "Partnership": [],
+  "Products/Technology": [
+   {
+    "date": "2026-08-19T08:00:29Z",
+    "title": "Walmart\u2019s Grocery Lead Faces a Higher-Margin Test",
+    "summary": "Walmart\u00a0reports earnings Thursday (Aug. 20), and it enters with a valuable retail advantage that looks both powerful and underused. It captures the weekly grocery trip, yet Amazon increasingly captures what shoppers buy beyond it. The new PYMNTS Intelligence \u2026",
+    "url": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/"
+   },
+   {
+    "date": "2026-08-19T07:11:10Z",
+    "title": "6-Pk 4-Oz Beyond Meat Beyond Burger Plant-Based Patties + $6.75 Walmart Cash $13.50 + Free Pickup",
+    "summary": "Walmart has 6-Pack 4-Oz Beyond Meat Beyond Burger Plant-Based Patties (24-Oz Total)for $13.47 + Earn $6.75 in Walmart Cash when you select the box on the product page to claim the offer. Select free p",
+    "url": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup"
+   },
+   {
+    "date": "2026-08-19T05:41:38Z",
+    "title": "Are dogs allowed in Walmart in California?",
+    "summary": "Are Dogs Allowed in Walmart in California? Understanding California\u2019s Pet Policies Generally, pets are not allowed in Walmart stores in California unless they are certified service animals assisting individuals with disabilities. This policy aligns with feder\u2026",
+    "url": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/"
+   },
+   {
+    "date": "2026-08-19T04:06:28Z",
+    "title": "NASCAR Arcade Rush (Nintendo Switch) $11",
+    "summary": "Amazon [amazon.com] has *NASCAR Arcade Rush (Nintendo Switch)* for *$11*. Shipping is free w/ Prime or on $35+. \n \nWalmart [walmart.com] has *NASCAR Arcade Rush (Nintendo Switch)* for *$11*. Shipping...",
+    "url": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35"
+   }
+  ],
+  "Recognition": []
+ },
+ "it_spending": "Walmart invests in technology and process improvements to increase productivity, manage inventory, and reduce costs, including significant capital allocation toward automation, eCommerce, supply chain, and store/club technology investments.",
+ "deals": [],
+ "tech_initiatives": [
+  {
+   "date": "1996",
+   "title": "eCommerce initiative",
+   "details": "Creation of walmart.com and samsclub.com."
+  },
+  {
+   "date": "2007",
+   "title": "Site-to-Store service",
+   "details": "Launched by walmart.com to enable customers to make a purchase online and pick up merchandise in stores."
+  },
+  {
+   "date": "2018",
+   "title": "eCommerce and digital expansion",
+   "details": "Acquisition of majority stakes in Flipkart and PhonePe in India."
+  }
+ ],
+ "technologies_in_use": [
+  {
+   "technology": "AI",
+   "category": "Advanced Technologies",
+   "brief": "Used to support customer and member-facing experiences, associate productivity, and operational efficiency across the ecosystem."
+  },
+  {
+   "technology": "Mobile Scan & Go",
+   "category": "Checkout and Payment",
+   "brief": "A mobile checkout and payment solution that allows members to bypass the checkout line."
+  },
+  {
+   "technology": "Just Go",
+   "category": "Checkout and Payment",
+   "brief": "A friction-free exit experience for members."
+  },
+  {
+   "technology": "eCommerce websites",
+   "category": "Digital Platforms",
+   "brief": "Platforms including walmart.com, samsclub.com, walmart.com.mx, walmart.ca, flipkart.com, and samclub.cn used for online retail."
+  },
+  {
+   "technology": "Mobile applications",
+   "category": "Digital Platforms",
+   "brief": "Applications used to facilitate omnichannel shopping and service access."
+  },
+  {
+   "technology": "Supply chain automation",
+   "category": "Logistics",
+   "brief": "Investments in automation to improve fulfillment and delivery capabilities."
+  }
+ ],
+ "industry_indicators": {
+  "growth_rating": "moderate",
+  "demand_trend": "stable",
+  "technology_adoption": "high",
+  "spending_trend": "cautious",
+  "regulatory_environment": "complex",
+  "competitive_intensity": "very high",
+  "outlook": "cautiously optimistic"
+ },
+ "industry_forecast": {
+  "industry": "omnichannel retailer",
+  "market_size": null,
+  "market_size_year": null,
+  "competitive_landscape": "Highly competitive and rapidly evolving; includes brick and mortar, eCommerce and omnichannel retailers operating discount, department, retail and wholesale grocery, drug, dollar, variety and specialty stores, supermarkets, supercenter-type stores, membership-only warehouse clubs, gasoline stations and social commerce platforms.",
+  "forecast": "Walmart is positioned for continued near-term growth by leveraging its strong omnichannel model and expanding high-margin services like advertising and marketplace offerings. While the company faces headwinds from cost pressures, currency fluctuations, and a shift toward lower-margin merchandise, its strategic focus on AI-driven productivity and supply chain automation aims to improve operating margins. Sustained investment in eCommerce and membership programs remains a key driver to capture broader consumer spending beyond its core grocery business.",
+  "growth_drivers": "omnichannel integration, eCommerce expansion, membership-based loyalty programs, AI-driven operational efficiency, supply chain automation, diversified service offerings, advertising and marketplace growth"
+ }
+}

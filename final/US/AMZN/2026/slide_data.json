@@ -1,0 +1,331 @@
+{
+ "company_name": "AMAZON COM INC",
+ "ticker": "AMZN",
+ "report_year": "2026",
+ "overview": {
+  "founded": null,
+  "headquarters": null,
+  "employees": null,
+  "revenue": "$716.9B",
+  "market_cap": "$2.9T",
+  "brief": null,
+  "brands": null,
+  "services": null,
+  "key_competitors": [],
+  "key_acquisitions": [
+   "2023 1Life Healthcare"
+  ]
+ },
+ "mission_vision": {
+  "mission": null,
+  "vision": null,
+  "values": "innovation, customer obsession, and long-term thinking"
+ },
+ "geo": {
+  "countries": null,
+  "regions": null,
+  "offices": null,
+  "delivery_centers": null,
+  "geographic_revenue": "{'United States': 489657000000.0, 'Germany': 45900000000.0, 'United Kingdom': 43212000000.0, 'Japan': 30688000000.0, 'Rest of world': 107467000000.0}"
+ },
+ "segments": [
+  {
+   "name": "North America",
+   "revenue": "$426.3B",
+   "revenue_pct": 59.46,
+   "growth": "+10.0%",
+   "op_margin": "+7.0%",
+   "description": null
+  },
+  {
+   "name": "International",
+   "revenue": "$161.9B",
+   "revenue_pct": 22.58,
+   "growth": "+13.3%",
+   "op_margin": "+2.9%",
+   "description": null
+  },
+  {
+   "name": "AWS",
+   "revenue": "$128.7B",
+   "revenue_pct": 17.96,
+   "growth": "+19.7%",
+   "op_margin": "+35.4%",
+   "description": null
+  }
+ ],
+ "sustainability": {
+  "strategy": null,
+  "goals": null,
+  "key_initiatives": null
+ },
+ "org_structure": null,
+ "leadership": [
+  {
+   "name": "Andrew R. Jassy",
+   "designation": "President and Chief Executive Officer (Principal Executive Officer) and Director",
+   "brief": "Andrew R. Jassy is an American business executive who is the president and chief executive officer of Amazon since July 2021, succeeding founder Jeff Bezos, who remains executive chairman. Jassy founded and led Amazon Web Services (AWS) from its inception and served as its CEO from April 2016 until July 2021.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Andrew%20R.%20Jassy%20AMAZON%20COM%20INC",
+   "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andy_Jassy.jpg/330px-Andy_Jassy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_path": "photos\\andrew-r-jassy.jpg"
+  },
+  {
+   "name": "Brian T. Olsavsky",
+   "designation": "Senior Vice President and Chief Financial Officer (Principal Financial Officer)",
+   "brief": "Brian T. Olsavsky is an American business executive who has served as chief financial officer (CFO) and Senior Vice President of Amazon since 2015.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Brian%20T.%20Olsavsky%20AMAZON%20COM%20INC",
+   "photo_url": null
+  }
+ ],
+ "technology_team": [],
+ "swot": {
+  "strengths": [
+   {
+    "point": "High profitability and strong financial growth",
+    "evidence": "Net income grew by 31.09% year-over-year, reaching $77.67 billion.",
+    "detail": null
+   },
+   {
+    "point": "Dominant cloud computing segment",
+    "evidence": "The AWS segment generated $128.725 billion in revenue with a high operating margin of 35.43%.",
+    "detail": null
+   },
+   {
+    "point": "Strong balance sheet and liquidity",
+    "evidence": "The company holds $86.81 billion in cash and cash equivalents with a low debt-to-equity ratio of 0.1664.",
+    "detail": null
+   },
+   {
+    "point": "Significant scale of operations",
+    "evidence": "Total annual revenue reached $716.92 billion, supported by $818.04 billion in total assets.",
+    "detail": null
+   }
+  ],
+  "weaknesses": [
+   {
+    "point": "Negative free cash flow",
+    "evidence": "The company reported a free cash flow of -$529 million, driven by high capital expenditures of $140.04 billion.",
+    "detail": null
+   },
+   {
+    "point": "Low operating margins in core retail segments",
+    "evidence": "The International segment operates at a thin 2.93% operating margin, while North America operates at 6.95%.",
+    "detail": null
+   },
+   {
+    "point": "Tight liquidity position",
+    "evidence": "The current ratio is 1.05, indicating limited headroom between current assets ($229.08 billion) and current liabilities ($218.01 billion).",
+    "detail": null
+   }
+  ],
+  "opportunities": [
+   {
+    "point": "Continued international market expansion",
+    "evidence": "The company's strategy explicitly includes plans to further expand internationally and into new products and services.",
+    "detail": null
+   },
+   {
+    "point": "Investment in AI and machine learning",
+    "evidence": "The company is actively adopting and utilizing artificial intelligence and machine learning technologies as part of its technology strategy.",
+    "detail": null
+   },
+   {
+    "point": "Growth in cloud infrastructure demand",
+    "evidence": "The AWS segment is currently growing at a rate of 19.68%, the highest among the company's reported business segments.",
+    "detail": null
+   }
+  ],
+  "threats": [
+   {
+    "point": "Regulatory and legal risks regarding seller conduct",
+    "evidence": "The company faces risks from fraudulent or unlawful activities of sellers, which can lead to civil or criminal liability and damage to reputation.",
+    "detail": null
+   },
+   {
+    "point": "Intellectual property and litigation exposure",
+    "evidence": "The company faces increasing claims of intellectual property infringement, which may require significant financial and managerial resources to defend.",
+    "detail": null
+   },
+   {
+    "point": "Operational risks from rapid expansion",
+    "evidence": "Rapid global expansion places significant strain on management, operations, systems, and financial resources, potentially leading to negative effects on operating results.",
+    "detail": null
+   },
+   {
+    "point": "Cybersecurity and data privacy threats",
+    "evidence": "Failure to prevent or mitigate security incidents could result in the loss or misuse of information, leading to regulatory action and litigation.",
+    "detail": null
+   }
+  ]
+ },
+ "financials_annual": {
+  "revenue": {
+   "current": 716924000000.0,
+   "previous": 637959000000.0,
+   "two_prior": 574785000000.0
+  },
+  "operating_income": {
+   "current": 79975000000.0,
+   "previous": 68593000000.0,
+   "two_prior": 36852000000.0
+  },
+  "net_income": {
+   "current": 77670000000.0,
+   "previous": 59248000000.0,
+   "two_prior": 30425000000.0
+  },
+  "financial_year": "2025",
+  "highlights": {
+   "ebitda": "$145.7B",
+   "gross_profit": null,
+   "eps": 7.17,
+   "revenue_growth": "+12.4%",
+   "operating_margin": "+11.2%",
+   "net_margin": "+10.8%",
+   "free_cash_flow": "$-529.0M",
+   "roe": "+18.9%"
+  },
+  "historical_years": [
+   {
+    "year": "2023",
+    "revenue": 574785000000.0,
+    "operating_income": 36852000000.0,
+    "net_income": 30425000000.0,
+    "ebitda": 102608000000.0
+   }
+  ]
+ },
+ "financials_quarterly": {
+  "quarter": "2026-06-30",
+  "revenue": "$200.6B",
+  "operating_income": "$27.5B",
+  "net_income": "$62.6B",
+  "ebitda": "$47.4B",
+  "eps": 5.75,
+  "cash_flow": "$45.4B",
+  "revenue_growth": "+19.6%",
+  "net_income_growth": "+244.9%"
+ },
+ "acquisitions": [
+  {
+   "year": "2023",
+   "company_name": "1Life Healthcare",
+   "brief": null,
+   "value": "$3.5B"
+  }
+ ],
+ "competitors": [],
+ "awards": [],
+ "challenges": [
+  {
+   "challenge": "Fraudulent or unlawful activities of sellers",
+   "impact": "Harm to business, damage to reputation, civil or criminal liability, and increased costs under the A-to-z Guarantee.",
+   "brief": "Policies to prevent sellers from selling unlawful or counterfeit goods may be circumvented or fail."
+  },
+  {
+   "challenge": "Intellectual property protection and infringement claims",
+   "impact": "Expenditure of significant financial and managerial resources, injunctions, and significant payments for damages.",
+   "brief": "Difficulty protecting proprietary rights globally and facing increasing claims of intellectual property infringement."
+  },
+  {
+   "challenge": "Foreign exchange risk",
+   "impact": "Operating results may differ materially from expectations and significant gains or losses on remeasurement of intercompany balances.",
+   "brief": "Exposure to fluctuations in foreign currency exchange rates due to international operations."
+  },
+  {
+   "challenge": "Rapid expansion and resource strain",
+   "impact": "Damage to reputation, limited growth, and negative effects on operating results.",
+   "brief": "Rapid global expansion places significant strain on management, operations, systems, and financial resources."
+  },
+  {
+   "challenge": "Fluctuations in operating results and growth rate",
+   "impact": "Inability to adjust spending quickly if sales are lower than expected, potentially leading to decreased revenue or growth.",
+   "brief": "Difficulty in accurately forecasting growth and managing fixed expenses against variable demand."
+  },
+  {
+   "challenge": "Fulfillment network and data center optimization",
+   "impact": "Excess or insufficient capacity, service interruptions, increased costs, and impairment charges.",
+   "brief": "Complexity in operating and scaling fulfillment and data center networks leads to potential service and efficiency failures."
+  },
+  {
+   "challenge": "Data loss or security incidents",
+   "impact": "Risk of loss/misuse of information, litigation, regulatory action, and harm to business and reputation.",
+   "brief": "Failure to prevent or mitigate security incidents affecting technology, products, or systems."
+  },
+  {
+   "challenge": "System interruption and lack of redundancy",
+   "impact": "Reduced net sales, liability, and damage to reputation.",
+   "brief": "Occasional system interruptions and lack of full redundancy can make services unavailable or slow."
+  },
+  {
+   "challenge": "Hiring and retaining key personnel",
+   "impact": "Strained operations, increased payroll costs, and potential harm to business and reputation.",
+   "brief": "Intense competition for skilled personnel and potential labor union organizational efforts."
+  },
+  {
+   "challenge": "Supplier relationship risks",
+   "impact": "Inability to procure alternatives, potential supply chain disruptions, and exposure to claims.",
+   "brief": "Reliance on limited or single-source suppliers without long-term guarantees for availability or terms."
+  },
+  {
+   "challenge": "Acquisition and investment integration",
+   "impact": "Disruption of ongoing business, operating losses, and potential impairment of assets.",
+   "brief": "Difficulties in successfully integrating acquired companies, technologies, and systems."
+  },
+  {
+   "challenge": "Evolving government regulation",
+   "impact": "Substantial costs, civil/criminal liability, diminished demand, and forced changes to business practices.",
+   "brief": "Unfavorable changes in laws governing the internet, retail, data, and AI could harm business operations."
+  },
+  {
+   "challenge": "Product liability claims",
+   "impact": "Potential for significant liability, product recalls, and increased costs under the A-to-z Guarantee.",
+   "brief": "Exposure to claims when people or property are harmed by products sold or manufactured."
+  },
+  {
+   "challenge": "Tax liabilities and collection obligations",
+   "impact": "Increased tax expense, penalties, and potential retroactive liabilities.",
+   "brief": "Subject to evolving global tax frameworks and new obligations to collect taxes on behalf of jurisdictions."
+  }
+ ],
+ "news": {
+  "Partnership": [
+   {
+    "date": null,
+    "title": null,
+    "summary": null,
+    "url": null
+   }
+  ],
+  "Products/Technology": [],
+  "Recognition": []
+ },
+ "it_spending": "The company invests in technology and infrastructure, including scaling its technology infrastructure, adopting artificial intelligence and machine learning technologies, and expanding its data centers, which requires significant financial and managerial resources.",
+ "deals": [
+  {
+   "vendor": "AMAZON MICRO INC.",
+   "start_date": "2018-02-09",
+   "end_date": "2018-05-07",
+   "contract_details": "SAMSUNG WIFI HOTSPOTS \u2014 contract value $184"
+  }
+ ],
+ "tech_initiatives": [],
+ "technologies_in_use": [],
+ "industry_indicators": {
+  "growth_rating": "Strong",
+  "demand_trend": "High",
+  "technology_adoption": "Aggressive",
+  "spending_trend": "High",
+  "regulatory_environment": "Complex",
+  "competitive_intensity": "High",
+  "outlook": "Positive"
+ },
+ "industry_forecast": {
+  "industry": null,
+  "market_size": null,
+  "market_size_year": null,
+  "competitive_landscape": null,
+  "forecast": "The company is positioned for a strong near-term growth trajectory, evidenced by a 12.38% overall revenue increase and a robust 19.68% growth rate in its high-margin AWS segment. Future expansion will be driven by continued heavy investment in technology infrastructure, artificial intelligence, and global market reach. While international operations and cloud services provide significant momentum, the company must navigate risks associated with rapid scaling, fulfillment network optimization, and intense competition for skilled personnel.",
+  "growth_drivers": "Cloud computing adoption, artificial intelligence and machine learning integration, global e-commerce expansion, infrastructure and fulfillment network optimization, digital service diversification"
+ }
+}

@@ -1,0 +1,443 @@
+from pathlib import Path
+
+html = r"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Company Intelligence JSON Viewer</title>
+<style>
+  * { box-sizing: border-box; }
+  :root {
+    --bg: #f4f6f8;
+    --card: #ffffff;
+    --border: #e1e5e9;
+    --text: #20242a;
+    --muted: #69737d;
+    --good: #16834b;
+    --bad: #c43d3d;
+    --warn: #b77900;
+    --track: #edf0f2;
+  }
+  body {
+    margin: 0; font-family: Inter, Arial, sans-serif; background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    position: sticky; top: 0; z-index: 20; background: rgba(255,255,255,.97);
+    border-bottom: 1px solid var(--border); padding: 12px 22px;
+    display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+    backdrop-filter: blur(8px);
+  }
+  h1 { font-size: 20px; margin: 0 16px 0 0; }
+  input[type=file] { max-width: 270px; }
+  input[type=search] {
+    width: 290px; padding: 9px 11px; border: 1px solid #ccd2d8;
+    border-radius: 7px; background: #fff;
+  }
+  button {
+    border: 1px solid #ccd2d8; background: #fff; border-radius: 7px;
+    padding: 8px 12px; cursor: pointer;
+  }
+  button:hover { background: #f0f2f5; }
+  #stats { margin-left: auto; font-size: 13px; color: var(--muted); }
+
+  main { max-width: 1320px; margin: 22px auto; padding: 0 18px; }
+
+  #drop {
+    background: var(--card); border: 2px dashed #cbd2d9; border-radius: 10px;
+    padding: 42px; text-align: center; color: var(--muted); margin-bottom: 20px;
+  }
+
+  /* Analytics dashboard */
+  #analytics { margin-bottom: 22px; }
+  .dashboard-title {
+    display: flex; justify-content: space-between; align-items: end;
+    gap: 12px; margin-bottom: 12px;
+  }
+  .dashboard-title h2 { margin: 0; font-size: 18px; }
+  .dashboard-title small { color: var(--muted); }
+
+  .kpis {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;
+    margin-bottom: 14px;
+  }
+  .kpi {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px; min-height: 100px;
+  }
+  .kpi-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .kpi-value { font-size: 28px; font-weight: 750; margin-top: 5px; }
+  .kpi-sub { font-size: 12px; color: var(--muted); margin-top: 3px; }
+
+  .overall {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px; margin-bottom: 14px;
+  }
+  .overall-head {
+    display: flex; justify-content: space-between; align-items: center; gap: 12px;
+    margin-bottom: 9px;
+  }
+  .overall-head strong { font-size: 14px; }
+  .overall-percent { font-size: 22px; font-weight: 750; }
+  .bar {
+    width: 100%; height: 10px; background: var(--track); border-radius: 999px;
+    overflow: hidden;
+  }
+  .bar > span { display: block; height: 100%; background: var(--good); border-radius: inherit; }
+  .bar-meta {
+    display: flex; justify-content: space-between; margin-top: 7px;
+    font-size: 12px; color: var(--muted);
+  }
+
+  #sectionStats {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;
+  }
+  .section-stat {
+    background: var(--card); border: 1px solid var(--border); border-radius: 9px;
+    padding: 13px 14px;
+  }
+  .section-stat-head {
+    display: flex; justify-content: space-between; align-items: center; gap: 10px;
+    margin-bottom: 8px;
+  }
+  .section-stat-name {
+    font-weight: 700; font-size: 13px; overflow: hidden;
+    text-overflow: ellipsis; white-space: nowrap;
+  }
+  .section-stat-count { font-size: 12px; color: var(--muted); white-space: nowrap; }
+  .mini-bar {
+    height: 7px; background: var(--track); border-radius: 999px; overflow: hidden;
+  }
+  .mini-bar span { display: block; height: 100%; background: var(--good); }
+  .section-stat-meta {
+    display: flex; justify-content: space-between; margin-top: 7px;
+    font-size: 11px; color: var(--muted);
+  }
+  .filled { color: var(--good); font-weight: 700; }
+  .null-count { color: var(--bad); font-weight: 700; }
+
+  .section {
+    background: var(--card); border: 1px solid var(--border); border-radius: 9px;
+    margin: 12px 0; overflow: hidden;
+  }
+  .section > summary {
+    cursor: pointer; padding: 13px 16px; font-weight: 700;
+    background: #fafbfc; list-style: none;
+  }
+  .section > summary::-webkit-details-marker { display:none; }
+  .section > summary:before { content: "▶"; font-size: 10px; margin-right: 9px; }
+  .section[open] > summary:before { content: "▼"; }
+  .content { padding: 5px 14px 14px 28px; }
+  .field {
+    display: grid; grid-template-columns: minmax(180px, 30%) 1fr;
+    gap: 16px; padding: 9px 0; border-bottom: 1px solid #edf0f2;
+  }
+  .field:last-child { border-bottom: 0; }
+  .key { font-weight: 600; color: #424a53; word-break: break-word; }
+  .value { word-break: break-word; }
+  .primitive { font-family: ui-monospace, Consolas, monospace; }
+  .null { color: #9aa1a8; font-style: italic; }
+  .meta {
+    margin-top: 5px; font-size: 11px; color: #78818a;
+    font-family: ui-monospace, Consolas, monospace;
+  }
+  .array {
+    border-left: 2px solid #e1e5e9; padding-left: 12px;
+  }
+  .array-item { margin: 8px 0; }
+  .empty { color: #9aa1a8; font-style: italic; }
+  .match { background: #fff2a8; }
+
+  @media(max-width:900px) {
+    .kpis { grid-template-columns: repeat(2, 1fr); }
+    #sectionStats { grid-template-columns: 1fr; }
+  }
+  @media(max-width:700px) {
+    .field { grid-template-columns: 1fr; gap: 4px; }
+    #stats { margin-left: 0; width: 100%; }
+    .kpis { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Company Intelligence JSON Viewer</h1>
+  <input id="file" type="file" accept=".json,application/json">
+  <input id="search" type="search" placeholder="Search fields / values...">
+  <button onclick="expandAll()">Expand all</button>
+  <button onclick="collapseAll()">Collapse all</button>
+  <span id="stats">Load a JSON file</span>
+</header>
+
+<main>
+  <div id="drop">Select your <b>template.json</b> / <b>extracted.json</b> file above, or drag it here.</div>
+
+  <section id="analytics" style="display:none">
+    <div class="dashboard-title">
+      <h2>Data Completeness</h2>
+      <small>Leaf fields are counted by their <code>value</code>; null means no extracted value.</small>
+    </div>
+
+    <div class="kpis">
+      <div class="kpi">
+        <div class="kpi-label">Total fields</div>
+        <div class="kpi-value" id="totalFields">0</div>
+        <div class="kpi-sub">Extractable leaf fields</div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Filled</div>
+        <div class="kpi-value filled" id="filledFields">0</div>
+        <div class="kpi-sub" id="filledPct">0%</div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Null</div>
+        <div class="kpi-value null-count" id="nullFields">0</div>
+        <div class="kpi-sub" id="nullPct">0%</div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Sections</div>
+        <div class="kpi-value" id="totalSections">0</div>
+        <div class="kpi-sub" id="arrayCount">0 arrays</div>
+      </div>
+    </div>
+
+    <div class="overall">
+      <div class="overall-head">
+        <strong>Overall completion</strong>
+        <span class="overall-percent" id="overallPercent">0%</span>
+      </div>
+      <div class="bar"><span id="overallBar" style="width:0%"></span></div>
+      <div class="bar-meta">
+        <span id="overallFilledText">0 filled</span>
+        <span id="overallNullText">0 null</span>
+      </div>
+    </div>
+
+    <div id="sectionStats"></div>
+  </section>
+
+  <div id="viewer"></div>
+</main>
+
+<script>
+let data = null;
+
+document.getElementById("file").addEventListener("change", e => {
+  if (e.target.files[0]) loadFile(e.target.files[0]);
+});
+
+const drop = document.getElementById("drop");
+drop.addEventListener("dragover", e => { e.preventDefault(); drop.style.borderColor="#777"; });
+drop.addEventListener("dragleave", () => drop.style.borderColor="#cbd2d9");
+drop.addEventListener("drop", e => {
+  e.preventDefault(); drop.style.borderColor="#cbd2d9";
+  if (e.dataTransfer.files[0]) loadFile(e.dataTransfer.files[0]);
+});
+
+async function loadFile(file) {
+  try {
+    data = JSON.parse(await file.text());
+    document.getElementById("drop").style.display = "none";
+    render();
+  } catch (e) {
+    alert("Invalid JSON: " + e.message);
+  }
+}
+
+function esc(v) {
+  return String(v).replace(/[&<>"']/g, c => ({
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+  }[c]));
+}
+
+function isLeaf(v) {
+  return v && typeof v === "object" && !Array.isArray(v) &&
+    Object.prototype.hasOwnProperty.call(v, "value") &&
+    Object.keys(v).every(k => ["value","source","as_of","formula"].includes(k));
+}
+
+function renderValue(v) {
+  if (v === null || v === undefined)
+    return '<span class="null">null</span>';
+  if (typeof v !== "object")
+    return '<span class="primitive">' + esc(v) + '</span>';
+
+  if (Array.isArray(v)) {
+    if (!v.length) return '<span class="empty">[]</span>';
+    return '<div class="array">' + v.map((x,i) =>
+      '<div class="array-item"><b>['+i+']</b> ' + renderValue(x) + '</div>'
+    ).join("") + '</div>';
+  }
+
+  if (isLeaf(v)) {
+    let out = renderValue(v.value);
+    if (v.source !== undefined)
+      out += '<div class="meta">source: ' + esc(v.source) + '</div>';
+    if (v.as_of !== undefined)
+      out += '<div class="meta">as_of: ' + esc(v.as_of) + '</div>';
+    if (v.formula !== undefined)
+      out += '<div class="meta">formula: ' + esc(v.formula) + '</div>';
+    return out;
+  }
+
+  return renderObject(v);
+}
+
+function renderObject(obj) {
+  return Object.entries(obj).map(([k,v]) => {
+    if (v && typeof v === "object" && !Array.isArray(v) && !isLeaf(v)) {
+      const s = analyzeTree(v);
+      const completion = pct(s.filled, s.fields);
+      const badge = s.fields
+        ? ` <span style="font-size:11px;color:#69737d;font-weight:600">
+             ${s.filled}/${s.fields} filled · ${s.nulls} null · ${completion}%
+           </span>`
+        : "";
+
+      return `<details class="section" open>
+        <summary>${esc(k)}${badge}</summary>
+        <div class="content">${renderObject(v)}</div>
+      </details>`;
+    }
+    return `<div class="field">
+      <div class="key">${esc(k)}</div>
+      <div class="value">${renderValue(v)}</div>
+    </div>`;
+  }).join("");
+}
+
+function isFilledValue(v) {
+  return v !== null && v !== undefined && !(typeof v === "string" && v.trim() === "");
+}
+
+function analyzeTree(v) {
+  let fields = 0, filled = 0, nulls = 0, arrays = 0, sections = 0;
+
+  function walk(x, root=false) {
+    if (Array.isArray(x)) {
+      arrays++;
+      x.forEach(walk);
+      return;
+    }
+
+    if (x && typeof x === "object") {
+      if (!root && !isLeaf(x)) sections++;
+
+      if (isLeaf(x)) {
+        fields++;
+        if (isFilledValue(x.value)) filled++;
+        else nulls++;
+        return;
+      }
+
+      Object.values(x).forEach(walk);
+    }
+  }
+
+  walk(v, true);
+  return {fields, filled, nulls, arrays, sections};
+}
+
+function analyzeTopLevelSections(obj) {
+  const result = [];
+
+  for (const [name, value] of Object.entries(obj)) {
+    if (value && typeof value === "object") {
+      const stats = analyzeTree(value);
+      if (stats.fields > 0) result.push({name, ...stats});
+    }
+  }
+
+  return result;
+}
+
+function pct(a, b) {
+  return b ? Math.round((a / b) * 100) : 0;
+}
+
+function renderAnalytics() {
+  const stats = analyzeTree(data);
+  const topSections = analyzeTopLevelSections(data);
+
+  document.getElementById("analytics").style.display = "";
+  document.getElementById("totalFields").textContent = stats.fields.toLocaleString();
+  document.getElementById("filledFields").textContent = stats.filled.toLocaleString();
+  document.getElementById("nullFields").textContent = stats.nulls.toLocaleString();
+  document.getElementById("totalSections").textContent = stats.sections.toLocaleString();
+  document.getElementById("arrayCount").textContent = `${stats.arrays.toLocaleString()} arrays`;
+
+  const filledPct = pct(stats.filled, stats.fields);
+  const nullPct = pct(stats.nulls, stats.fields);
+
+  document.getElementById("filledPct").textContent = `${filledPct}% of all fields`;
+  document.getElementById("nullPct").textContent = `${nullPct}% of all fields`;
+  document.getElementById("overallPercent").textContent = `${filledPct}%`;
+  document.getElementById("overallBar").style.width = `${filledPct}%`;
+  document.getElementById("overallFilledText").textContent =
+    `${stats.filled.toLocaleString()} filled`;
+  document.getElementById("overallNullText").textContent =
+    `${stats.nulls.toLocaleString()} null`;
+
+  const container = document.getElementById("sectionStats");
+  container.innerHTML = topSections.map(s => {
+    const completion = pct(s.filled, s.fields);
+    return `
+      <div class="section-stat">
+        <div class="section-stat-head">
+          <div class="section-stat-name" title="${esc(s.name)}">${esc(s.name)}</div>
+          <div class="section-stat-count">${s.fields.toLocaleString()} fields</div>
+        </div>
+        <div class="mini-bar"><span style="width:${completion}%"></span></div>
+        <div class="section-stat-meta">
+          <span class="filled">${s.filled.toLocaleString()} filled (${completion}%)</span>
+          <span class="null-count">${s.nulls.toLocaleString()} null</span>
+        </div>
+      </div>
+    `;
+  }).join("");
+}
+
+function render() {
+  const viewer = document.getElementById("viewer");
+  viewer.innerHTML = renderObject(data);
+
+  const stats = analyzeTree(data);
+  document.getElementById("stats").textContent =
+    `${stats.filled}/${stats.fields} filled · ${stats.nulls} null · ${stats.sections} sections`;
+
+  renderAnalytics();
+}
+
+function expandAll() {
+  document.querySelectorAll("details.section").forEach(x => x.open=true);
+}
+function collapseAll() {
+  document.querySelectorAll("details.section").forEach(x => x.open=false);
+}
+
+document.getElementById("search").addEventListener("input", e => {
+  const q = e.target.value.trim().toLowerCase();
+  document.querySelectorAll(".section, .field").forEach(el => {
+    el.classList.remove("match");
+    if (!q) { el.style.display=""; return; }
+    const hit = el.textContent.toLowerCase().includes(q);
+    el.style.display = hit ? "" : "none";
+    if (hit) {
+      el.classList.add("match");
+      let p = el.parentElement;
+      while (p) {
+        if (p.tagName === "DETAILS") p.open = true;
+        p = p.parentElement;
+      }
+    }
+  });
+});
+</script>
+</body>
+</html>
+"""
+
+path = Path("/mnt/data/company_intelligence_json_viewer.html")
+path.write_text(html, encoding="utf-8")
+print(f"Created: {path}")

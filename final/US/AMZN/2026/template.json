@@ -1,0 +1,1346 @@
+{
+  "metadata": {
+    "company": {
+      "value": "AMAZON COM INC",
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "as_of": "2026-02-06"
+    },
+    "cik": {
+      "value": 1018724,
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "as_of": "2026-02-06"
+    },
+    "ticker": {
+      "value": "AMZN",
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "as_of": "2026-02-06"
+    },
+    "annual_report_year": {
+      "value": "2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "as_of": "2026-02-06"
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "as_of": "2026-02-06"
+    },
+    "extraction_date": {
+      "value": "2026-08-20T09:56:36.089312+00:00",
+      "source": "system",
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "founded_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "headquarters": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "revenue": {
+        "value": 716924000000.0,
+        "source": "alias of financials.revenue.current_year (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)",
+        "as_of": "2026-02-06"
+      },
+      "employees": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "brands": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "services": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "values": {
+        "value": "innovation, customer obsession, and long-term thinking",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "regions": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "offices": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_revenue": {
+        "value": {
+          "United States": 489657000000.0,
+          "Germany": 45900000000.0,
+          "United Kingdom": 43212000000.0,
+          "Japan": 30688000000.0,
+          "Rest of world": 107467000000.0
+        },
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": "North America",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue": {
+            "value": 426305000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "growth_rate": {
+            "value": 10.02,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_income": {
+            "value": 29619000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_margin": {
+            "value": 0.0695,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue_percentage": {
+            "value": 59.46,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T10:02:05.254823+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "International",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue": {
+            "value": 161894000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "growth_rate": {
+            "value": 13.29,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_income": {
+            "value": 4750000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_margin": {
+            "value": 0.0293,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue_percentage": {
+            "value": 22.58,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T10:02:05.254823+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "AWS",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue": {
+            "value": 128725000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "growth_rate": {
+            "value": 19.68,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_income": {
+            "value": 45606000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_margin": {
+            "value": 0.3543,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "description": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "key_services": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue_percentage": {
+            "value": 17.96,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T10:02:05.254823+00:00"
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2025.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 716924000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        },
+        "previous_year": {
+          "value": 637959000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        },
+        "two_years_prior": {
+          "value": 574785000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": 79975000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        },
+        "previous_year": {
+          "value": 68593000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        },
+        "two_years_prior": {
+          "value": 36852000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 77670000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        },
+        "previous_year": {
+          "value": 59248000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        },
+        "two_years_prior": {
+          "value": 30425000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "as_of": "2026-02-06"
+        }
+      },
+      "ebitda": {
+        "value": 145731000000.0,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-20T10:02:05.254823+00:00"
+      },
+      "ebit": {
+        "value": 79975000000.0,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-20T10:02:05.254823+00:00"
+      },
+      "gross_profit": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "profit_before_tax": {
+        "value": 96770000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-20T10:02:05.254823+00:00"
+      },
+      "depreciation_amortization": {
+        "value": 65756000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "income_tax_expense": {
+        "value": 19100000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "earnings_per_share": {
+        "value": 7.17,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "operating_cash_flow": {
+        "value": 139514000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "capital_expenditure": {
+        "value": 140043000000.0,
+        "source": "approximated (no direct XBRL capex tag): PropertyPlantAndEquipmentGross delta, filing=https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "total_assets": {
+        "value": 818042000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "total_liabilities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "current_assets": {
+        "value": 229083000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "current_liabilities": {
+        "value": 218005000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "shareholders_equity": {
+        "value": 411065000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 86810000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "total_debt": {
+        "value": 68396000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "dividend": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "share_count": {
+        "value": 10731000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "revenue": {
+            "value": 574785000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "operating_income": {
+            "value": 36852000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "net_income": {
+            "value": 30425000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "ebitda": {
+            "value": 102608000000.0,
+            "source": "derived (approximate): historical_year.operating_income + CURRENT year depreciation_amortization (no per-year D&A available in this filing's XBRL comparatives) \u2014 financials.operating_income.current_year + financials.depreciation_amortization",
+            "as_of": "2026-08-20T10:02:05.254823+00:00"
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "people": [
+        {
+          "name": {
+            "value": "Andrew R. Jassy",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "designation": {
+            "value": "President and Chief Executive Officer (Principal Executive Officer) and Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Andrew R. Jassy is an American business executive who is the president and chief executive officer of Amazon since July 2021, succeeding founder Jeff Bezos, who remains executive chairman. Jassy founded and led Amazon Web Services (AWS) from its inception and served as its CEO from April 2016 until July 2021.",
+            "source": "https://en.wikipedia.org/wiki/Andy_Jassy",
+            "as_of": "2026-08-20T10:02:20.535511+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Andrew%20R.%20Jassy%20AMAZON%20COM%20INC",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Andrew%20R.%20Jassy%20AMAZON%20COM%20INC",
+            "as_of": "2026-08-20T10:02:20.535511+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andy_Jassy.jpg/330px-Andy_Jassy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://en.wikipedia.org/wiki/Andy_Jassy",
+            "as_of": "2026-08-20T10:02:20.535511+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "Brian T. Olsavsky",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "designation": {
+            "value": "Senior Vice President and Chief Financial Officer (Principal Financial Officer)",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Brian T. Olsavsky is an American business executive who has served as chief financial officer (CFO) and Senior Vice President of Amazon since 2015.",
+            "source": "https://en.wikipedia.org/wiki/Brian_Olsavsky",
+            "as_of": "2026-08-20T10:02:21.054419+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Brian%20T.%20Olsavsky%20AMAZON%20COM%20INC",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Brian%20T.%20Olsavsky%20AMAZON%20COM%20INC",
+            "as_of": "2026-08-20T10:02:21.054419+00:00"
+          },
+          "photo_url": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        }
+      ],
+      "technology_team": []
+    },
+    "technology": {
+      "technologies_in_use": [],
+      "technology_initiatives": [],
+      "cloud_technologies": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "ai_and_ml": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "data_and_analytics": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "cybersecurity": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_platforms": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "automation": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "partnerships": {
+      "partnerships": []
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "company_name": {
+            "value": "1Life Healthcare",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "acquisition_value": {
+            "value": 3500000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "strategic_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "growth_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_strategy": {
+        "value": "The company is adopting and utilizing artificial intelligence and machine learning technologies, and investing in technology infrastructure.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "market_expansion_strategy": {
+        "value": "The company plans to further expand internationally and into new products, services, and technologies.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "investment_priorities": {
+        "value": "The company invests in technology and infrastructure, fulfillment, and other expense categories, as well as new business opportunities.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      },
+      "management_outlook": {
+        "value": "Management notes that actual results and outcomes may differ materially from forward-looking statements due to various risks including global economic conditions, competition, management of growth, and international expansion.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Fraudulent or unlawful activities of sellers",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Harm to business, damage to reputation, civil or criminal liability, and increased costs under the A-to-z Guarantee.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Policies to prevent sellers from selling unlawful or counterfeit goods may be circumvented or fail.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Intellectual property protection and infringement claims",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Expenditure of significant financial and managerial resources, injunctions, and significant payments for damages.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Difficulty protecting proprietary rights globally and facing increasing claims of intellectual property infringement.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Foreign exchange risk",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Operating results may differ materially from expectations and significant gains or losses on remeasurement of intercompany balances.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Exposure to fluctuations in foreign currency exchange rates due to international operations.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Rapid expansion and resource strain",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Damage to reputation, limited growth, and negative effects on operating results.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Rapid global expansion places significant strain on management, operations, systems, and financial resources.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Fluctuations in operating results and growth rate",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Inability to adjust spending quickly if sales are lower than expected, potentially leading to decreased revenue or growth.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Difficulty in accurately forecasting growth and managing fixed expenses against variable demand.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Fulfillment network and data center optimization",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Excess or insufficient capacity, service interruptions, increased costs, and impairment charges.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Complexity in operating and scaling fulfillment and data center networks leads to potential service and efficiency failures.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Data loss or security incidents",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Risk of loss/misuse of information, litigation, regulatory action, and harm to business and reputation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Failure to prevent or mitigate security incidents affecting technology, products, or systems.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "System interruption and lack of redundancy",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Reduced net sales, liability, and damage to reputation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Occasional system interruptions and lack of full redundancy can make services unavailable or slow.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Hiring and retaining key personnel",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Strained operations, increased payroll costs, and potential harm to business and reputation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Intense competition for skilled personnel and potential labor union organizational efforts.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Supplier relationship risks",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Inability to procure alternatives, potential supply chain disruptions, and exposure to claims.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Reliance on limited or single-source suppliers without long-term guarantees for availability or terms.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Acquisition and investment integration",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Disruption of ongoing business, operating losses, and potential impairment of assets.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Difficulties in successfully integrating acquired companies, technologies, and systems.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Evolving government regulation",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Substantial costs, civil/criminal liability, diminished demand, and forced changes to business practices.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Unfavorable changes in laws governing the internet, retail, data, and AI could harm business operations.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Product liability claims",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Potential for significant liability, product recalls, and increased costs under the A-to-z Guarantee.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Exposure to claims when people or property are harmed by products sold or manufactured.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Tax liabilities and collection obligations",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "impact": {
+            "value": "Increased tax expense, penalties, and potential retroactive liabilities.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          },
+          "brief": {
+            "value": "Subject to evolving global tax frameworks and new obligations to collect taxes on behalf of jurisdictions.",
+            "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+            "as_of": "2026-02-06"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": "The company invests in technology and infrastructure, including scaling its technology infrastructure, adopting artificial intelligence and machine learning technologies, and expanding its data centers, which requires significant financial and managerial resources.",
+        "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "as_of": "2026-02-06"
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "competitive_landscape_description": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": "2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    },
+    "revenue": {
+      "value": 200606000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    },
+    "operating_income": {
+      "value": 27461000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    },
+    "net_income": {
+      "value": 62647000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    },
+    "ebitda": {
+      "value": 47449000000.0,
+      "source": "derived (approximate): https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    },
+    "eps": {
+      "value": 5.75,
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    },
+    "cash_flow": {
+      "value": 45387000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "as_of": "2026-07-31"
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 12.38,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "operating_income_growth": {
+      "value": 16.59,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "net_income_growth": {
+      "value": 31.09,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "operating_margin": {
+      "value": 0.1116,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "net_margin": {
+      "value": 0.1083,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "gross_margin": {
+      "value": null,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "free_cash_flow": {
+      "value": -529000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "net_debt": {
+      "value": -18414000000.0,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "roe": {
+      "value": 0.1889,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "roa": {
+      "value": 0.0949,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "debt_to_equity": {
+      "value": 0.1664,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "current_ratio": {
+      "value": 1.0508,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-20T10:02:05.254823+00:00"
+    },
+    "quarterly_revenue_growth": {
+      "value": 19.62,
+      "formula": "yoy % change on quarterly revenue (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T10:02:29.848675+00:00"
+    },
+    "quarterly_net_income_growth": {
+      "value": 244.9,
+      "formula": "yoy % change on quarterly net income (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T10:02:29.848675+00:00"
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "High profitability and strong financial growth",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "Net income grew by 31.09% year-over-year, reaching $77.67 billion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Dominant cloud computing segment",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The AWS segment generated $128.725 billion in revenue with a high operating margin of 35.43%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strong balance sheet and liquidity",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The company holds $86.81 billion in cash and cash equivalents with a low debt-to-equity ratio of 0.1664.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Significant scale of operations",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "Total annual revenue reached $716.92 billion, supported by $818.04 billion in total assets.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "Negative free cash flow",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The company reported a free cash flow of -$529 million, driven by high capital expenditures of $140.04 billion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Low operating margins in core retail segments",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The International segment operates at a thin 2.93% operating margin, while North America operates at 6.95%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Tight liquidity position",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The current ratio is 1.05, indicating limited headroom between current assets ($229.08 billion) and current liabilities ($218.01 billion).",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Continued international market expansion",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The company's strategy explicitly includes plans to further expand internationally and into new products and services.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Investment in AI and machine learning",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The company is actively adopting and utilizing artificial intelligence and machine learning technologies as part of its technology strategy.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Growth in cloud infrastructure demand",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The AWS segment is currently growing at a rate of 19.68%, the highest among the company's reported business segments.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Regulatory and legal risks regarding seller conduct",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The company faces risks from fraudulent or unlawful activities of sellers, which can lead to civil or criminal liability and damage to reputation.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Intellectual property and litigation exposure",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "The company faces increasing claims of intellectual property infringement, which may require significant financial and managerial resources to defend.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Operational risks from rapid expansion",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "Rapid global expansion places significant strain on management, operations, systems, and financial resources, potentially leading to negative effects on operating results.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Cybersecurity and data privacy threats",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          },
+          "evidence": {
+            "value": "Failure to prevent or mitigate security incidents could result in the loss or misuse of information, leading to regulatory action and litigation.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T10:02:30.170225+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "Strong",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "demand_trend": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "technology_adoption": {
+        "value": "Aggressive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "spending_trend": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Complex",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "competitive_intensity": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "outlook": {
+        "value": "Positive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      }
+    },
+    "industry_forecast": {
+      "value": "The company is positioned for a strong near-term growth trajectory, evidenced by a 12.38% overall revenue increase and a robust 19.68% growth rate in its high-margin AWS segment. Future expansion will be driven by continued heavy investment in technology infrastructure, artificial intelligence, and global market reach. While international operations and cloud services provide significant momentum, the company must navigate risks associated with rapid scaling, fulfillment network optimization, and intense competition for skilled personnel.",
+      "source": "synthesized: LLM analysis over extracted + enriched data",
+      "as_of": "2026-08-20T10:02:30.170225+00:00"
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": 2867433570304,
+        "source": "yfinance:info: AMZN",
+        "as_of": "2026-08-20T10:02:09.267378+00:00"
+      },
+      "share_price": {
+        "value": 265.84,
+        "source": "yfinance:info: AMZN",
+        "as_of": "2026-08-20T10:02:09.267378+00:00"
+      },
+      "shares_outstanding": {
+        "value": 10786313572,
+        "source": "yfinance:info: AMZN",
+        "as_of": "2026-08-20T10:02:09.267378+00:00"
+      },
+      "stock_exchange": {
+        "value": "NMS",
+        "source": "yfinance:info: AMZN",
+        "as_of": "2026-08-20T10:02:09.267378+00:00"
+      },
+      "ticker": {
+        "value": "AMZN",
+        "source": "yfinance:info: AMZN",
+        "as_of": "2026-08-20T10:02:09.267378+00:00"
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "title": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "summary": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "category": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "note": "Partnership|Products/Technology|Recognition"
+          },
+          "url": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": "The industry is poised for continued expansion, driven by robust double-digit revenue growth and significant capital investment in infrastructure. Companies are increasingly leveraging high-margin cloud services and AI integration to offset the operational complexities of global fulfillment and international scaling.",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      },
+      "growth_drivers": {
+        "value": "Cloud computing adoption, artificial intelligence and machine learning integration, global e-commerce expansion, infrastructure and fulfillment network optimization, digital service diversification",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T10:02:30.170225+00:00"
+      }
+    },
+    "competitors": {
+      "key_competitors": []
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "award": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": "AMAZON MICRO INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T10:02:22.421735+00:00"
+          },
+          "start_date": {
+            "value": "2018-02-09",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T10:02:22.421735+00:00"
+          },
+          "end_date": {
+            "value": "2018-05-07",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T10:02:22.421735+00:00"
+          },
+          "contract_details": {
+            "value": "SAMSUNG WIFI HOTSPOTS \u2014 contract value $184",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T10:02:22.421735+00:00"
+          }
+        }
+      ]
+    }
+  }
+}

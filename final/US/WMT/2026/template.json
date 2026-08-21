@@ -1,0 +1,1645 @@
+{
+  "metadata": {
+    "company": {
+      "value": "Walmart Inc.",
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+      "as_of": "2026-03-13"
+    },
+    "cik": {
+      "value": 104169,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+      "as_of": "2026-03-13"
+    },
+    "ticker": {
+      "value": "WMT",
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+      "as_of": "2026-03-13"
+    },
+    "annual_report_year": {
+      "value": "2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+      "as_of": "2026-03-13"
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+      "as_of": "2026-03-13"
+    },
+    "extraction_date": {
+      "value": "2026-08-20T09:34:38.689104+00:00",
+      "source": "system",
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "Walmart Inc.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "founded_year": {
+        "value": "1945",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "headquarters": {
+        "value": "Bentonville, Arkansas",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "revenue": {
+        "value": 706413000000.0,
+        "source": "alias of financials.revenue.current_year (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)",
+        "as_of": "2026-03-13"
+      },
+      "employees": {
+        "value": "approximately 2.1 million associates",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "brands": {
+        "value": "Walmart, Walmart Neighborhood Market, Sam's Club, Athletic Works, bettergoods, Equate, Free Assembly, Freshness Guaranteed, George, Great Value, Holiday Time, Hyper Tough, Joyspun, Kid Connection, Mainstays, Marketside, No Boundaries, onn., Ozark Trail, Parent's Choice, Sam's Choice, Scoop, Spring Valley, Time and Tru, Way to Celebrate, Wonder Nation, Avia, Better Homes Gardens, Sofia Jeans by Sofia Vergara, The Pioneer Woman, Member's Mark, Aurrera, Lider",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "services": {
+        "value": "retail, wholesale, eCommerce, membership, advertising, marketplace, fulfillment services, financial services, pharmacy, optical, hearing services, tire and battery installation, photo and tech assistance, home and auto solutions",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": "helping people around the world save money and live better",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "vision": {
+        "value": "Save money. Live better.",
+        "source": "https://www.wikidata.org/wiki/Special:EntityData/Q483551.json",
+        "as_of": "2026-08-20T09:39:10.309312+00:00"
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "regions": {
+        "value": "U.S., Africa, Canada, Central America, Chile, China, India, Mexico",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "offices": {
+        "value": "office facilities in Bentonville, Arkansas, and throughout the U.S. and internationally",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "delivery_centers": {
+        "value": "192 distribution facilities in the U.S. and 179 distribution facilities outside the U.S.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "geographic_revenue": {
+        "value": "Walmart U.S. (68%), Walmart International (19%), Sam's Club U.S. (13%)",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": "Walmart\u00a0U.S.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "revenue": {
+            "value": 482975000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "growth_rate": {
+            "value": 4.45,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "operating_income": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "operating_margin": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "description": {
+            "value": "A mass merchandiser of consumer products, operating under the \"Walmart\" and \"Walmart Neighborhood Market\" brands, as well as walmart.com and the Walmart mobile application.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "key_services": {
+            "value": [
+              "Grocery",
+              "General merchandise",
+              "Health and wellness",
+              "Advertising solutions",
+              "Online marketplace",
+              "Supply chain and fulfillment",
+              "Data analytics",
+              "Fuel",
+              "Financial services"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "revenue_percentage": {
+            "value": 68.37,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T09:38:45.685700+00:00"
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2026.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 706413000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        },
+        "previous_year": {
+          "value": 674538000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        },
+        "two_years_prior": {
+          "value": 642637000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": 29825000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        },
+        "previous_year": {
+          "value": 29348000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        },
+        "two_years_prior": {
+          "value": 27012000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 21893000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        },
+        "previous_year": {
+          "value": 19436000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        },
+        "two_years_prior": {
+          "value": 15511000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+          "as_of": "2026-03-13"
+        }
+      },
+      "ebitda": {
+        "value": null,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-20T09:38:45.685700+00:00"
+      },
+      "ebit": {
+        "value": 29825000000.0,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-20T09:38:45.685700+00:00"
+      },
+      "gross_profit": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "profit_before_tax": {
+        "value": 29092000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-20T09:38:45.685700+00:00"
+      },
+      "depreciation_amortization": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "income_tax_expense": {
+        "value": 7199000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "earnings_per_share": {
+        "value": 2.73,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "operating_cash_flow": {
+        "value": 41565000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "capital_expenditure": {
+        "value": 26642000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "total_assets": {
+        "value": 284668000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "total_liabilities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "current_assets": {
+        "value": 84874000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "current_liabilities": {
+        "value": 107469000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "shareholders_equity": {
+        "value": 99617000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 10700000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "total_debt": {
+        "value": 38166000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "dividend": {
+        "value": 0.94,
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "share_count": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "revenue": {
+            "value": 642637000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "operating_income": {
+            "value": 27012000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "net_income": {
+            "value": 15511000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "ebitda": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": "We are deliberate about where and how we choose to operate to best enable long-term, sustainable and profitable growth.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "The Company's operations comprise three reportable segments: Walmart U.S., Walmart International, and Sam's Club U.S.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "John R. Furner",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "designation": {
+            "value": "President and Chief Executive Officer and Director",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "John Furner is an American business executive who is the president and chief executive officer (CEO) of Walmart Inc. He was president and CEO of Walmart U.S. from 2019 to 2026, and CEO of Sam's Club from 2017 to 2019. Furner succeeded Doug McMillon, who retired in January 2026.",
+            "source": "https://en.wikipedia.org/wiki/John_Furner",
+            "as_of": "2026-08-20T09:39:05.723922+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=John%20R.%20Furner%20Walmart%20Inc.",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=John%20R.%20Furner%20Walmart%20Inc.",
+            "as_of": "2026-08-20T09:39:05.723922+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/John_Furner_headshot_2019.jpg/330px-John_Furner_headshot_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://en.wikipedia.org/wiki/John_Furner",
+            "as_of": "2026-08-20T09:39:05.723922+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "John David Rainey",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "designation": {
+            "value": "Executive Vice President and Chief Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "John David Rainey is a senior United States district judge of the United States District Court for the Southern District of Texas.",
+            "source": "https://en.wikipedia.org/wiki/John_David_Rainey",
+            "as_of": "2026-08-20T09:39:06.139739+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=John%20David%20Rainey%20Walmart%20Inc.",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=John%20David%20Rainey%20Walmart%20Inc.",
+            "as_of": "2026-08-20T09:39:06.139739+00:00"
+          },
+          "photo_url": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        }
+      ],
+      "technology_team": []
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "category": {
+            "value": "Advanced Technologies",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Used to support customer and member-facing experiences, associate productivity, and operational efficiency across the ecosystem.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "Mobile Scan & Go",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "category": {
+            "value": "Checkout and Payment",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "A mobile checkout and payment solution that allows members to bypass the checkout line.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "Just Go",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "category": {
+            "value": "Checkout and Payment",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "A friction-free exit experience for members.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "eCommerce websites",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "category": {
+            "value": "Digital Platforms",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Platforms including walmart.com, samsclub.com, walmart.com.mx, walmart.ca, flipkart.com, and samclub.cn used for online retail.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "Mobile applications",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "category": {
+            "value": "Digital Platforms",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Applications used to facilitate omnichannel shopping and service access.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "Supply chain automation",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "category": {
+            "value": "Logistics",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Investments in automation to improve fulfillment and delivery capabilities.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        }
+      ],
+      "technology_initiatives": [
+        {
+          "date": {
+            "value": "1996",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "title": {
+            "value": "eCommerce initiative",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "details": {
+            "value": "Creation of walmart.com and samsclub.com.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "date": {
+            "value": "2007",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "title": {
+            "value": "Site-to-Store service",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "details": {
+            "value": "Launched by walmart.com to enable customers to make a purchase online and pick up merchandise in stores.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "date": {
+            "value": "2018",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "title": {
+            "value": "eCommerce and digital expansion",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "details": {
+            "value": "Acquisition of majority stakes in Flipkart and PhonePe in India.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        }
+      ],
+      "cloud_technologies": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "ai_and_ml": {
+        "value": "The Company integrates advanced technologies such as AI and uses AI-powered tools to support customer and member-facing experiences, associate productivity, and operational efficiency.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "data_and_analytics": {
+        "value": "The Company provides data analytics and insights for suppliers and brands, and operational insights and analytics for suppliers.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "cybersecurity": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_platforms": {
+        "value": "The Company utilizes eCommerce websites, mobile applications (including walmart.com, samsclub.com, and others), and digital platforms to provide omnichannel experiences.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "automation": {
+        "value": "The Company invests in supply chain automation and fulfillment and delivery capabilities.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": "unspecified",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "date": {
+            "value": "1991",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "partnership_type": {
+            "value": "joint venture",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Walmart entered into its first international initiative through a joint venture in Mexico.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": "2018",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "company_name": {
+            "value": "Flipkart",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "acquisition_value": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Acquisition of a majority stake in Flipkart in India to expand eCommerce and digital presence.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "year": {
+            "value": "2018",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "company_name": {
+            "value": "PhonePe",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "acquisition_value": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Acquisition of a majority stake in PhonePe in India to expand eCommerce and digital presence.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "year": {
+            "value": "2025",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "company_name": {
+            "value": "VIZIO Holding Corp.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "acquisition_value": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Acquisition in December 2024 within the Walmart U.S. segment.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-03-13"
+          },
+          "acquisition_value": {
+            "value": 53000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-03-13"
+          },
+          "acquisition_value": {
+            "value": 1896000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-03-13"
+          },
+          "acquisition_value": {
+            "value": 9000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": "To make every day easier for busy families, operate with discipline, sharpen our culture, become more digital, and make trust a competitive advantage.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "strategic_priorities": {
+        "value": "Growth (serve customers through a seamless omnichannel experience), Margin (improve operating income margin through productivity initiatives and category/business mix), and Returns (improve Return on Investment through margin improvement and disciplined capital spend).",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "growth_strategy": {
+        "value": "Focus on serving customers and members through an omnichannel business model, increasing comparable store and club sales (via membership growth at Sam's Club U.S. and Walmart+), accelerating eCommerce sales growth, and expanding omnichannel initiatives.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "digital_strategy": {
+        "value": "Enhancing omnichannel capabilities through stores, eCommerce websites, mobile applications, and service offerings; leveraging AI-powered tools for customer experiences, associate productivity, and operational efficiency.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "technology_strategy": {
+        "value": "Heavy investment in omnichannel and eCommerce innovation, supply chain capabilities, and advanced technologies such as AI to leverage technology, talent, and expertise.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "market_expansion_strategy": {
+        "value": "Deliberate selection of where and how to operate to enable long-term, sustainable, and profitable growth; leveraging global ecosystem and local expertise; expanding offerings such as membership, advertising, marketplace, fulfillment, and financial services.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "investment_priorities": {
+        "value": "Allocating the majority of capital to higher-return areas focused on automation such as eCommerce, supply chain, and store and club investments.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "management_outlook": {
+        "value": "Expects continued uncertainty due to factors such as tariffs, trade restrictions, inflationary trends, currency fluctuations, macroeconomic conditions, employment trends, fuel price volatility, and supply chain pressures.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Cost increases",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "impact": {
+            "value": "Influences net sales and gross profit margin; requires pricing and merchandising strategy adjustments.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "The company faces cost increases that it must either absorb or pass on to customers, impacting profitability.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Rising costs to resolve self-insured general liability claims",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "impact": {
+            "value": "Increased operating expenses as a percentage of net sales.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Higher costs to resolve claims across retail and related industries negatively impacted operating expenses by approximately $0.9 billion in fiscal 2026.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Volatility in fuel prices",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "impact": {
+            "value": "Negatively impacted comparable sales for Sam's Club U.S. and creates uncertainty for future operating results.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Fluctuations in fuel prices directly affect the comparable sales and operating results of the Sam's Club U.S. segment.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Currency exchange rate fluctuations",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "impact": {
+            "value": "Negatively impacted net sales.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Fluctuations in currency exchange rates reduced net sales by $2.8 billion and $3.2 billion in fiscal 2026 and 2025, respectively.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Mix shifts into lower margin merchandise categories",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "impact": {
+            "value": "Partially offset increases in gross profit rate.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Changes in the mix of merchandise sold toward lower-margin categories have acted as a headwind to gross profit rate improvements.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "E-commerce fulfillment costs",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "impact": {
+            "value": "Partially offset gross profit rate increases in the Sam's Club U.S. segment.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          },
+          "brief": {
+            "value": "Higher costs associated with fulfilling e-commerce orders have pressured margins.",
+            "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+            "as_of": "2026-03-13"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": "Walmart invests in technology and process improvements to increase productivity, manage inventory, and reduce costs, including significant capital allocation toward automation, eCommerce, supply chain, and store/club technology investments.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "omnichannel retailer",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "competitive_landscape_description": {
+        "value": "Highly competitive and rapidly evolving; includes brick and mortar, eCommerce and omnichannel retailers operating discount, department, retail and wholesale grocery, drug, dollar, variety and specialty stores, supermarkets, supercenter-type stores, membership-only warehouse clubs, gasoline stations and social commerce platforms.",
+        "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+        "as_of": "2026-03-13"
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": "2026-04-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+      "as_of": "2026-05-29"
+    },
+    "revenue": {
+      "value": 175684000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+      "as_of": "2026-05-29"
+    },
+    "operating_income": {
+      "value": 7493000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+      "as_of": "2026-05-29"
+    },
+    "net_income": {
+      "value": 5330000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+      "as_of": "2026-05-29"
+    },
+    "ebitda": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "eps": {
+      "value": 0.67,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+      "as_of": "2026-05-29"
+    },
+    "cash_flow": {
+      "value": 4738000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+      "as_of": "2026-05-29"
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 4.73,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "operating_income_growth": {
+      "value": 1.63,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "net_income_growth": {
+      "value": 12.64,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "operating_margin": {
+      "value": 0.0422,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "net_margin": {
+      "value": 0.031,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "gross_margin": {
+      "value": null,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "free_cash_flow": {
+      "value": 14923000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "net_debt": {
+      "value": 27466000000.0,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "roe": {
+      "value": 0.2198,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "roa": {
+      "value": 0.0769,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "debt_to_equity": {
+      "value": 0.3831,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "current_ratio": {
+      "value": 0.7898,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-20T09:38:45.685700+00:00"
+    },
+    "quarterly_revenue_growth": {
+      "value": 7.14,
+      "formula": "yoy % change on quarterly revenue (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T09:39:17.904071+00:00"
+    },
+    "quarterly_net_income_growth": {
+      "value": 18.79,
+      "formula": "yoy % change on quarterly net income (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T09:39:17.904071+00:00"
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Massive scale and revenue generation",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Walmart reported annual revenue of $706.413 billion for fiscal year 2026.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strong omnichannel presence",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The company operates a vast network including Walmart U.S., Walmart Neighborhood Market, Sam's Club, and integrated digital platforms like walmart.com and mobile applications.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Extensive private label portfolio",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The company maintains a diverse range of brands including Great Value, Equate, Member's Mark, and Mainstays.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Robust operational cash flow",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Walmart generated $41.565 billion in operating cash flow in fiscal year 2026.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "High e-commerce fulfillment costs",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Higher costs associated with fulfilling e-commerce orders have pressured margins, particularly in the Sam's Club U.S. segment.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Margin pressure from product mix shifts",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Changes in the mix of merchandise sold toward lower-margin categories have acted as a headwind to gross profit rate improvements.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Rising legal and liability expenses",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Higher costs to resolve self-insured general liability claims negatively impacted operating expenses by approximately $0.9 billion in fiscal 2026.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Tight liquidity position",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The company has a current ratio of 0.7898, with current liabilities ($107.469 billion) exceeding current assets ($84.874 billion).",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Expansion of high-margin services",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The company is actively expanding offerings such as membership, advertising, marketplace, fulfillment, and financial services.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Leveraging AI for operational efficiency",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The company's technology strategy includes heavy investment in AI-powered tools for associate productivity and operational efficiency.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Growth in membership programs",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The growth strategy focuses on increasing comparable store and club sales via membership growth at Sam's Club U.S. and Walmart+.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Currency exchange rate volatility",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Fluctuations in currency exchange rates reduced net sales by $2.8 billion in fiscal 2026.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Fuel price volatility",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Fluctuations in fuel prices negatively impacted comparable sales for Sam's Club U.S. and create uncertainty for future operating results.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Macroeconomic and regulatory uncertainty",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "Management expects continued uncertainty due to factors such as tariffs, trade restrictions, and inflationary trends.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Intense competitive landscape",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          },
+          "evidence": {
+            "value": "The industry is described as highly competitive and rapidly evolving, involving a wide range of brick-and-mortar, eCommerce, and social commerce competitors.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T09:39:18.233071+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "moderate",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "demand_trend": {
+        "value": "stable",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "technology_adoption": {
+        "value": "high",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "spending_trend": {
+        "value": "cautious",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "regulatory_environment": {
+        "value": "complex",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "competitive_intensity": {
+        "value": "very high",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "outlook": {
+        "value": "cautiously optimistic",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      }
+    },
+    "industry_forecast": {
+      "value": "Walmart is positioned for continued near-term growth by leveraging its strong omnichannel model and expanding high-margin services like advertising and marketplace offerings. While the company faces headwinds from cost pressures, currency fluctuations, and a shift toward lower-margin merchandise, its strategic focus on AI-driven productivity and supply chain automation aims to improve operating margins. Sustained investment in eCommerce and membership programs remains a key driver to capture broader consumer spending beyond its core grocery business.",
+      "source": "synthesized: LLM analysis over extracted + enriched data",
+      "as_of": "2026-08-20T09:39:18.233071+00:00"
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": 909608419328,
+        "source": "yfinance:info: WMT",
+        "as_of": "2026-08-20T09:38:49.033334+00:00"
+      },
+      "share_price": {
+        "value": 114.3,
+        "source": "yfinance:info: WMT",
+        "as_of": "2026-08-20T09:38:49.033334+00:00"
+      },
+      "shares_outstanding": {
+        "value": 7958079155,
+        "source": "yfinance:info: WMT",
+        "as_of": "2026-08-20T09:38:49.033334+00:00"
+      },
+      "stock_exchange": {
+        "value": "NMS",
+        "source": "yfinance:info: WMT",
+        "as_of": "2026-08-20T09:38:49.033334+00:00"
+      },
+      "ticker": {
+        "value": "WMT",
+        "source": "yfinance:info: WMT",
+        "as_of": "2026-08-20T09:38:49.033334+00:00"
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": "2026-08-19T08:00:29Z",
+            "source": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "Walmart\u2019s Grocery Lead Faces a Higher-Margin Test",
+            "source": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "Walmart\u00a0reports earnings Thursday (Aug. 20), and it enters with a valuable retail advantage that looks both powerful and underused. It captures the weekly grocery trip, yet Amazon increasingly captures what shoppers buy beyond it. The new PYMNTS Intelligence \u2026",
+            "source": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/",
+            "source": "https://www.pymnts.com/walmart/2026/walmarts-grocery-lead-faces-a-higher-margin-test/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T07:11:10Z",
+            "source": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "6-Pk 4-Oz Beyond Meat Beyond Burger Plant-Based Patties + $6.75 Walmart Cash $13.50 + Free Pickup",
+            "source": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "Walmart has 6-Pack 4-Oz Beyond Meat Beyond Burger Plant-Based Patties (24-Oz Total)for $13.47 + Earn $6.75 in Walmart Cash when you select the box on the product page to claim the offer. Select free p",
+            "source": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": "Products/Technology",
+            "source": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup",
+            "source": "https://slickdeals.net/f/19894035-6-pk-4-oz-beyond-meat-beyond-burger-plant-based-patties-6-75-walmart-cash-13-50-free-pickup",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T05:41:38Z",
+            "source": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "Are dogs allowed in Walmart in California?",
+            "source": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "Are Dogs Allowed in Walmart in California? Understanding California\u2019s Pet Policies Generally, pets are not allowed in Walmart stores in California unless they are certified service animals assisting individuals with disabilities. This policy aligns with feder\u2026",
+            "source": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/",
+            "source": "https://www.lifesciencesworld.com/are-dogs-allowed-in-walmart-in-california/",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T04:06:28Z",
+            "source": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "NASCAR Arcade Rush (Nintendo Switch) $11",
+            "source": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "Amazon [amazon.com] has *NASCAR Arcade Rush (Nintendo Switch)* for *$11*. Shipping is free w/ Prime or on $35+. \n \nWalmart [walmart.com] has *NASCAR Arcade Rush (Nintendo Switch)* for *$11*. Shipping...",
+            "source": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35",
+            "source": "https://slickdeals.net/f/19894752-nascar-arcade-rush-nintendo-switch-11-free-shipping-w-prime-or-on-35",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T02:25:50Z",
+            "source": "https://slickdeals.net/f/19895262-signature-fitness-olympic-curl-bar-4ft-alloy-steel-barbell-with-2in-sleeves-silver-finish-for-bicep-and-tricep-training-10-walmart",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "Signature Fitness Olympic Curl Bar, 4FT Alloy Steel Barbell with 2IN Sleeves, Silver Finish for Bicep and Tricep Training $10 @ Walmart",
+            "source": "https://slickdeals.net/f/19895262-signature-fitness-olympic-curl-bar-4ft-alloy-steel-barbell-with-2in-sleeves-silver-finish-for-bicep-and-tricep-training-10-walmart",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "Signature Fitness Olympic Curl Bar, 4FT Alloy Steel Barbell with 2IN Sleeves, Silver Finish for Bicep and Tricep Training $10 @ Walmart \n \nFree shipping on orders over $35 or with Walmart+. Otherwise...",
+            "source": "https://slickdeals.net/f/19895262-signature-fitness-olympic-curl-bar-4ft-alloy-steel-barbell-with-2in-sleeves-silver-finish-for-bicep-and-tricep-training-10-walmart",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://slickdeals.net/f/19895262-signature-fitness-olympic-curl-bar-4ft-alloy-steel-barbell-with-2in-sleeves-silver-finish-for-bicep-and-tricep-training-10-walmart",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://slickdeals.net/f/19895262-signature-fitness-olympic-curl-bar-4ft-alloy-steel-barbell-with-2in-sleeves-silver-finish-for-bicep-and-tricep-training-10-walmart",
+            "source": "https://slickdeals.net/f/19895262-signature-fitness-olympic-curl-bar-4ft-alloy-steel-barbell-with-2in-sleeves-silver-finish-for-bicep-and-tricep-training-10-walmart",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T02:13:00Z",
+            "source": "https://www.stltoday.com/news/local/business/article_4bb708b4-8311-46f0-89b8-2ba588f66daf.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "Walmart, drone delivery company Wing face tough audience in Maplewood",
+            "source": "https://www.stltoday.com/news/local/business/article_4bb708b4-8311-46f0-89b8-2ba588f66daf.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "\"I don't think we need more clutter in the skies,\" one person said. Said another, \"I really don't want it in my backyard.\"",
+            "source": "https://www.stltoday.com/news/local/business/article_4bb708b4-8311-46f0-89b8-2ba588f66daf.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.stltoday.com/news/local/business/article_4bb708b4-8311-46f0-89b8-2ba588f66daf.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://www.stltoday.com/news/local/business/article_4bb708b4-8311-46f0-89b8-2ba588f66daf.html",
+            "source": "https://www.stltoday.com/news/local/business/article_4bb708b4-8311-46f0-89b8-2ba588f66daf.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T01:16:35Z",
+            "source": "https://www.dealnews.com/No-Boundaries-Insulated-Tote-Bag-for-10-free-shipping-w-35/22052797.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "title": {
+            "value": "No Boundaries Insulated Tote Bag for $10 + free shipping w/ $35",
+            "source": "https://www.dealnews.com/No-Boundaries-Insulated-Tote-Bag-for-10-free-shipping-w-35/22052797.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "summary": {
+            "value": "Walmart offers the No Boundaries Insulated Tote Bag in several styles for $9.98.\u00a0 That's a savings of half off the list price.\u00a0 Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart\r\n Features\r\n <ul> <li>measures 16\" x 19.5\" x 7\"</\u2026",
+            "source": "https://www.dealnews.com/No-Boundaries-Insulated-Tote-Bag-for-10-free-shipping-w-35/22052797.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.dealnews.com/No-Boundaries-Insulated-Tote-Bag-for-10-free-shipping-w-35/22052797.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          },
+          "url": {
+            "value": "https://www.dealnews.com/No-Boundaries-Insulated-Tote-Bag-for-10-free-shipping-w-35/22052797.html",
+            "source": "https://www.dealnews.com/No-Boundaries-Insulated-Tote-Bag-for-10-free-shipping-w-35/22052797.html",
+            "as_of": "2026-08-20T09:39:03.277708+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T00:58:38Z",
+            "source": "https://www.dealnews.com/Lifestyle-Solutions-Alexa-Club-Chair-for-127-free-shipping/22052776.html",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "title": {
+            "value": "Lifestyle Solutions Alexa Club Chair for $127 + free shipping",
+            "source": "https://www.dealnews.com/Lifestyle-Solutions-Alexa-Club-Chair-for-127-free-shipping/22052776.html",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "summary": {
+            "value": "Walmart offers the Lifestyle Solutions Alexa Club Chair in Brown for $127.\u00a0 That's a $113 low.\u00a0 Shipping is free. Buy Now at Walmart",
+            "source": "https://www.dealnews.com/Lifestyle-Solutions-Alexa-Club-Chair-for-127-free-shipping/22052776.html",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.dealnews.com/Lifestyle-Solutions-Alexa-Club-Chair-for-127-free-shipping/22052776.html",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "url": {
+            "value": "https://www.dealnews.com/Lifestyle-Solutions-Alexa-Club-Chair-for-127-free-shipping/22052776.html",
+            "source": "https://www.dealnews.com/Lifestyle-Solutions-Alexa-Club-Chair-for-127-free-shipping/22052776.html",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T23:30:03Z",
+            "source": "https://slickdeals.net/f/19894626-1000-pc-mario-kart-rainbow-road-jigsaw-puzzle-12-60-free-pickup",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "title": {
+            "value": "1000-Pc Mario Kart Rainbow Road Jigsaw Puzzle $12.60 + Free Pickup",
+            "source": "https://slickdeals.net/f/19894626-1000-pc-mario-kart-rainbow-road-jigsaw-puzzle-12-60-free-pickup",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "summary": {
+            "value": "Walmart\u00a0has 1000-Piece Mario Kart Rainbow Road Jigsaw Puzzle on sale for $12.57. Select free store pickup where available. Otherwise, shipping is free with Walmart+ (30-day trial for $1) or on orders",
+            "source": "https://slickdeals.net/f/19894626-1000-pc-mario-kart-rainbow-road-jigsaw-puzzle-12-60-free-pickup",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://slickdeals.net/f/19894626-1000-pc-mario-kart-rainbow-road-jigsaw-puzzle-12-60-free-pickup",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          },
+          "url": {
+            "value": "https://slickdeals.net/f/19894626-1000-pc-mario-kart-rainbow-road-jigsaw-puzzle-12-60-free-pickup",
+            "source": "https://slickdeals.net/f/19894626-1000-pc-mario-kart-rainbow-road-jigsaw-puzzle-12-60-free-pickup",
+            "as_of": "2026-08-20T09:39:03.279772+00:00"
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": "The omnichannel retail industry is expected to maintain steady growth as companies increasingly integrate digital and physical shopping experiences to capture consumer demand. While macroeconomic pressures and rising operational costs remain significant headwinds, firms that successfully leverage automation, membership programs, and diversified service offerings are well-positioned to sustain long-term profitability.",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      },
+      "growth_drivers": {
+        "value": "omnichannel integration, eCommerce expansion, membership-based loyalty programs, AI-driven operational efficiency, supply chain automation, diversified service offerings, advertising and marketplace growth",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T09:39:18.233071+00:00"
+      }
+    },
+    "competitors": {
+      "key_competitors": []
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "award": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "start_date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "end_date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "contract_details": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    }
+  }
+}

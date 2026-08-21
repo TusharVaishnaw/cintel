@@ -1,0 +1,2082 @@
+{
+  "metadata": {
+    "company": {
+      "value": "MICROSOFT CORP",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "as_of": "2026-07-29"
+    },
+    "cik": {
+      "value": 789019,
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "as_of": "2026-07-29"
+    },
+    "ticker": {
+      "value": "MSFT",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "as_of": "2026-07-29"
+    },
+    "annual_report_year": {
+      "value": "2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "as_of": "2026-07-29"
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "as_of": "2026-07-29"
+    },
+    "extraction_date": {
+      "value": "2026-08-20T07:06:50.317770+00:00",
+      "source": "system",
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "Microsoft",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "founded_year": {
+        "value": "1975",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "headquarters": {
+        "value": "Redmond, Washington",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "revenue": {
+        "value": 331839000000.0,
+        "source": "alias of financials.revenue.current_year (https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm)",
+        "as_of": "2026-07-29"
+      },
+      "employees": {
+        "value": "approximately 223,000",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "brands": {
+        "value": "Windows, XBOX, Microsoft Copilot, Microsoft Edge, Bing, Surface, GitHub, LinkedIn, Dynamics 365, SQL Server, Visual Studio",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "services": {
+        "value": "cloud services, search advertising, gaming services, enterprise and partner services, consulting services, training and certification",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": "Australia, Canada, China, France, Germany, India, Ireland, Japan, the Netherlands, Sweden, United Kingdom",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "regions": {
+        "value": "Americas, Asia Pacific, Europe, and the Middle East",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "offices": {
+        "value": "offices, datacenters, and research and development",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "delivery_centers": {
+        "value": "global network of datacenters",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "geographic_revenue": {
+        "value": {
+          "United States": 170794000000.0,
+          "Other Countries": 161045000000.0
+        },
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "geographic_employee_distribution": {
+        "value": "121,000 in the U.S. and 102,000 internationally",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": "Productivity and Business Processes",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue": {
+            "value": 139996000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "growth_rate": {
+            "value": 15.88,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_income": {
+            "value": 83879000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_margin": {
+            "value": 0.5992,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "description": {
+            "value": "Focuses on productivity and business processes, including business solutions and collaboration tools.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "key_services": {
+            "value": [
+              "Office",
+              "LinkedIn",
+              "Dynamics"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue_percentage": {
+            "value": 42.19,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T07:14:43.891366+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "Intelligent Cloud",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue": {
+            "value": 137791000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "growth_rate": {
+            "value": 29.67,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_income": {
+            "value": 56972000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_margin": {
+            "value": 0.4135,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "description": {
+            "value": "Consists of public, private, and hybrid server products and cloud services that power modern business and developers.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "key_services": {
+            "value": [
+              "Azure",
+              "GitHub",
+              "SQL Server",
+              "Windows Server",
+              "Enterprise Support Services",
+              "Industry Solutions"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue_percentage": {
+            "value": 41.52,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T07:14:43.891366+00:00"
+          }
+        },
+        {
+          "segment_name": {
+            "value": "More Personal Computing",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue": {
+            "value": 54052000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "growth_rate": {
+            "value": -1.09,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_income": {
+            "value": 14386000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_margin": {
+            "value": 0.2662,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "description": {
+            "value": "Consists of products and services that put customers at the center of the experience with technology.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "key_services": {
+            "value": [
+              "Windows",
+              "Surface",
+              "PC accessories",
+              "XBOX",
+              "Search advertising"
+            ],
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue_percentage": {
+            "value": 16.29,
+            "formula": "per segment: segment.revenue / financials.revenue.current_year",
+            "as_of": "2026-08-20T07:14:43.891366+00:00"
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2026.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 331839000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        },
+        "previous_year": {
+          "value": 281724000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        },
+        "two_years_prior": {
+          "value": 245122000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": 155237000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        },
+        "previous_year": {
+          "value": 128528000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        },
+        "two_years_prior": {
+          "value": 109433000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 133749000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        },
+        "previous_year": {
+          "value": 101832000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        },
+        "two_years_prior": {
+          "value": 88136000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+          "as_of": "2026-07-29"
+        }
+      },
+      "ebitda": {
+        "value": 193771000000.0,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-20T07:14:43.891366+00:00"
+      },
+      "ebit": {
+        "value": 155237000000.0,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-20T07:14:43.891366+00:00"
+      },
+      "gross_profit": {
+        "value": 225465000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "profit_before_tax": {
+        "value": 165934000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-20T07:14:43.891366+00:00"
+      },
+      "depreciation_amortization": {
+        "value": 38534000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "income_tax_expense": {
+        "value": 32185000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "earnings_per_share": {
+        "value": 17.95,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "operating_cash_flow": {
+        "value": 182935000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "capital_expenditure": {
+        "value": 115948000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "total_assets": {
+        "value": 758376000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "total_liabilities": {
+        "value": 315989000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "current_assets": {
+        "value": 207710000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "current_liabilities": {
+        "value": 168825000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "shareholders_equity": {
+        "value": 442387000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "cash_and_cash_equivalents": {
+        "value": 20935000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "total_debt": {
+        "value": 40294000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "dividend": {
+        "value": 3.64,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "share_count": {
+        "value": 7427000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "revenue": {
+            "value": 245122000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "operating_income": {
+            "value": 109433000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "net_income": {
+            "value": 88136000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "ebitda": {
+            "value": 147967000000.0,
+            "source": "derived (approximate): historical_year.operating_income + CURRENT year depreciation_amortization (no per-year D&A available in this filing's XBRL comparatives) \u2014 financials.operating_income.current_year + financials.depreciation_amortization",
+            "as_of": "2026-08-20T07:14:43.891366+00:00"
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "The business is organized into three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "Satya Nadella",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "designation": {
+            "value": "Chairman and Chief Executive Officer (Principal Executive Officer)",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Satya Narayana Nadella is an Indian-American business executive. He is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+            "source": "https://en.wikipedia.org/wiki/Satya_Nadella",
+            "as_of": "2026-08-20T07:14:51.181277+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Satya%20Nadella%20MICROSOFT%20CORP",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Satya%20Nadella%20MICROSOFT%20CORP",
+            "as_of": "2026-08-20T07:14:51.181277+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/330px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://en.wikipedia.org/wiki/Satya_Nadella",
+            "as_of": "2026-08-20T07:14:51.181277+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "Amy E. Hood",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "designation": {
+            "value": "Executive Vice President and Chief Financial Officer (Principal Financial Officer)",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Amy Hood is an American business executive and has been the executive vice president and chief financial officer of Microsoft since 2013. Hood is the first female chief financial officer in Microsoft's history.",
+            "source": "https://en.wikipedia.org/wiki/Amy_Hood",
+            "as_of": "2026-08-20T07:14:51.484759+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Amy%20E.%20Hood%20MICROSOFT%20CORP",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Amy%20E.%20Hood%20MICROSOFT%20CORP",
+            "as_of": "2026-08-20T07:14:51.484759+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Amy_Hood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "source": "https://en.wikipedia.org/wiki/Amy_Hood",
+            "as_of": "2026-08-20T07:14:51.484759+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "Alice L. Jolla",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "designation": {
+            "value": "Corporate Vice President and Chief Accounting Officer (Principal Accounting Officer)",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Alice%20L.%20Jolla%20MICROSOFT%20CORP",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Alice%20L.%20Jolla%20MICROSOFT%20CORP",
+            "as_of": "2026-08-20T07:14:51.768640+00:00"
+          },
+          "photo_url": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        }
+      ],
+      "technology_team": []
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "Azure",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Cloud Services",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A comprehensive set of cloud services for computing, networking, storage, mobile and web application services, AI, and Internet of Things.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Microsoft Copilot",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A digital companion designed to inform, entertain, and inspire.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Microsoft Edge",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Software",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A web browser used for user acquisition and engagement.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Bing",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Search Engine",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A search engine used for user acquisition and engagement.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Windows Server",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Operating System",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "An operating system designed to support integrated server infrastructure and middleware.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "SQL Server",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Database",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A database management system provided as part of server products.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "GitHub",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Development Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A collaboration platform for developers to manage code and incorporate AI and agent-based tools.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Azure AI Foundry",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "AI Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A unified platform for developers to design, customize, and manage AI applications and agents.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Power Apps",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Low Code Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A low code development platform for building business applications.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Power Automate",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Low Code Platform",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A low code development platform for business process automation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "XBOX Game Pass",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Subscription Service",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A subscription service providing access to a curated library of first- and third-party gaming titles.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Surface",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Hardware",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "A line of computing devices including Copilot+ PCs.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Microsoft 365 Copilot",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "AI",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "An AI-driven tool designed to provide productivity gains and revolutionize business processes.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Microsoft Defender for Endpoint",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Security",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "An endpoint security solution.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "System Center",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Management Software",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Tools for server management and operations.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "technology": {
+            "value": "Visual Studio",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "category": {
+            "value": "Development Tools",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Software development lifecycle tools for architects, developers, and testers.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        }
+      ],
+      "technology_initiatives": [
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "title": {
+            "value": "Microsoft Copilot",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "details": {
+            "value": "A digital companion designed to inform, entertain, and inspire, integrated into Microsoft Edge and Bing.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "title": {
+            "value": "Azure AI Foundry",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "details": {
+            "value": "A unified platform for developers to design, customize, and manage AI applications and agents and applications.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "title": {
+            "value": "Microsoft 365 Copilot",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "details": {
+            "value": "AI and ambient intelligence tools designed to drive insights, revolutionize business processes, and provide productivity gains.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "date": {
+            "value": "2020",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "title": {
+            "value": "Sustainability Goals",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "details": {
+            "value": "Commitment to become a carbon negative, water positive, and zero waste company by 2030.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        }
+      ],
+      "cloud_technologies": {
+        "value": "Azure is a comprehensive set of cloud services that offer developers, IT professionals, and enterprises freedom to build, deploy, and manage applications on any platform or device.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "ai_and_ml": {
+        "value": "Microsoft's AI offerings span every layer of the technology stack, including Azure AI, Microsoft 365 Copilot, and agentic AI solutions.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "data_and_analytics": {
+        "value": "Database, business intelligence, and data warehousing solutions are provided as part of server products and cloud services.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "cybersecurity": {
+        "value": "Integrated, end-to-end solutions spanning security, compliance, identity, and management across all clouds and platforms, including Microsoft Defender for Endpoint and Azure Security offerings.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "digital_platforms": {
+        "value": "Includes XBOX ecosystem, LinkedIn professional network, and Dynamics 365 unified cloud-based intelligent business applications.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "automation": {
+        "value": "Includes Power Automate and agentic AI platforms for business process automation.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": "Windows OEMs",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "partnership_type": {
+            "value": "OEM licensing",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Manufacturers who license and preinstall Microsoft software on devices.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "partner": {
+            "value": "Chip manufacturers",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "partnership_type": {
+            "value": "Supply chain/Technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Strong partnerships with chip manufacturers to support AI cloud services and hardware.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "partner": {
+            "value": "Third-party manufacturers",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "partnership_type": {
+            "value": "Manufacturing",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Engaged to produce Microsoft devices and hardware components.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "company_name": {
+            "value": "Activision Blizzard, Inc.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "acquisition_value": {
+            "value": 75400000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Activision Blizzard is a leader in game development and an interactive entertainment content publisher. The acquisition will accelerate the growth in our gaming business across mobile, PC, console, and cloud gaming.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-07-29"
+          },
+          "acquisition_value": {
+            "value": 1743000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-07-29"
+          },
+          "acquisition_value": {
+            "value": 5978000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-07-29"
+          },
+          "acquisition_value": {
+            "value": 69132000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": "The company focuses on identifying new opportunities to attract gamers, growing the platform, and expanding to new ecosystems to engage as many gamers as possible. It also emphasizes integration across the technology stack, openness, improving time to value, reducing costs, and increasing agility through the Microsoft Cloud.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "strategic_priorities": {
+        "value": "Priorities include growing the XBOX ecosystem, expanding search advertising through Microsoft Copilot and Edge, scaling AI infrastructure and services, and fostering continuous employee development and organizational culture.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "growth_strategy": {
+        "value": "Growth is driven by active user base expansion, availability of content, exclusive game content, computational power and reliability of devices, attracting new search users, and scaling AI cloud services and infrastructure.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "digital_strategy": {
+        "value": "The strategy involves leveraging Microsoft Copilot as a digital companion, utilizing Edge and Bing for user acquisition, and providing a unified platform (Azure AI Foundry) for developers to design and manage AI applications.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "technology_strategy": {
+        "value": "The company invests in AI-based products and services, cloud computing, and hardware (including custom-built silicon). It focuses on maintaining competitive advantages through product differentiation and technical control over products and services.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "market_expansion_strategy": {
+        "value": "The company aims to attract gamers across various end points (consoles, PC, mobile) and expand its cloud services globally through a network of datacenters to meet the needs of businesses of all sizes.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "investment_priorities": {
+        "value": "Significant investments are directed toward research and development (AI, cloud, devices, security), datacenter infrastructure, AI talent, and employee wellbeing.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "management_outlook": {
+        "value": "Management remains focused on scaling AI infrastructure to support growth in services like Microsoft 365 Copilot, while navigating challenges related to infrastructure capacity, supply chain constraints, and cybersecurity threats.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Cyberattacks and security vulnerabilities",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Reduced revenue, increased costs, liability claims, harm to reputation or competitive position, and unauthorized access to systems and data.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Threat actors, including nation-states, use sophisticated methods like password sprays, social engineering, and AI to exploit vulnerabilities in infrastructure and software.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Infrastructure capacity and resource constraints",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Delayed projects, restricted development opportunities, increased costs, and inability to support customer demand.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Growing demand for AI and cloud services requires massive infrastructure investment, which is hindered by power availability, land zoning, environmental regulations, and labor shortages.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Supply chain disruptions",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Delayed infrastructure deployments, reduced sales, and higher costs.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Limited suppliers for critical components like semiconductors and networking equipment lead to shortages and price volatility, exacerbated by geopolitical tensions and trade restrictions.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Platform abuse and digital safety",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Harm to reputation, user engagement, and potential regulatory enforcement or legal liability.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Third parties may use platforms for illegal or inappropriate ends, including impersonation, dissemination of misleading information, or harmful content, requiring costly moderation efforts.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "AI development and deployment risks",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Reputational, competitive, or legal harm, and potential for products to not work as intended.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "AI models may contain biases, inaccuracies, or be used in unforeseen ways, raising ethical concerns and creating new attack surfaces for adversaries.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Complex and evolving legal/regulatory landscape",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Increased operational costs, regulatory enforcement actions, and potential for penalties or service restrictions.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Global requirements regarding data privacy, cybersecurity, environmental standards, and AI governance are inconsistent and constantly changing, creating compliance uncertainty.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Acquisition and strategic alliance integration",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Unsatisfactory returns, impairment of goodwill, management distraction, and compliance challenges.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Integrating new businesses and technologies is complex and may fail to meet strategic goals or adhere to existing security and data governance policies.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Product quality and reliability issues",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "impact": {
+            "value": "Contractual liability, customer claims, reputational damage, and loss of users.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          },
+          "brief": {
+            "value": "Software bugs, design defects, or failures in interdependent systems can disrupt critical business functions for customers and lead to legal or financial consequences.",
+            "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+            "as_of": "2026-07-29"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": "Microsoft is making significant investments in AI infrastructure, including datacenters, compute capacity, and hardware (such as GPUs and custom-built silicon), to support the growth of AI products and services like Microsoft 365 Copilot and Azure AI.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "technology",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "competitive_landscape_description": {
+        "value": "The company faces competition from various software products, alternative platforms, hardware manufacturers, cloud service providers, open-source offerings, search engines, social platforms, and multinational consulting firms.",
+        "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "as_of": "2026-07-29"
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": "2026-03-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    },
+    "revenue": {
+      "value": 82886000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    },
+    "operating_income": {
+      "value": 38398000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    },
+    "net_income": {
+      "value": 31778000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    },
+    "ebitda": {
+      "value": 48565000000.0,
+      "source": "derived (approximate): https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    },
+    "eps": {
+      "value": 4.27,
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    },
+    "cash_flow": {
+      "value": 46679000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+      "as_of": "2026-04-29"
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 17.79,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "operating_income_growth": {
+      "value": 20.78,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "net_income_growth": {
+      "value": 31.34,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "operating_margin": {
+      "value": 0.4678,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "net_margin": {
+      "value": 0.4031,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "gross_margin": {
+      "value": 0.6794,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "free_cash_flow": {
+      "value": 66987000000.0,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "net_debt": {
+      "value": 19359000000.0,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "roe": {
+      "value": 0.3023,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "roa": {
+      "value": 0.1764,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "debt_to_equity": {
+      "value": 0.0911,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "current_ratio": {
+      "value": 1.2303,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-20T07:14:43.891366+00:00"
+    },
+    "quarterly_revenue_growth": {
+      "value": 18.3,
+      "formula": "yoy % change on quarterly revenue (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T07:15:00.970740+00:00"
+    },
+    "quarterly_net_income_growth": {
+      "value": 23.06,
+      "formula": "yoy % change on quarterly net income (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T07:15:00.970740+00:00"
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Strong financial performance and growth",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Revenue grew to $331.84 billion in 2026 from $281.72 billion in the previous year, with a net income growth of 31.34%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Dominant cloud and productivity segments",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "The Intelligent Cloud segment generated $137.79 billion in revenue, while Productivity and Business Processes generated $139.99 billion, together accounting for over 83% of total revenue.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High operational efficiency",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "The company maintains a robust operating margin of 46.78% and a gross margin of 67.94%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strong balance sheet",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "The company holds $442.39 billion in shareholders' equity with a low debt-to-equity ratio of 0.0911.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "Stagnation in personal computing segment",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "The 'More Personal Computing' segment experienced a negative growth rate of -1.09%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "High capital expenditure requirements",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "The company reported capital expenditures of $115.95 billion, reflecting the high cost of scaling infrastructure.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Integration risks from acquisitions",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Business challenges note that integrating new businesses and technologies is complex and may fail to meet strategic goals or adhere to existing security policies.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Expansion of AI-driven services",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Strategic priorities include scaling AI infrastructure and services, and leveraging Microsoft Copilot as a digital companion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Growth in the XBOX ecosystem",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Corporate strategy focuses on identifying new opportunities to attract gamers and expanding the platform to new ecosystems like mobile and PC.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Global cloud infrastructure scaling",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "The company aims to expand its cloud services globally through a network of datacenters to meet the needs of businesses of all sizes.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Regulatory and compliance risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Business challenges highlight that global requirements regarding data privacy, cybersecurity, and AI governance are inconsistent and constantly changing, creating compliance uncertainty.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Cybersecurity and infrastructure vulnerabilities",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Threat actors, including nation-states, use sophisticated methods like password sprays and AI to exploit vulnerabilities in infrastructure and software.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Supply chain and resource constraints",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "Infrastructure development is hindered by power availability, land zoning, environmental regulations, and shortages of critical components like semiconductors.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "AI development and deployment risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          },
+          "evidence": {
+            "value": "AI models may contain biases, inaccuracies, or be used in unforeseen ways, creating new attack surfaces and potential legal or reputational harm.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:15:01.272962+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "demand_trend": {
+        "value": "Strong",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "technology_adoption": {
+        "value": "Rapid",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "spending_trend": {
+        "value": "Increasing",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Complex and restrictive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "competitive_intensity": {
+        "value": "Very high",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "outlook": {
+        "value": "Positive",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      }
+    },
+    "industry_forecast": {
+      "value": "Microsoft is positioned for strong near-term growth, primarily driven by the Intelligent Cloud segment, which is currently expanding at a robust 29.67% rate. The company's strategic focus on scaling AI infrastructure and integrating Microsoft Copilot across its productivity suite serves as a key catalyst for sustained revenue momentum. While the More Personal Computing segment faces slight headwinds, the overall trajectory remains positive as the firm leverages its unified cloud platform and enterprise solutions to capture increasing demand for digital transformation.",
+      "source": "synthesized: LLM analysis over extracted + enriched data",
+      "as_of": "2026-08-20T07:15:01.272962+00:00"
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": 3596265979904,
+        "source": "yfinance:info: MSFT",
+        "as_of": "2026-08-20T07:14:47.228802+00:00"
+      },
+      "share_price": {
+        "value": 484.31,
+        "source": "yfinance:info: MSFT",
+        "as_of": "2026-08-20T07:14:47.228802+00:00"
+      },
+      "shares_outstanding": {
+        "value": 7425545491,
+        "source": "yfinance:info: MSFT",
+        "as_of": "2026-08-20T07:14:47.228802+00:00"
+      },
+      "stock_exchange": {
+        "value": "NMS",
+        "source": "yfinance:info: MSFT",
+        "as_of": "2026-08-20T07:14:47.228802+00:00"
+      },
+      "ticker": {
+        "value": "MSFT",
+        "source": "yfinance:info: MSFT",
+        "as_of": "2026-08-20T07:14:47.228802+00:00"
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": "2026-08-19T06:58:37Z",
+            "source": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "title": {
+            "value": "Extract Text from a Word Document in Power Automate Using Only the SharePoint Connector",
+            "source": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "summary": {
+            "value": "Learn how to extract actual text content from a Microsoft Word (.docx) document in Power Automate using only the SharePoint connector and built-in expressions. This guide explains how to extract the DOCX package, access word/document.xml, use XPath to retriev\u2026",
+            "source": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "url": {
+            "value": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/",
+            "source": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T06:26:34Z",
+            "source": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "title": {
+            "value": "Building User-Delegated AI Tools with Microsoft Foundry Toolboxes",
+            "source": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "summary": {
+            "value": "Learn how to build user-delegated AI tools with Microsoft Foundry Toolboxes using identity delegation, token isolation, consent, authorization, and secure enterprise access.",
+            "source": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "category": {
+            "value": "Products/Technology",
+            "source": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "url": {
+            "value": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/",
+            "source": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T06:24:58Z",
+            "source": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "title": {
+            "value": "Microsoft.Extensions.AI Routing: Benchmarking Cost, Latency, and Failover",
+            "source": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "summary": {
+            "value": "Benchmark Microsoft.Extensions.AI routing for model selection, measuring cost, latency, failover behavior, reliability, and performance across multiple AI providers and models.",
+            "source": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "category": {
+            "value": "Products/Technology",
+            "source": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "url": {
+            "value": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+            "source": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T06:01:53Z",
+            "source": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "title": {
+            "value": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+            "source": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "summary": {
+            "value": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval thro\u2026",
+            "source": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "url": {
+            "value": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+            "source": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-19T04:38:04Z",
+            "source": "https://pypi.org/project/agentskills-agentframework/0.5.0/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "title": {
+            "value": "agentskills-agentframework 0.5.0",
+            "source": "https://pypi.org/project/agentskills-agentframework/0.5.0/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "summary": {
+            "value": "Microsoft Agent Framework integration for the Agent Skills format (https://agentskills.io)",
+            "source": "https://pypi.org/project/agentskills-agentframework/0.5.0/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "category": {
+            "value": null,
+            "source": "https://pypi.org/project/agentskills-agentframework/0.5.0/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          },
+          "url": {
+            "value": "https://pypi.org/project/agentskills-agentframework/0.5.0/",
+            "source": "https://pypi.org/project/agentskills-agentframework/0.5.0/",
+            "as_of": "2026-08-20T07:14:50.443364+00:00"
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": "The technology industry is poised for sustained expansion driven by the rapid integration of artificial intelligence across enterprise and consumer platforms. While infrastructure capacity and regulatory complexities present ongoing challenges, the shift toward cloud-native AI services continues to be a primary catalyst for long-term revenue growth.",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      },
+      "growth_drivers": {
+        "value": "cloud computing adoption, artificial intelligence integration, enterprise digital transformation, search advertising expansion, gaming ecosystem growth",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:15:01.272962+00:00"
+      }
+    },
+    "competitors": {
+      "key_competitors": []
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": "2026-08-19T02:00:00Z",
+            "source": "https://prtimes.jp/main/html/rd/p/000000183.000007074.html",
+            "as_of": "2026-08-20T07:14:50.887806+00:00"
+          },
+          "award": {
+            "value": "ecbeing\u306e\u30a8\u30f3\u30b8\u30cb\u30a2\u304c3\u5e74\u9023\u7d9a\u3067\u300cMicrosoft Top Partner Engineer Award\u300d\u3092\u53d7\u8cde",
+            "source": "https://prtimes.jp/main/html/rd/p/000000183.000007074.html",
+            "as_of": "2026-08-20T07:14:50.887806+00:00"
+          },
+          "brief": {
+            "value": "[\u682a\u5f0f\u4f1a\u793eecbeing ]\n[\u753b\u50cf: https://prcdn.freetls.fastly.net/release_image/7074/183/7074-183-204bc97db6ce79da7d5f783186160dcb-800x450.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&b...",
+            "source": "https://prtimes.jp/main/html/rd/p/000000183.000007074.html",
+            "as_of": "2026-08-20T07:14:50.887806+00:00"
+          }
+        },
+        {
+          "date": {
+            "value": "2026-08-18T14:05:34Z",
+            "source": "https://www.windowscentral.com/software-apps/files-app-update-427-faster-context-menu",
+            "as_of": "2026-08-20T07:14:50.887806+00:00"
+          },
+          "award": {
+            "value": "I replaced File Explorer on my Windows 11 laptop with this app \u2014 and it's still one step ahead of Microsoft's optimization plans",
+            "source": "https://www.windowscentral.com/software-apps/files-app-update-427-faster-context-menu",
+            "as_of": "2026-08-20T07:14:50.887806+00:00"
+          },
+          "brief": {
+            "value": "Files v4.2.7 speeds up Windows 11's sluggish context menu and improves memory use, ahead of Microsoft's own planned File Explorer optimizations.",
+            "source": "https://www.windowscentral.com/software-apps/files-app-update-427-faster-context-menu",
+            "as_of": "2026-08-20T07:14:50.887806+00:00"
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2023-08-31",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2024-08-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "AWARDED RECOMPETE. \u2014 contract value $2,773,400",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2022-02-01",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2024-01-31",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "AWARD CONTRACT LABOR AND OTHER DIRECT COSTS. \u2014 contract value $5,102,910",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2019-08-26",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2024-01-25",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "LABOR \u2014 contract value $4,792,211",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2019-07-12",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2024-07-11",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "LABOR \u2014 contract value $3,481,230",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2019-06-28",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2024-06-27",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "MICROSOFT CONSULTING SERVICES - LABOR \u2014 contract value $80,515,592",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2019-06-22",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2024-06-21",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "MICROSOFT PREMIER SERVICES - LABOR \u2014 contract value $11,921,461",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2019-05-31",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2023-08-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "LABOR \u2014 contract value $9,471,367",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2020-05-03",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2021-05-02",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "MS PREMIER SERVICES SUPPORT \u2014 contract value $14,541,771",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2018-12-26",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2019-08-25",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "TAM/PFE (LABOR) \u2014 contract value $1,964,500",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "MICROSOFT CORPORATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "start_date": {
+            "value": "2018-07-02",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "end_date": {
+            "value": "2019-07-11",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          },
+          "contract_details": {
+            "value": "MCS LABOR \u2014 contract value $3,661,136",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:14:53.052089+00:00"
+          }
+        }
+      ]
+    }
+  }
+}

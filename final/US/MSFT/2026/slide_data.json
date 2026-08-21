@@ -1,0 +1,494 @@
+{
+ "company_name": "MICROSOFT CORP",
+ "ticker": "MSFT",
+ "report_year": "2026",
+ "overview": {
+  "founded": "1975",
+  "headquarters": "Redmond, Washington",
+  "employees": "approximately 223,000",
+  "revenue": "$331.8B",
+  "market_cap": "$3.6T",
+  "brief": null,
+  "brands": "Windows, XBOX, Microsoft Copilot, Microsoft Edge, Bing, Surface, GitHub, LinkedIn, Dynamics 365, SQL Server, Visual Studio",
+  "services": "cloud services, search advertising, gaming services, enterprise and partner services, consulting services, training and certification",
+  "key_competitors": [],
+  "key_acquisitions": [
+   "2023 Activision Blizzard, Inc."
+  ]
+ },
+ "mission_vision": {
+  "mission": null,
+  "vision": null,
+  "values": null
+ },
+ "geo": {
+  "countries": "Australia, Canada, China, France, Germany, India, Ireland, Japan, the Netherlands, Sweden, United Kingdom",
+  "regions": "Americas, Asia Pacific, Europe, and the Middle East",
+  "offices": "offices, datacenters, and research and development",
+  "delivery_centers": "global network of datacenters",
+  "geographic_revenue": "{'United States': 170794000000.0, 'Other Countries': 161045000000.0}"
+ },
+ "segments": [
+  {
+   "name": "Productivity and Business Processes",
+   "revenue": "$140.0B",
+   "revenue_pct": null,
+   "growth": "+15.9%",
+   "op_margin": "+0.6%",
+   "description": "Focuses on productivity and business processes, including business solutions and collaboration tools."
+  },
+  {
+   "name": "Intelligent Cloud",
+   "revenue": "$137.8B",
+   "revenue_pct": null,
+   "growth": "+29.7%",
+   "op_margin": "+0.4%",
+   "description": "Consists of public, private, and hybrid server products and cloud services that power modern business and developers."
+  },
+  {
+   "name": "More Personal Computing",
+   "revenue": "$54.1B",
+   "revenue_pct": null,
+   "growth": "-1.1%",
+   "op_margin": "+0.3%",
+   "description": "Consists of products and services that put customers at the center of the experience with technology."
+  }
+ ],
+ "sustainability": {
+  "strategy": null,
+  "goals": null,
+  "key_initiatives": null
+ },
+ "org_structure": "The business is organized into three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.",
+ "leadership": [
+  {
+   "name": "Satya Nadella",
+   "designation": "Chairman and Chief Executive Officer (Principal Executive Officer)",
+   "brief": "Satya Narayana Nadella is an Indian-American business executive. He is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Satya%20Nadella%20MICROSOFT%20CORP",
+   "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/330px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_path": "photos\\satya-nadella.jpg"
+  },
+  {
+   "name": "Amy E. Hood",
+   "designation": "Executive Vice President and Chief Financial Officer (Principal Financial Officer)",
+   "brief": "Amy Hood is an American business executive and has been the executive vice president and chief financial officer of Microsoft since 2013. Hood is the first female chief financial officer in Microsoft's history.",
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Amy%20E.%20Hood%20MICROSOFT%20CORP",
+   "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Amy_Hood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "photo_path": "photos\\amy-e-hood.jpg"
+  },
+  {
+   "name": "Alice L. Jolla",
+   "designation": "Corporate Vice President and Chief Accounting Officer (Principal Accounting Officer)",
+   "brief": null,
+   "linkedin_url": "https://www.linkedin.com/search/results/people/?keywords=Alice%20L.%20Jolla%20MICROSOFT%20CORP",
+   "photo_url": null
+  }
+ ],
+ "technology_team": [],
+ "swot": {
+  "strengths": [
+   {
+    "point": "Strong financial performance and growth",
+    "evidence": "Revenue grew to $331.84 billion in 2026 from $281.72 billion in the previous year, with a net income growth of 31.34%.",
+    "detail": null
+   },
+   {
+    "point": "Dominant cloud and productivity segments",
+    "evidence": "The Intelligent Cloud segment generated $137.79 billion in revenue, while Productivity and Business Processes generated $139.99 billion, together accounting for over 83% of total revenue.",
+    "detail": null
+   },
+   {
+    "point": "High operational efficiency",
+    "evidence": "The company maintains a robust operating margin of 46.78% and a gross margin of 67.94%.",
+    "detail": null
+   },
+   {
+    "point": "Strong balance sheet",
+    "evidence": "The company holds $442.39 billion in shareholders' equity with a low debt-to-equity ratio of 0.0911.",
+    "detail": null
+   }
+  ],
+  "weaknesses": [
+   {
+    "point": "Stagnation in personal computing segment",
+    "evidence": "The 'More Personal Computing' segment experienced a negative growth rate of -1.09%.",
+    "detail": null
+   },
+   {
+    "point": "High capital expenditure requirements",
+    "evidence": "The company reported capital expenditures of $115.95 billion, reflecting the high cost of scaling infrastructure.",
+    "detail": null
+   },
+   {
+    "point": "Integration risks from acquisitions",
+    "evidence": "Business challenges note that integrating new businesses and technologies is complex and may fail to meet strategic goals or adhere to existing security policies.",
+    "detail": null
+   }
+  ],
+  "opportunities": [
+   {
+    "point": "Expansion of AI-driven services",
+    "evidence": "Strategic priorities include scaling AI infrastructure and services, and leveraging Microsoft Copilot as a digital companion.",
+    "detail": null
+   },
+   {
+    "point": "Growth in the XBOX ecosystem",
+    "evidence": "Corporate strategy focuses on identifying new opportunities to attract gamers and expanding the platform to new ecosystems like mobile and PC.",
+    "detail": null
+   },
+   {
+    "point": "Global cloud infrastructure scaling",
+    "evidence": "The company aims to expand its cloud services globally through a network of datacenters to meet the needs of businesses of all sizes.",
+    "detail": null
+   }
+  ],
+  "threats": [
+   {
+    "point": "Regulatory and compliance risks",
+    "evidence": "Business challenges highlight that global requirements regarding data privacy, cybersecurity, and AI governance are inconsistent and constantly changing, creating compliance uncertainty.",
+    "detail": null
+   },
+   {
+    "point": "Cybersecurity and infrastructure vulnerabilities",
+    "evidence": "Threat actors, including nation-states, use sophisticated methods like password sprays and AI to exploit vulnerabilities in infrastructure and software.",
+    "detail": null
+   },
+   {
+    "point": "Supply chain and resource constraints",
+    "evidence": "Infrastructure development is hindered by power availability, land zoning, environmental regulations, and shortages of critical components like semiconductors.",
+    "detail": null
+   },
+   {
+    "point": "AI development and deployment risks",
+    "evidence": "AI models may contain biases, inaccuracies, or be used in unforeseen ways, creating new attack surfaces and potential legal or reputational harm.",
+    "detail": null
+   }
+  ]
+ },
+ "financials_annual": {
+  "revenue": {
+   "current": 331839000000.0,
+   "previous": 281724000000.0,
+   "two_prior": 245122000000.0
+  },
+  "operating_income": {
+   "current": 155237000000.0,
+   "previous": 128528000000.0,
+   "two_prior": 109433000000.0
+  },
+  "net_income": {
+   "current": 133749000000.0,
+   "previous": 101832000000.0,
+   "two_prior": 88136000000.0
+  },
+  "financial_year": "2026",
+  "highlights": {
+   "ebitda": "$193.8B",
+   "gross_profit": "$225.5B",
+   "eps": 17.95,
+   "revenue_growth": null,
+   "operating_margin": null,
+   "net_margin": null,
+   "free_cash_flow": null,
+   "roe": null
+  },
+  "historical_years": [
+   {
+    "year": "2024",
+    "revenue": 245122000000.0,
+    "operating_income": 109433000000.0,
+    "net_income": 88136000000.0,
+    "ebitda": 147967000000.0
+   }
+  ]
+ },
+ "financials_quarterly": {
+  "quarter": "2026-03-31",
+  "revenue": "$82.9B",
+  "operating_income": "$38.4B",
+  "net_income": "$31.8B",
+  "ebitda": "$48.6B",
+  "eps": 4.27,
+  "cash_flow": "$46.7B",
+  "revenue_growth": null,
+  "net_income_growth": null
+ },
+ "acquisitions": [
+  {
+   "year": "2023",
+   "company_name": "Activision Blizzard, Inc.",
+   "brief": "Activision Blizzard is a leader in game development and an interactive entertainment content publisher. The acquisition will accelerate the growth in our gaming business across mobile, PC, console, and cloud gaming.",
+   "value": "75400000000"
+  }
+ ],
+ "competitors": [],
+ "awards": [
+  {
+   "date": "2026-08-19T02:00:00Z",
+   "award": "ecbeing\u306e\u30a8\u30f3\u30b8\u30cb\u30a2\u304c3\u5e74\u9023\u7d9a\u3067\u300cMicrosoft Top Partner Engineer Award\u300d\u3092\u53d7\u8cde",
+   "brief": "[\u682a\u5f0f\u4f1a\u793eecbeing ]\n[\u753b\u50cf: https://prcdn.freetls.fastly.net/release_image/7074/183/7074-183-204bc97db6ce79da7d5f783186160dcb-800x450.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&b..."
+  },
+  {
+   "date": "2026-08-18T14:05:34Z",
+   "award": "I replaced File Explorer on my Windows 11 laptop with this app \u2014 and it's still one step ahead of Microsoft's optimization plans",
+   "brief": "Files v4.2.7 speeds up Windows 11's sluggish context menu and improves memory use, ahead of Microsoft's own planned File Explorer optimizations."
+  }
+ ],
+ "challenges": [
+  {
+   "challenge": "Cyberattacks and security vulnerabilities",
+   "impact": "Reduced revenue, increased costs, liability claims, harm to reputation or competitive position, and unauthorized access to systems and data.",
+   "brief": "Threat actors, including nation-states, use sophisticated methods like password sprays, social engineering, and AI to exploit vulnerabilities in infrastructure and software."
+  },
+  {
+   "challenge": "Infrastructure capacity and resource constraints",
+   "impact": "Delayed projects, restricted development opportunities, increased costs, and inability to support customer demand.",
+   "brief": "Growing demand for AI and cloud services requires massive infrastructure investment, which is hindered by power availability, land zoning, environmental regulations, and labor shortages."
+  },
+  {
+   "challenge": "Supply chain disruptions",
+   "impact": "Delayed infrastructure deployments, reduced sales, and higher costs.",
+   "brief": "Limited suppliers for critical components like semiconductors and networking equipment lead to shortages and price volatility, exacerbated by geopolitical tensions and trade restrictions."
+  },
+  {
+   "challenge": "Platform abuse and digital safety",
+   "impact": "Harm to reputation, user engagement, and potential regulatory enforcement or legal liability.",
+   "brief": "Third parties may use platforms for illegal or inappropriate ends, including impersonation, dissemination of misleading information, or harmful content, requiring costly moderation efforts."
+  },
+  {
+   "challenge": "AI development and deployment risks",
+   "impact": "Reputational, competitive, or legal harm, and potential for products to not work as intended.",
+   "brief": "AI models may contain biases, inaccuracies, or be used in unforeseen ways, raising ethical concerns and creating new attack surfaces for adversaries."
+  },
+  {
+   "challenge": "Complex and evolving legal/regulatory landscape",
+   "impact": "Increased operational costs, regulatory enforcement actions, and potential for penalties or service restrictions.",
+   "brief": "Global requirements regarding data privacy, cybersecurity, environmental standards, and AI governance are inconsistent and constantly changing, creating compliance uncertainty."
+  },
+  {
+   "challenge": "Acquisition and strategic alliance integration",
+   "impact": "Unsatisfactory returns, impairment of goodwill, management distraction, and compliance challenges.",
+   "brief": "Integrating new businesses and technologies is complex and may fail to meet strategic goals or adhere to existing security and data governance policies."
+  },
+  {
+   "challenge": "Product quality and reliability issues",
+   "impact": "Contractual liability, customer claims, reputational damage, and loss of users.",
+   "brief": "Software bugs, design defects, or failures in interdependent systems can disrupt critical business functions for customers and lead to legal or financial consequences."
+  }
+ ],
+ "news": {
+  "Partnership": [],
+  "Products/Technology": [
+   {
+    "date": "2026-08-19T06:58:37Z",
+    "title": "Extract Text from a Word Document in Power Automate Using Only the SharePoint Connector",
+    "summary": "Learn how to extract actual text content from a Microsoft Word (.docx) document in Power Automate using only the SharePoint connector and built-in expressions. This guide explains how to extract the DOCX package, access word/document.xml, use XPath to retriev\u2026",
+    "url": "https://www.c-sharpcorner.com/article/extract-text-from-a-word-document-in-power-automate-using-only-the-sharepoint-co/"
+   },
+   {
+    "date": "2026-08-19T06:26:34Z",
+    "title": "Building User-Delegated AI Tools with Microsoft Foundry Toolboxes",
+    "summary": "Learn how to build user-delegated AI tools with Microsoft Foundry Toolboxes using identity delegation, token isolation, consent, authorization, and secure enterprise access.",
+    "url": "https://www.c-sharpcorner.com/article/building-user-delegated-ai-tools-with-microsoft-foundry-toolboxes/"
+   },
+   {
+    "date": "2026-08-19T06:24:58Z",
+    "title": "Microsoft.Extensions.AI Routing: Benchmarking Cost, Latency, and Failover",
+    "summary": "Benchmark Microsoft.Extensions.AI routing for model selection, measuring cost, latency, failover behavior, reliability, and performance across multiple AI providers and models.",
+    "url": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/"
+   },
+   {
+    "date": "2026-08-19T06:01:53Z",
+    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+    "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval thro\u2026",
+    "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html"
+   }
+  ],
+  "Recognition": []
+ },
+ "it_spending": "Microsoft is making significant investments in AI infrastructure, including datacenters, compute capacity, and hardware (such as GPUs and custom-built silicon), to support the growth of AI products and services like Microsoft 365 Copilot and Azure AI.",
+ "deals": [
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2023-08-31",
+   "end_date": "2024-08-30",
+   "contract_details": "AWARDED RECOMPETE. \u2014 contract value $2,773,400"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2022-02-01",
+   "end_date": "2024-01-31",
+   "contract_details": "AWARD CONTRACT LABOR AND OTHER DIRECT COSTS. \u2014 contract value $5,102,910"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2019-08-26",
+   "end_date": "2024-01-25",
+   "contract_details": "LABOR \u2014 contract value $4,792,211"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2019-07-12",
+   "end_date": "2024-07-11",
+   "contract_details": "LABOR \u2014 contract value $3,481,230"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2019-06-28",
+   "end_date": "2024-06-27",
+   "contract_details": "MICROSOFT CONSULTING SERVICES - LABOR \u2014 contract value $80,515,592"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2019-06-22",
+   "end_date": "2024-06-21",
+   "contract_details": "MICROSOFT PREMIER SERVICES - LABOR \u2014 contract value $11,921,461"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2019-05-31",
+   "end_date": "2023-08-30",
+   "contract_details": "LABOR \u2014 contract value $9,471,367"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2020-05-03",
+   "end_date": "2021-05-02",
+   "contract_details": "MS PREMIER SERVICES SUPPORT \u2014 contract value $14,541,771"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2018-12-26",
+   "end_date": "2019-08-25",
+   "contract_details": "TAM/PFE (LABOR) \u2014 contract value $1,964,500"
+  },
+  {
+   "vendor": "MICROSOFT CORPORATION",
+   "start_date": "2018-07-02",
+   "end_date": "2019-07-11",
+   "contract_details": "MCS LABOR \u2014 contract value $3,661,136"
+  }
+ ],
+ "tech_initiatives": [
+  {
+   "date": null,
+   "title": "Microsoft Copilot",
+   "details": "A digital companion designed to inform, entertain, and inspire, integrated into Microsoft Edge and Bing."
+  },
+  {
+   "date": null,
+   "title": "Azure AI Foundry",
+   "details": "A unified platform for developers to design, customize, and manage AI applications and agents and applications."
+  },
+  {
+   "date": null,
+   "title": "Microsoft 365 Copilot",
+   "details": "AI and ambient intelligence tools designed to drive insights, revolutionize business processes, and provide productivity gains."
+  },
+  {
+   "date": "2020",
+   "title": "Sustainability Goals",
+   "details": "Commitment to become a carbon negative, water positive, and zero waste company by 2030."
+  }
+ ],
+ "technologies_in_use": [
+  {
+   "technology": "Azure",
+   "category": "Cloud Services",
+   "brief": "A comprehensive set of cloud services for computing, networking, storage, mobile and web application services, AI, and Internet of Things."
+  },
+  {
+   "technology": "Microsoft Copilot",
+   "category": "AI",
+   "brief": "A digital companion designed to inform, entertain, and inspire."
+  },
+  {
+   "technology": "Microsoft Edge",
+   "category": "Software",
+   "brief": "A web browser used for user acquisition and engagement."
+  },
+  {
+   "technology": "Bing",
+   "category": "Search Engine",
+   "brief": "A search engine used for user acquisition and engagement."
+  },
+  {
+   "technology": "Windows Server",
+   "category": "Operating System",
+   "brief": "An operating system designed to support integrated server infrastructure and middleware."
+  },
+  {
+   "technology": "SQL Server",
+   "category": "Database",
+   "brief": "A database management system provided as part of server products."
+  },
+  {
+   "technology": "GitHub",
+   "category": "Development Platform",
+   "brief": "A collaboration platform for developers to manage code and incorporate AI and agent-based tools."
+  },
+  {
+   "technology": "Azure AI Foundry",
+   "category": "AI Platform",
+   "brief": "A unified platform for developers to design, customize, and manage AI applications and agents."
+  },
+  {
+   "technology": "Power Apps",
+   "category": "Low Code Platform",
+   "brief": "A low code development platform for building business applications."
+  },
+  {
+   "technology": "Power Automate",
+   "category": "Low Code Platform",
+   "brief": "A low code development platform for business process automation."
+  },
+  {
+   "technology": "XBOX Game Pass",
+   "category": "Subscription Service",
+   "brief": "A subscription service providing access to a curated library of first- and third-party gaming titles."
+  },
+  {
+   "technology": "Surface",
+   "category": "Hardware",
+   "brief": "A line of computing devices including Copilot+ PCs."
+  },
+  {
+   "technology": "Microsoft 365 Copilot",
+   "category": "AI",
+   "brief": "An AI-driven tool designed to provide productivity gains and revolutionize business processes."
+  },
+  {
+   "technology": "Microsoft Defender for Endpoint",
+   "category": "Security",
+   "brief": "An endpoint security solution."
+  },
+  {
+   "technology": "System Center",
+   "category": "Management Software",
+   "brief": "Tools for server management and operations."
+  },
+  {
+   "technology": "Visual Studio",
+   "category": "Development Tools",
+   "brief": "Software development lifecycle tools for architects, developers, and testers."
+  }
+ ],
+ "industry_indicators": {
+  "growth_rating": "High",
+  "demand_trend": "Strong",
+  "technology_adoption": "Rapid",
+  "spending_trend": "Increasing",
+  "regulatory_environment": "Complex and restrictive",
+  "competitive_intensity": "Very high",
+  "outlook": "Positive"
+ },
+ "industry_forecast": {
+  "industry": "technology",
+  "market_size": null,
+  "market_size_year": null,
+  "competitive_landscape": "The company faces competition from various software products, alternative platforms, hardware manufacturers, cloud service providers, open-source offerings, search engines, social platforms, and multinational consulting firms.",
+  "forecast": "Microsoft is positioned for strong near-term growth, primarily driven by the Intelligent Cloud segment, which is currently expanding at a robust 29.67% rate. The company's strategic focus on scaling AI infrastructure and integrating Microsoft Copilot across its productivity suite serves as a key catalyst for sustained revenue momentum. While the More Personal Computing segment faces slight headwinds, the overall trajectory remains positive as the firm leverages its unified cloud platform and enterprise solutions to capture increasing demand for digital transformation.",
+  "growth_drivers": "cloud computing adoption, artificial intelligence integration, enterprise digital transformation, search advertising expansion, gaming ecosystem growth"
+ }
+}

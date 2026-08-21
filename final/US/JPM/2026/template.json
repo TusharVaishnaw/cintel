@@ -1,0 +1,1337 @@
+{
+  "metadata": {
+    "company": {
+      "value": "JPMORGAN CHASE & CO",
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "as_of": "2026-02-13"
+    },
+    "cik": {
+      "value": 19617,
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "as_of": "2026-02-13"
+    },
+    "ticker": {
+      "value": "JPM",
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "as_of": "2026-02-13"
+    },
+    "annual_report_year": {
+      "value": "2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "as_of": "2026-02-13"
+    },
+    "annual_report_url": {
+      "value": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "as_of": "2026-02-13"
+    },
+    "extraction_date": {
+      "value": "2026-08-20T07:32:45.016201+00:00",
+      "source": "system",
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": "JPMorgan Chase & Co.",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "founded_year": {
+        "value": "1968",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "headquarters": {
+        "value": "270 Park Avenue, New York City",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "revenue": {
+        "value": 182447000000.0,
+        "source": "alias of financials.revenue.current_year (https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)",
+        "as_of": "2026-02-13"
+      },
+      "employees": {
+        "value": "318,512",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "brands": {
+        "value": "J.P. Morgan, Chase",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "services": {
+        "value": "investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, asset management",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": "United States, U.K., India, Philippines",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "regions": {
+        "value": "North America, Asia-Pacific, Europe/Middle East/Africa, Latin America/Caribbean",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "offices": {
+        "value": "New York City, Columbus/Westerville, Chicago, Dallas/Plano/Fort Worth, Wilmington/Newark, Houston, Jersey City, Phoenix/Tempe, London, India, Philippines",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "geographic_revenue": {
+        "value": {
+          "Europe/Middle East/Africa": 24478000000.0,
+          "Asia-Pacific": 14065000000.0,
+          "Latin America/Caribbean": 4215000000.0,
+          "Total international": 42758000000.0,
+          "North America": 139689000000.0
+        },
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "geographic_employee_distribution": {
+        "value": "North America: 185,208; Asia-Pacific: 96,499; Europe/Middle East/Africa: 31,030; Latin America/Caribbean: 5,775",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      }
+    },
+    "business_segments": {
+      "segments": []
+    },
+    "financials": {
+      "financial_year": {
+        "value": 2025.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "revenue": {
+        "current_year": {
+          "value": 182447000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "as_of": "2026-02-13"
+        },
+        "previous_year": {
+          "value": 177556000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "as_of": "2026-02-13"
+        },
+        "two_years_prior": {
+          "value": 158104000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "as_of": "2026-02-13"
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "previous_year": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        },
+        "two_years_prior": {
+          "value": null,
+          "source": null,
+          "as_of": null
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": 57048000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "as_of": "2026-02-13"
+        },
+        "previous_year": {
+          "value": 58471000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "as_of": "2026-02-13"
+        },
+        "two_years_prior": {
+          "value": 49552000000.0,
+          "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+          "as_of": "2026-02-13"
+        }
+      },
+      "ebitda": {
+        "value": null,
+        "source": "derived: financials.operating_income.current_year + financials.depreciation_amortization",
+        "as_of": "2026-08-20T07:38:45.858455+00:00"
+      },
+      "ebit": {
+        "value": null,
+        "source": "derived: financials.operating_income.current_year (operating income = EBIT)",
+        "as_of": "2026-08-20T07:38:45.858455+00:00"
+      },
+      "gross_profit": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "profit_before_tax": {
+        "value": 72595000000.0,
+        "source": "derived: financials.net_income.current_year + financials.income_tax_expense",
+        "as_of": "2026-08-20T07:38:45.858455+00:00"
+      },
+      "depreciation_amortization": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "income_tax_expense": {
+        "value": 15547000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "earnings_per_share": {
+        "value": 20.02,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "operating_cash_flow": {
+        "value": -147782000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "capital_expenditure": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "total_assets": {
+        "value": 4424900000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "total_liabilities": {
+        "value": 4062462000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "current_assets": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "current_liabilities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "shareholders_equity": {
+        "value": 362438000000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "cash_and_cash_equivalents": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "total_debt": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "dividend": {
+        "value": 5.8,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "share_count": {
+        "value": 2696200000.0,
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "revenue": {
+            "value": 158104000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "operating_income": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "net_income": {
+            "value": 49552000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "ebitda": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": "For management reporting purposes, the Firm has three reportable business segments Consumer Community Banking ( CCB ), Commercial Investment Bank ( CIB ) and Asset Wealth Management ( AWM ) with the remaining activities in Corporate.",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "people": [
+        {
+          "name": {
+            "value": "James Dimon",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "designation": {
+            "value": "Director, Chairman and Chief Executive Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "James Dimon is an American businessman who has been the chairman and chief executive officer (CEO) of JPMorgan Chase since 2006.",
+            "source": "https://en.wikipedia.org/wiki/Jamie_Dimon",
+            "as_of": "2026-08-20T07:38:54.258002+00:00"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=James%20Dimon%20JPMORGAN%20CHASE%20%26%20CO",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=James%20Dimon%20JPMORGAN%20CHASE%20%26%20CO",
+            "as_of": "2026-08-20T07:38:54.258002+00:00"
+          },
+          "photo_url": {
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Chancellor_Rachel_Reeves_meets_Jamie_Dimon_%2854838700663%29_%28cropped%29_%28cropped%29.jpg/330px-Chancellor_Rachel_Reeves_meets_Jamie_Dimon_%2854838700663%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://en.wikipedia.org/wiki/Jamie_Dimon",
+            "as_of": "2026-08-20T07:38:54.258002+00:00"
+          }
+        },
+        {
+          "name": {
+            "value": "Jeremy Barnum",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "designation": {
+            "value": "Executive Vice President and Chief Financial Officer",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "linkedin_url": {
+            "value": "https://www.linkedin.com/search/results/people/?keywords=Jeremy%20Barnum%20JPMORGAN%20CHASE%20%26%20CO",
+            "source": "https://www.linkedin.com/search/results/people/?keywords=Jeremy%20Barnum%20JPMORGAN%20CHASE%20%26%20CO",
+            "as_of": "2026-08-20T07:38:54.858992+00:00"
+          },
+          "photo_url": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        }
+      ],
+      "technology_team": []
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": "Artificial intelligence",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "category": {
+            "value": "Emerging Technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "The Firm offers voluntary training programs and educational resources to employees covering topics such as artificial intelligence.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "Trade surveillance platforms",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "category": {
+            "value": "Compliance Technology",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "The Firm maintains processes to inventory trading venues and confirm the completeness of data fed to these platforms.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "technology": {
+            "value": "Payment systems",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "category": {
+            "value": "Financial Infrastructure",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "JPMEL is regulated by the U.K. Payment Systems Regulator with respect to its operation and use of payment systems.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        }
+      ],
+      "technology_initiatives": [
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "title": {
+            "value": "Artificial Intelligence Training",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "details": {
+            "value": "The Firm offers voluntary training programs and educational resources to all employees covering topics such as artificial intelligence.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "date": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "title": {
+            "value": "Data Literacy Training",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "details": {
+            "value": "The Firm offers voluntary training programs and educational resources to all employees covering topics such as data literacy.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        }
+      ],
+      "cloud_technologies": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "ai_and_ml": {
+        "value": "The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as artificial intelligence.",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "data_and_analytics": {
+        "value": "The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as data literacy.",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "cybersecurity": {
+        "value": "The Firm and its subsidiaries are subject to laws, rules and regulations globally concerning data, including data protection, consumer protection, privacy, cybersecurity, artificial intelligence and related matters.",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "digital_platforms": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "automation": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "partnerships": {
+      "partnerships": []
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": "2024",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "company_name": {
+            "value": "First Republic",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "acquisition_value": {
+            "value": 67865000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "year": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-02-13"
+          },
+          "acquisition_value": {
+            "value": 2362000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "year": {
+            "value": "2023",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "company_name": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm \u2014 XBRL acquisition_value present, counterparty name not stated in narrative text",
+            "as_of": "2026-02-13"
+          },
+          "acquisition_value": {
+            "value": 9920000000.0,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": null,
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "strategic_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "growth_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "digital_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_expansion_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "investment_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "management_outlook": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": "Allowance for loan losses estimation",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "impact": {
+            "value": "Significant judgment required in estimating expected credit losses over the remaining life of loan portfolios, affecting financial statement accuracy.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "Management must estimate credit losses using a weighted average of five macroeconomic scenarios over an eight-quarter forecast period, involving complex variables like unemployment and GDP growth.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Fair value measurement of Level 3 financial instruments",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "impact": {
+            "value": "High degree of subjectivity and complexity in valuation, as these instruments rely on internally developed models and significant unobservable inputs.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "Valuing certain deposits, short-term borrowings, and long-term debt requires complex models (e.g., option pricing, discounted cash flows) and unobservable inputs like volatility and correlation.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        },
+        {
+          "challenge": {
+            "value": "Inherent limitations of internal control over financial reporting",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "impact": {
+            "value": "Controls may fail to prevent or detect misstatements, or may become inadequate due to changing conditions or deterioration in compliance.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          },
+          "brief": {
+            "value": "Internal controls provide reasonable, not absolute, assurance; they are subject to human error, changes in conditions, and potential deterioration of compliance over time.",
+            "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+            "as_of": "2026-02-13"
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": "financial services",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "competitive_landscape_description": {
+        "value": "Highly competitive environment including other banks, brokerage firms, investment banking companies, merchant banks, hedge funds, commodity trading companies, private equity firms, insurance companies, mutual fund companies, investment managers, credit card companies, mortgage banking companies, trust companies, securities processing companies, automobile financing companies, leasing companies, e-commerce and other internet-based companies, digital asset and other financial technology companies.",
+        "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+        "as_of": "2026-02-13"
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": "2026-06-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/jpm-20260630.htm",
+      "as_of": "2026-08-06"
+    },
+    "revenue": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "operating_income": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "net_income": {
+      "value": 21155000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/jpm-20260630.htm",
+      "as_of": "2026-08-06"
+    },
+    "ebitda": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "eps": {
+      "value": 7.7,
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/jpm-20260630.htm",
+      "as_of": "2026-08-06"
+    },
+    "cash_flow": {
+      "value": -237044000000.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/jpm-20260630.htm",
+      "as_of": "2026-08-06"
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": 2.75,
+      "formula": "financials.revenue.current_year vs previous_year",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "operating_income_growth": {
+      "value": null,
+      "formula": "financials.operating_income.current_year vs previous_year",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "net_income_growth": {
+      "value": -2.43,
+      "formula": "financials.net_income.current_year vs previous_year",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "operating_margin": {
+      "value": null,
+      "formula": "financials.operating_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "net_margin": {
+      "value": 0.3127,
+      "formula": "financials.net_income.current_year / financials.revenue.current_year",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "gross_margin": {
+      "value": null,
+      "formula": "financials.gross_profit / financials.revenue.current_year",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "free_cash_flow": {
+      "value": null,
+      "formula": "financials.operating_cash_flow - financials.capital_expenditure",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "net_debt": {
+      "value": null,
+      "formula": "financials.total_debt - financials.cash_and_cash_equivalents",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "roe": {
+      "value": 0.1574,
+      "formula": "financials.net_income.current_year / financials.shareholders_equity",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "roa": {
+      "value": 0.0129,
+      "formula": "financials.net_income.current_year / financials.total_assets",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "debt_to_equity": {
+      "value": null,
+      "formula": "financials.total_debt / financials.shareholders_equity",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "current_ratio": {
+      "value": null,
+      "formula": "financials.current_assets / financials.current_liabilities",
+      "as_of": "2026-08-20T07:38:45.858455+00:00"
+    },
+    "quarterly_revenue_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly revenue",
+      "as_of": null
+    },
+    "quarterly_net_income_growth": {
+      "value": 41.16,
+      "formula": "yoy % change on quarterly net income (same-quarter prior year, from 10-Q comparatives)",
+      "as_of": "2026-08-20T07:39:41.588907+00:00"
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": "Strong revenue generation and scale",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company reported annual revenue of $182.447 billion for the current year.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Significant asset base",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "JPMorgan Chase & Co. maintains total assets of $4.4249 trillion.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Solid profitability metrics",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company achieved a net income of $57.048 billion and a return on equity (ROE) of 15.74%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Diversified service offerings",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company operates across investment banking, consumer financial services, commercial banking, and asset management.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": "Negative net income growth",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "Net income declined by 2.43% compared to the previous year.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Complex financial reporting risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company faces challenges regarding the inherent limitations of internal control over financial reporting, which may fail to prevent or detect misstatements.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Subjectivity in asset valuation",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The fair value measurement of Level 3 financial instruments relies on internally developed models and significant unobservable inputs, creating a high degree of subjectivity.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": "Revenue growth potential",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company demonstrated a revenue growth rate of 2.75% year-over-year.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Strong quarterly momentum",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company reported a quarterly net income growth of 41.16%.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": "Highly competitive industry landscape",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "The company operates in a landscape that includes brokerage firms, hedge funds, private equity, insurance companies, and digital asset/fintech companies.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Macroeconomic sensitivity in credit loss estimation",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "Estimating loan losses requires a weighted average of five macroeconomic scenarios, including volatile variables like unemployment and GDP growth.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        },
+        {
+          "point": {
+            "value": "Operational and compliance risks",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          },
+          "evidence": {
+            "value": "Internal controls are subject to potential deterioration of compliance over time and human error, which could impact financial statement accuracy.",
+            "source": "synthesized: LLM analysis over extracted + enriched data",
+            "as_of": "2026-08-20T07:39:41.881372+00:00"
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": "Moderate",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "demand_trend": {
+        "value": "Stable",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "technology_adoption": {
+        "value": "High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "spending_trend": {
+        "value": "Increasing",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "regulatory_environment": {
+        "value": "Strict",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "competitive_intensity": {
+        "value": "Very High",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "outlook": {
+        "value": "Stable",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      }
+    },
+    "industry_forecast": {
+      "value": "JPMorgan Chase is positioned for a steady near-term growth trajectory, evidenced by a 2.75% increase in annual revenue. The firm's performance remains driven by its diversified presence across investment banking, consumer financial services, and asset management within a highly competitive landscape. Future growth will depend on navigating complex financial reporting requirements and managing credit loss estimations amidst evolving macroeconomic conditions.",
+      "source": "synthesized: LLM analysis over extracted + enriched data",
+      "as_of": "2026-08-20T07:39:41.881372+00:00"
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": 949663629312,
+        "source": "yfinance:info: JPM",
+        "as_of": "2026-08-20T07:38:49.439366+00:00"
+      },
+      "share_price": {
+        "value": 357.26,
+        "source": "yfinance:info: JPM",
+        "as_of": "2026-08-20T07:38:49.439366+00:00"
+      },
+      "shares_outstanding": {
+        "value": 2658186195,
+        "source": "yfinance:info: JPM",
+        "as_of": "2026-08-20T07:38:49.439366+00:00"
+      },
+      "stock_exchange": {
+        "value": "NYQ",
+        "source": "yfinance:info: JPM",
+        "as_of": "2026-08-20T07:38:49.439366+00:00"
+      },
+      "ticker": {
+        "value": "JPM",
+        "source": "yfinance:info: JPM",
+        "as_of": "2026-08-20T07:38:49.439366+00:00"
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "title": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "summary": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "category": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "note": "Partnership|Products/Technology|Recognition"
+          },
+          "url": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": "The financial services industry is expected to maintain steady growth as institutions leverage scale and diversified service offerings to navigate complex macroeconomic environments. While competitive pressures from fintech and traditional rivals remain high, firms with robust balance sheets and advanced digital capabilities are well-positioned to capture market share.",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      },
+      "growth_drivers": {
+        "value": "digital transformation, expansion of financial technology services, increased demand for asset management, corporate and consumer credit growth, global transaction processing volume",
+        "source": "synthesized: LLM analysis over extracted + enriched data",
+        "as_of": "2026-08-20T07:39:41.881372+00:00"
+      }
+    },
+    "competitors": {
+      "key_competitors": []
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "award": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": "J. P. MORGAN INVESTMENT MANAGEMENT INC.",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2016-04-01",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2020-11-12",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "IGF::CT::IGF PORTFOLIO MANAGEMENT SERVICES \u2014 contract value $17,022,968",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "EVONIK CORP",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2016-09-30",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2018-05-17",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "IGF::OT::IGF H2O2 250 GAL OF 35% AND 450 GAL OF 90% TO MIL-PRF-16005F TYPE 90, GRADE HP \u2014 contract value $43,681",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2013-06-19",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2019-05-05",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "::IGF::OT::IGF:: DHS BANK CARD PROGRAM. \u2014 contract value $0",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2017-09-29",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2017-10-29",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "ME STUFF \u2014 contract value $9,718",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2017-09-22",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2018-04-11",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "LADDER REPLACEMENT \u2014 contract value $16,970",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2017-09-29",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2018-04-11",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "TOOLS FOR ENG \u2014 contract value $11,009",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2016-04-25",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2019-02-08",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "FOR FUEL, MAINTENANCE&REPAIR OF DHHS/NIH FLEET VEHICLES&EQUIPMENT IGF::OT::IGF \u2014 contract value $3,149,036",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2014-08-04",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2014-08-29",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "IGF::CL::IGF  FOR FUEL, SUPPLIES, MAINTENANCE AND REPAIRS OF DHHS/NIH VEHICLES AND EQUIPMENT. HHSN263201300004U, HHSN263201100128U HHSN263201200067U HHSN263200900094U \u2014 contract value $299,895",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2014-04-21",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2014-05-15",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "FOR FUEL, SUPPLIES, MAINTENANCE AND REPAIRS OF DHHS/NIH VEHICLES AND EQUIPMENT. HHSN263201300004U, HHSN263201100128U HHSN263201200067U HHSN263200900094U \u2014 contract value $335,609",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        },
+        {
+          "vendor": {
+            "value": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "start_date": {
+            "value": "2010-03-02",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "end_date": {
+            "value": "2016-03-01",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          },
+          "contract_details": {
+            "value": "BANKING CONTRACT FOR MEDICARE CLAIMS PROCESSORS, WORKLOAD B \u2014 contract value $5,346,509",
+            "source": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+            "as_of": "2026-08-20T07:38:56.314791+00:00"
+          }
+        }
+      ]
+    }
+  }
+}
