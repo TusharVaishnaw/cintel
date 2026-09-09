@@ -1,0 +1,50 @@
+5 · DeepEval faithfulness results
+12
+leaves scored
+3
+flagged (< 0.7)
+0.7833
+avg score
+Score	Field	Value	Evidence
+0.00	external_enrichment.latest_news.news[1].date	2026-09-04T19:31:38Z	The mortgage lender plans to bring more than $10 billion in historical loans onchain, turn…
+0.20	external_enrichment.latest_news.news[0].date	2026-09-04T19:43:41Z	Pineapple Financial's blockchain migration could revolutionize mortgage data transparency …
+0.20	external_enrichment.latest_news.news[1].title	Pineapple Financial puts $1B in mortgage records on Injective	The mortgage lender plans to bring more than $10 billion in historical loans onchain, turn…
+1.00	from_annual_report.financials.financial_year	2025	DocumentFiscalYearFocus: 2025 (current FY, XBRL fact)
+1.00	external_enrichment.investor_information.market_cap	24128938	marketCap: 24128938
+1.00	external_enrichment.investor_information.share_price	0.9548	currentPrice/regularMarketPrice: 0.9548
+1.00	external_enrichment.investor_information.shares_outstanding	25271197	sharesOutstanding: 25271197
+1.00	external_enrichment.investor_information.stock_exchange	ASE	exchange: ASE
+1.00	external_enrichment.investor_information.ticker	PAPL	queried ticker: PAPL
+1.00	external_enrichment.latest_news.news[0].title	Pineapple Financial puts $1B in mortgage records on Injective blockchain	Pineapple Financial's blockchain migration could revolutionize mortgage data transparency …
+1.00	external_enrichment.latest_news.news[0].summary	Pineapple Financial's blockchain migration could revolutionize mortgage data transparency and risk assessment, setting a precedent for the industry. The post Pineapple Financial puts $1B in mortgage records on Injective blockchain appeared first on Crypto Bri…	Pineapple Financial's blockchain migration could revolutionize mortgage data transparency …
+1.00	external_enrichment.latest_news.news[1].summary	The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.	The mortgage lender plans to bring more than $10 billion in historical loans onchain, turn…
+6 · JSON viewer
+template.json
+Search fields / values...
+Expand all
+Collapse all
+only flagged (eval_score < 0.7)
+48/181 filled · 133 null · 3 flagged · 50 sections
+Total fields
+181
+Filled
+48
+Null
+133
+Flagged (low faithfulness)
+3
+Sections
+50
+metadata 6/6 filled · 0 null · 100%
+from_annual_report 1/107 filled · 106 null · 1%
+from_quarterly_report 6/7 filled · 1 null · 86%
+derived 2/14 filled · 12 null · 14%
+analysis 18/18 filled · 0 null · 100%
+external_enrichment 15/29 filled · 14 null · 3 flagged · 52%
+
+
+also i heard gemini 3.1 flash can take 1 million tokens per reqs, and deepeval can batch the evaluations also...
+so in some way is this possible?
+orr
+shall i have multiple google api keys and then simultaneously sending them-  nah that'd be overkill
+and what's the use if the ppt is built early - but not available for download..??
