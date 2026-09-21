@@ -1,0 +1,1161 @@
+{
+  "metadata": {
+    "company": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "cik": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "ticker": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_year": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "annual_report_url": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    },
+    "extraction_date": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    }
+  },
+  "from_annual_report": {
+    "company_profile": {
+      "company_name": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "founded_year": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "headquarters": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "revenue": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "employees": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "brands": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "services": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "mission_vision_values": {
+      "mission": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "vision": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "values": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "geographic_presence": {
+      "countries": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "regions": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "offices": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "delivery_centers": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "geographic_revenue": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "geographic_employee_distribution": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "business_segments": {
+      "segments": [
+        {
+          "segment_name": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "revenue": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "growth_rate": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "operating_income": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "operating_margin": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "description": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "key_services": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "revenue_percentage": {
+            "value": null,
+            "formula": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "financials": {
+      "financial_year": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "revenue": {
+        "current_year": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        },
+        "previous_year": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        },
+        "two_years_prior": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        }
+      },
+      "operating_income": {
+        "current_year": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        },
+        "previous_year": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        },
+        "two_years_prior": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        }
+      },
+      "net_income": {
+        "current_year": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        },
+        "previous_year": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        },
+        "two_years_prior": {
+          "value": null,
+          "source": null,
+          "as_of": null,
+          "evidence": null
+        }
+      },
+      "ebitda": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "ebit": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "gross_profit": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "profit_before_tax": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "depreciation_amortization": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "income_tax_expense": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "earnings_per_share": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "operating_cash_flow": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "capital_expenditure": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "total_assets": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "total_liabilities": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "current_assets": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "current_liabilities": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "shareholders_equity": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "cash_and_cash_equivalents": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "total_debt": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "dividend": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "share_count": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "historical_years": [
+        {
+          "year": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "revenue": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "operating_income": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "net_income": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "ebitda": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "sustainability": {
+      "strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "goals": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "key_initiatives": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "organization": {
+      "organization_structure": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "people": [
+        {
+          "name": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "designation": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "linkedin_url": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "photo_url": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ],
+      "technology_team": [
+        {
+          "name": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "designation": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "linkedin_url": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "photo_url": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "technology": {
+      "technologies_in_use": [
+        {
+          "technology": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "category": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ],
+      "technology_initiatives": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "title": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "details": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ],
+      "cloud_technologies": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "ai_and_ml": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "data_and_analytics": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "cybersecurity": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "digital_platforms": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "automation": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "partnerships": {
+      "partnerships": [
+        {
+          "partner": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "partnership_type": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "acquisitions": {
+      "acquisitions": [
+        {
+          "year": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "company_name": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "acquisition_value": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "company_strategy": {
+      "corporate_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "strategic_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "growth_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "digital_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "technology_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "market_expansion_strategy": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "investment_priorities": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "management_outlook": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "business_challenges": {
+      "challenges": [
+        {
+          "challenge": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "impact": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "it_spending": {
+      "brief": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "industry_narrative": {
+      "industry": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "competitive_landscape_description": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "market_size": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "market_size_year": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    }
+  },
+  "from_quarterly_report": {
+    "quarter": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    },
+    "revenue": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    },
+    "operating_income": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    },
+    "net_income": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    },
+    "ebitda": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    },
+    "eps": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    },
+    "cash_flow": {
+      "value": null,
+      "source": null,
+      "as_of": null,
+      "evidence": null
+    }
+  },
+  "derived": {
+    "revenue_growth": {
+      "value": null,
+      "formula": "yoy % change, from financials.revenue",
+      "as_of": null
+    },
+    "operating_income_growth": {
+      "value": null,
+      "formula": "yoy % change",
+      "as_of": null
+    },
+    "net_income_growth": {
+      "value": null,
+      "formula": "yoy % change",
+      "as_of": null
+    },
+    "operating_margin": {
+      "value": null,
+      "formula": "operating_income / revenue",
+      "as_of": null
+    },
+    "net_margin": {
+      "value": null,
+      "formula": "net_income / revenue",
+      "as_of": null
+    },
+    "gross_margin": {
+      "value": null,
+      "formula": "gross_profit / revenue",
+      "as_of": null
+    },
+    "free_cash_flow": {
+      "value": null,
+      "formula": "operating_cash_flow - capex",
+      "as_of": null
+    },
+    "net_debt": {
+      "value": null,
+      "formula": "total_debt - cash_and_cash_equivalents",
+      "as_of": null
+    },
+    "roe": {
+      "value": null,
+      "formula": "net_income / shareholders_equity",
+      "as_of": null
+    },
+    "roa": {
+      "value": null,
+      "formula": "net_income / total_assets",
+      "as_of": null
+    },
+    "debt_to_equity": {
+      "value": null,
+      "formula": "total_debt / shareholders_equity",
+      "as_of": null
+    },
+    "current_ratio": {
+      "value": null,
+      "formula": "current_assets / current_liabilities",
+      "as_of": null
+    },
+    "quarterly_revenue_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly revenue",
+      "as_of": null
+    },
+    "quarterly_net_income_growth": {
+      "value": null,
+      "formula": "yoy % change on quarterly net income",
+      "as_of": null
+    }
+  },
+  "analysis": {
+    "swot": {
+      "strengths": [
+        {
+          "point": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "evidence": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "detail": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ],
+      "weaknesses": [
+        {
+          "point": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "evidence": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "detail": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ],
+      "opportunities": [
+        {
+          "point": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "evidence": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "detail": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ],
+      "threats": [
+        {
+          "point": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "evidence": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          },
+          "detail": {
+            "value": null,
+            "source": null,
+            "as_of": null
+          }
+        }
+      ]
+    },
+    "industry_indicators": {
+      "growth_rating": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "note": "Low/Medium/High"
+      },
+      "demand_trend": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "technology_adoption": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "spending_trend": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "regulatory_environment": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "competitive_intensity": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      },
+      "outlook": {
+        "value": null,
+        "source": null,
+        "as_of": null
+      }
+    },
+    "industry_forecast": {
+      "value": null,
+      "source": null,
+      "as_of": null
+    }
+  },
+  "external_enrichment": {
+    "investor_information": {
+      "market_cap": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "share_price": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "shares_outstanding": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "stock_exchange": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "ticker": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "latest_news": {
+      "news": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "title": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "summary": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "category": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "note": "Partnership|Products/Technology|Recognition",
+            "evidence": null
+          },
+          "url": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "industry_market_data": {
+      "forecast": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      },
+      "growth_drivers": {
+        "value": null,
+        "source": null,
+        "as_of": null,
+        "evidence": null
+      }
+    },
+    "competitors": {
+      "key_competitors": [
+        {
+          "company_name": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "revenue": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "employees": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "market_cap": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "ict_budget": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "awards_and_accolades": {
+      "awards": [
+        {
+          "date": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "award": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "brief": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    },
+    "deals": {
+      "deals": [
+        {
+          "vendor": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "start_date": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "end_date": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          },
+          "contract_details": {
+            "value": null,
+            "source": null,
+            "as_of": null,
+            "evidence": null
+          }
+        }
+      ]
+    }
+  }
+}

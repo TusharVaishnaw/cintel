@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Company Intelligence Pipeline</title>
+<style>
+  * { box-sizing: border-box; }
+  :root {
+    --bg: #f4f6f8; --card: #ffffff; --border: #e1e5e9; --text: #20242a;
+    --muted: #69737d; --good: #16834b; --bad: #c43d3d; --warn: #b77900;
+    --track: #edf0f2; --accent: #2f6fed; --accent-bg: #eaf1fe;
+  }
+  body { margin:0; font-family: Inter, Arial, sans-serif; background: var(--bg); color: var(--text); }
+  header {
+    position: sticky; top:0; z-index: 30; background: rgba(255,255,255,.97);
+    border-bottom: 1px solid var(--border); padding: 12px 22px;
+    display:flex; gap:12px; align-items:center; flex-wrap:wrap; backdrop-filter: blur(8px);
+  }
+  h1 { font-size: 19px; margin: 0 16px 0 0; }
+  h2 { font-size: 16px; margin: 0 0 10px; }
+  main { max-width: 1320px; margin: 22px auto; padding: 0 18px 60px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 18px; }
+  input[type=text], input[type=number] {
+    padding: 9px 11px; border: 1px solid #ccd2d8; border-radius: 7px; background:#fff; font-size:14px;
+  }
+  button {
+    border: 1px solid #ccd2d8; background: #fff; border-radius: 7px; padding: 9px 14px;
+    cursor: pointer; font-size: 14px; font-weight: 600;
+  }
+  button:hover { background: #f0f2f5; }
+  button.primary { background: var(--accent); color:#fff; border-color: var(--accent); }
+  button.primary:hover { background: #2559c7; }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  label.chk { font-size: 13px; color: var(--muted); display:flex; align-items:center; gap:6px; }
+
+  /* --- Setup row --- */
+  #setup { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  #candidates { margin-top: 12px; display:flex; flex-direction:column; gap:6px; }
+  .candidate {
+    display:flex; justify-content:space-between; padding:9px 12px; border:1px solid var(--border);
+    border-radius:7px; cursor:pointer; font-size:13px;
+  }
+  .candidate:hover { background: var(--accent-bg); }
+  .candidate.picked { border-color: var(--accent); background: var(--accent-bg); font-weight:700; }
+  .candidate .tick { color: var(--muted); font-family: ui-monospace, monospace; font-size:12px; }
+
+  /* --- Stage stepper --- */
+  #stepper { display:grid; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); gap:8px; }
+  .stage {
+    border:1px solid var(--border); border-radius:8px; padding:10px 12px; font-size:12.5px;
+    display:flex; flex-direction:column; gap:4px; background:#fbfbfc;
+  }
+  .stage .dot { width:9px; height:9px; border-radius:50%; background:#c8ccd1; display:inline-block; margin-right:6px; }
+  .stage.pending { color: var(--muted); }
+  .stage.running { border-color: var(--accent); background: var(--accent-bg); }
+  .stage.running .dot { background: var(--accent); animation: pulse 1.1s infinite; }
+  .stage.done { border-color: var(--good); }
+  .stage.done .dot { background: var(--good); }
+  .stage.failed { border-color: var(--bad); background:#fdecec; }
+  .stage.failed .dot { background: var(--bad); }
+  .stage .time { color: var(--muted); font-family: ui-monospace, monospace; font-size:11px; }
+  @keyframes pulse { 0%{opacity:1} 50%{opacity:.35} 100%{opacity:1} }
+
+  /* --- progress bar --- */
+  .progress-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; font-size:13px; }
+  .progress-head strong { font-size: 20px; font-family: ui-monospace, monospace; }
+  .bar { width:100%; height:12px; background: var(--track); border-radius:999px; overflow:hidden; }
+  .bar > span { display:block; height:100%; background: var(--accent); border-radius:inherit; transition: width .4s; }
+  .bar.indeterminate > span { width: 30% !important; animation: slide 1.4s infinite linear; }
+  @keyframes slide { 0%{margin-left:-30%} 100%{margin-left:100%} }
+  .bar.done > span { background: var(--good); }
+  .bar.error > span { background: var(--bad); }
+  .progress-meta { display:flex; justify-content:space-between; margin-top:6px; font-size:12px; color:var(--muted); }
+
+  /* --- logs --- */
+  #logs {
+    background: #14171c; color: #d7dbe0; font-family: ui-monospace, Consolas, monospace;
+    font-size: 12.5px; height: 280px; overflow-y: auto; padding: 12px 14px; border-radius: 8px; line-height:1.5;
+  }
+  #logs .l-err { color: #ff8a8a; }
+  #logs .l-warn { color: #ffd479; }
+  #logs .l-ok { color: #7ee0a3; }
+  .logs-head { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;}
+  .logs-head input[type=text] { width: 220px; }
+
+  /* --- deepeval table --- */
+  table.eval { width:100%; border-collapse: collapse; font-size: 13px; }
+  table.eval th, table.eval td { padding: 7px 9px; border-bottom: 1px solid var(--border); text-align:left; }
+  table.eval th { color: var(--muted); font-weight:700; font-size:11px; text-transform:uppercase; letter-spacing:.03em; }
+  .score-badge { padding:2px 8px; border-radius:999px; font-weight:700; font-size:12px; color:#fff; display:inline-block; }
+  .score-good { background: var(--good); }
+  .score-mid { background: var(--warn); }
+  .score-bad { background: var(--bad); }
+  .eval-summary { display:flex; gap:22px; margin-bottom:12px; font-size:13px; }
+  .eval-summary b { font-size:18px; display:block; }
+  .path-cell { font-family: ui-monospace, monospace; font-size:11.5px; color:#424a53; }
+  .evidence-cell { max-width: 340px; color: var(--muted); font-size:12px; }
+
+  /* --- json viewer (evolved from original attachment) --- */
+  #jsonToolbar { display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom: 12px;}
+  input[type=file] { max-width: 230px; }
+  input[type=search] { width: 260px; padding: 9px 11px; border: 1px solid #ccd2d8; border-radius: 7px; }
+  #jsonStats { margin-left:auto; font-size:13px; color: var(--muted); }
+  .kpis { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 14px; }
+  .kpi { background:#fbfbfc; border:1px solid var(--border); border-radius:10px; padding:14px; }
+  .kpi-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing:.04em;}
+  .kpi-value { font-size: 24px; font-weight: 750; margin-top:4px; }
+  .kpi-sub { font-size: 11px; color: var(--muted); margin-top:2px; }
+  .section { border:1px solid var(--border); border-radius:9px; margin: 10px 0; overflow:hidden; }
+  .section > summary { cursor:pointer; padding:11px 14px; font-weight:700; background:#fafbfc; list-style:none; }
+  .section > summary::-webkit-details-marker { display:none; }
+  .section > summary:before { content:"▶"; font-size:10px; margin-right:9px; }
+  .section[open] > summary:before { content:"▼"; }
+  .content { padding: 4px 12px 12px 26px; }
+  .field { display:grid; grid-template-columns: minmax(170px,30%) 1fr; gap:14px; padding:8px 0; border-bottom:1px solid #edf0f2; }
+  .field:last-child { border-bottom:0; }
+  .key { font-weight:600; color:#424a53; word-break:break-word; }
+  .value { word-break:break-word; }
+  .primitive { font-family: ui-monospace, Consolas, monospace; }
+  .null { color:#9aa1a8; font-style:italic; }
+  .meta { margin-top:4px; font-size:11px; color:#78818a; font-family: ui-monospace, Consolas, monospace; }
+  .meta.evidence { color:#4a5a80; }
+  .array { border-left: 2px solid #e1e5e9; padding-left: 12px; }
+  .array-item { margin: 7px 0; }
+  .empty { color:#9aa1a8; font-style:italic; }
+  .match { background: #fff2a8; }
+  .flag-chip { font-size:10px; font-weight:700; padding:1px 6px; border-radius:999px; margin-left:6px; color:#fff; }
+  @media(max-width:900px){ .kpis{grid-template-columns:repeat(2,1fr);} #stepper{grid-template-columns:repeat(2,1fr);} }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏢 Company Intelligence Pipeline</h1>
+  <span id="headerStatus" style="font-size:13px;color:var(--muted)">Idle</span>
+</header>
+
+<main>
+
+  <!-- SETUP -->
+  <div class="card">
+    <h2>1 · Run a company</h2>
+    <div id="setup">
+      <input id="companyInput" type="text" placeholder="Company name, e.g. Apple" style="width:220px">
+      <button id="searchBtn">Search</button>
+      <input id="yearInput" type="number" placeholder="Year (optional)" style="width:130px">
+      <label class="chk"><input type="checkbox" id="noPhotos"> skip photos</label>
+      <label class="chk"><input type="checkbox" id="noPpt"> skip PPT</label>
+      <button id="runBtn" class="primary" disabled>Run pipeline</button>
+      <button id="stopBtn" style="display:none">⏹ Stop</button>
+    </div>
+    <div id="candidates"></div>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="card" id="progressCard" style="display:none">
+    <div class="progress-head">
+      <span id="progressLabel">Starting…</span>
+      <strong id="elapsedTime">0:00</strong>
+    </div>
+    <div class="bar indeterminate" id="progressBar"><span></span></div>
+    <div class="progress-meta">
+      <span id="progressStageText">—</span>
+      <span id="progressEtaText">no history yet — timing this run to estimate next time</span>
+    </div>
+  </div>
+
+  <!-- STAGES -->
+  <div class="card" id="stagesCard" style="display:none">
+    <h2>2 · Workflow</h2>
+    <div id="stepper"></div>
+  </div>
+
+  <!-- LOGS -->
+  <div class="card" id="logsCard" style="display:none">
+    <div class="logs-head">
+      <h2 style="margin:0">3 · Live logs</h2>
+      <div style="display:flex; gap:8px; align-items:center">
+        <input type="text" id="logFilter" placeholder="filter logs...">
+        <button id="clearLogsBtn">Clear</button>
+      </div>
+    </div>
+    <div id="logs"></div>
+  </div>
+
+  <!-- RESULT ACTIONS -->
+  <div class="card" id="resultCard" style="display:none">
+    <h2>4 · Result</h2>
+    <div style="display:flex; gap:10px; flex-wrap:wrap">
+      <button id="downloadBtn" class="primary" disabled>⬇ Download PPT</button>
+      <button id="loadJsonBtn" disabled>Load result into JSON viewer ↓</button>
+    </div>
+  </div>
+
+  <!-- DEEPEVAL -->
+  <div class="card" id="evalCard" style="display:none">
+    <h2>5 · DeepEval faithfulness results</h2>
+    <div class="eval-summary">
+      <div><b id="evalTotal">0</b>leaves scored</div>
+      <div><b id="evalFlagged">0</b>flagged (&lt; 0.7)</div>
+      <div><b id="evalAvg">–</b>avg score</div>
+    </div>
+    <table class="eval">
+      <thead><tr><th>Score</th><th>Field</th><th>Value</th><th>Evidence</th></tr></thead>
+      <tbody id="evalBody"></tbody>
+    </table>
+  </div>
+
+  <!-- JSON VIEWER -->
+  <div class="card">
+    <h2>6 · JSON viewer</h2>
+    <div id="jsonToolbar">
+      <input id="jsonFile" type="file" accept=".json,application/json">
+      <input id="jsonSearch" type="search" placeholder="Search fields / values...">
+      <button onclick="jvExpandAll()">Expand all</button>
+      <button onclick="jvCollapseAll()">Collapse all</button>
+      <label class="chk"><input type="checkbox" id="onlyFlagged"> only flagged (eval_score &lt; 0.7)</label>
+      <label class="chk"><input type="checkbox" id="onlyNull"> only null</label>
+      <span id="jsonStats">Load a JSON file, or run the pipeline above</span>
+    </div>
+    <div id="jvAnalytics" style="display:none">
+      <div class="kpis">
+        <div class="kpi"><div class="kpi-label">Total fields</div><div class="kpi-value" id="jvTotal">0</div></div>
+        <div class="kpi"><div class="kpi-label">Filled</div><div class="kpi-value" style="color:var(--good)" id="jvFilled">0</div></div>
+        <div class="kpi"><div class="kpi-label">Null</div><div class="kpi-value" style="color:var(--bad)" id="jvNull">0</div></div>
+        <div class="kpi"><div class="kpi-label">Flagged (low faithfulness)</div><div class="kpi-value" style="color:var(--warn)" id="jvFlagged">0</div></div>
+        <div class="kpi"><div class="kpi-label">Sections</div><div class="kpi-value" id="jvSections">0</div></div>
+      </div>
+    </div>
+    <div id="jvViewer"></div>
+  </div>
+
+</main>
+
+<script>
+/* ============================= SETUP / RUN ============================= */
+let picked = null;      // {cik, ticker, title}
+let currentRunId = null;
+let stageMeta = [];     // [{id,label}]
+let stageStart = {};    // id -> elapsedAtStart (seconds)
+let runStartClientTs = null;
+let historyAvgTotal = null;
+let historyAvgStage = {};
+let evtSource = null;
+let logsPinned = true;
+
+fetch("/api/history").then(r=>r.json()).then(h=>{
+  historyAvgTotal = h.avg_total;
+  historyAvgStage = h.avg_stage || {};
+});
+
+document.getElementById("searchBtn").onclick = doSearch;
+document.getElementById("companyInput").addEventListener("keydown", e => { if(e.key==="Enter") doSearch(); });
+
+function doSearch(){
+  const company = document.getElementById("companyInput").value.trim();
+  if(!company) return;
+  const box = document.getElementById("candidates");
+  box.innerHTML = "Searching…";
+  fetch(`/api/search?company=${encodeURIComponent(company)}`).then(r=>r.json()).then(d=>{
+    if(d.error){ box.innerHTML = `<span style="color:var(--bad)">${d.error}</span>`; return; }
+    box.innerHTML = "";
+    d.candidates.forEach(c=>{
+      const el = document.createElement("div");
+      el.className = "candidate";
+      el.innerHTML = `<span>${c.title}</span><span class="tick">CIK ${c.cik} · ${c.ticker}</span>`;
+      el.onclick = ()=>{
+        document.querySelectorAll(".candidate").forEach(x=>x.classList.remove("picked"));
+        el.classList.add("picked");
+        picked = c;
+        document.getElementById("runBtn").disabled = false;
+      };
+      box.appendChild(el);
+    });
+  });
+}
+
+document.getElementById("runBtn").onclick = startRun;
+
+function startRun(){
+  if(!picked) return;
+  document.getElementById("runBtn").disabled = true;
+  const body = {
+    company: document.getElementById("companyInput").value.trim(),
+    year: document.getElementById("yearInput").value || null,
+    cik: picked.cik, ticker: picked.ticker,
+    no_photos: document.getElementById("noPhotos").checked,
+    no_ppt: document.getElementById("noPpt").checked,
+  };
+  fetch("/api/run", {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)})
+    .then(r=>r.json()).then(d=>{
+      currentRunId = d.run_id;
+      stageMeta = d.stages;
+      runStartClientTs = Date.now();
+      buildStepper();
+      document.getElementById("progressCard").style.display = "";
+      document.getElementById("stagesCard").style.display = "";
+      document.getElementById("logsCard").style.display = "";
+      document.getElementById("resultCard").style.display = "";
+      document.getElementById("headerStatus").textContent = `Running ${picked.ticker}…`;
+      document.getElementById("stopBtn").style.display = "";
+      clearLogs();
+      openStream(currentRunId);
+      startTimer();
+    });
+}
+
+document.getElementById("stopBtn").onclick = ()=>{
+  if(!currentRunId) return;
+  document.getElementById("stopBtn").disabled = true;
+  fetch(`/api/stop/${currentRunId}`, {method:"POST"})
+    .finally(()=>{ document.getElementById("stopBtn").disabled = false; });
+};
+
+function buildStepper(){
+  const el = document.getElementById("stepper");
+  el.innerHTML = "";
+  stageMeta.forEach(s=>{
+    const d = document.createElement("div");
+    d.className = "stage pending";
+    d.id = `stage-${s.id}`;
+    d.innerHTML = `<div><span class="dot"></span>${s.label}</div><div class="time" id="time-${s.id}"></div>`;
+    el.appendChild(d);
+  });
+}
+
+function setStage(id, status, elapsedText){
+  const el = document.getElementById(`stage-${id}`);
+  if(!el) return;
+  el.className = `stage ${status}`;
+  if(elapsedText !== undefined) document.getElementById(`time-${id}`).textContent = elapsedText;
+}
+
+function openStream(runId){
+  if(evtSource) evtSource.close();
+  evtSource = new EventSource(`/api/stream/${runId}`);
+  let activeStage = null;
+  evtSource.onmessage = (e)=>{
+    const ev = JSON.parse(e.data);
+    if(ev.type === "log"){
+      pushLog(ev.line);
+    } else if(ev.type === "stage-done"){
+      // Backfill event replayed on (re)connect — marks a stage that
+      // finished before this client subscribed. Doesn't touch activeStage
+      // tracking, just corrects the box's visual state.
+      setStage(ev.stage, "done");
+    } else if(ev.type === "stage"){
+      if(activeStage) setStage(activeStage, "done");
+      activeStage = ev.stage;
+      setStage(activeStage, "running");
+      document.getElementById("progressLabel").textContent = ev.label;
+      document.getElementById("progressStageText").textContent = `Stage: ${ev.label}`;
+    } else if(ev.type === "done"){
+      if(activeStage) setStage(activeStage, ev.status === "error" ? "failed" : "done");
+      // Safety net: a successful run means every stage genuinely
+      // completed, even if an earlier SSE reconnect caused this client to
+      // miss a transition for one of them (confirmed cause of stray
+      // grey/pending boxes on an otherwise-done run). Force every stage
+      // that isn't already failed/skipped to "done" once the run itself
+      // reports success, so the board never lies about a finished run.
+      if(ev.status !== "error"){
+        stageMeta.forEach(s=>{
+          const el = document.getElementById(`stage-${s.id}`);
+          if(el && !el.className.includes("failed") && !el.className.includes("done")){
+            setStage(s.id, "done");
+          }
+        });
+      }
+      finishRun(ev);
+    }
+  };
+  evtSource.onerror = ()=>{ /* browser auto-retries; server also replays buffered log on reconnect */ };
+}
+
+function pushLog(line){
+  const box = document.getElementById("logs");
+  const wasAtBottom = box.scrollTop + box.clientHeight >= box.scrollHeight - 20;
+  const div = document.createElement("div");
+  let cls = "";
+  if(/\[error\]/i.test(line)) cls = "l-err";
+  else if(/\[warn\]|\[flag/i.test(line)) cls = "l-warn";
+  else if(/===\s*DONE|Saved:|updated|wrote/i.test(line)) cls = "l-ok";
+  div.className = cls;
+  div.textContent = line;
+  div.dataset.raw = line.toLowerCase();
+  box.appendChild(div);
+  applyLogFilter(div);
+  if(wasAtBottom) box.scrollTop = box.scrollHeight;
+}
+
+function clearLogs(){ document.getElementById("logs").innerHTML = ""; }
+document.getElementById("clearLogsBtn").onclick = clearLogs;
+document.getElementById("logFilter").addEventListener("input", ()=>{
+  document.querySelectorAll("#logs > div").forEach(applyLogFilter);
+});
+function applyLogFilter(div){
+  const q = document.getElementById("logFilter").value.trim().toLowerCase();
+  div.style.display = (!q || div.dataset.raw.includes(q)) ? "" : "none";
+}
+
+let timerHandle = null;
+function startTimer(){
+  if(timerHandle) clearInterval(timerHandle);
+  timerHandle = setInterval(()=>{
+    const secs = (Date.now() - runStartClientTs)/1000;
+    document.getElementById("elapsedTime").textContent = fmtTime(secs);
+    const bar = document.getElementById("progressBar");
+    if(historyAvgTotal){
+      bar.classList.remove("indeterminate");
+      const pct = Math.min(100, (secs/historyAvgTotal)*100);
+      bar.querySelector("span").style.width = pct + "%";
+      const remain = Math.max(0, historyAvgTotal - secs);
+      document.getElementById("progressEtaText").textContent =
+        remain > 0 ? `~${fmtTime(remain)} remaining (based on last runs)` : "taking longer than usual — still running";
+    } else {
+      bar.classList.add("indeterminate");
+      document.getElementById("progressEtaText").textContent = "no history yet — timing this run to estimate next time";
+    }
+  }, 500);
+}
+
+function fmtTime(secs){
+  secs = Math.max(0, Math.round(secs));
+  const m = Math.floor(secs/60), s = secs%60;
+  return `${m}:${String(s).padStart(2,"0")}`;
+}
+
+function finishRun(ev){
+  clearInterval(timerHandle);
+  const bar = document.getElementById("progressBar");
+  bar.classList.remove("indeterminate");
+  bar.classList.add(ev.status === "error" ? "error" : "done");
+  bar.querySelector("span").style.width = "100%";
+  const label = ev.status === "error" ? "Failed" : ev.status === "stopped" ? "Stopped" : "Done";
+  document.getElementById("progressLabel").textContent = label;
+  document.getElementById("headerStatus").textContent = `${label} — ${picked.ticker}`;
+  document.getElementById("runBtn").disabled = false;
+  document.getElementById("stopBtn").style.display = "none";
+
+  fetch("/api/history").then(r=>r.json()).then(h=>{ historyAvgTotal = h.avg_total; historyAvgStage = h.avg_stage||{}; });
+
+  if(ev.deck_ready){
+    const btn = document.getElementById("downloadBtn");
+    btn.disabled = false;
+    btn.onclick = ()=> window.location.href = `/api/download/${currentRunId}`;
+  }
+  const loadBtn = document.getElementById("loadJsonBtn");
+  loadBtn.disabled = false;
+  loadBtn.onclick = loadResultIntoViewer;
+
+  if(ev.status !== "error"){
+    document.getElementById("evalCard").style.display = "";
+    fetch(`/api/eval/${currentRunId}`).then(r=>r.json()).then(renderEval).catch(()=>{});
+  }
+}
+
+function renderEval(d){
+  if(d.error) return;
+  document.getElementById("evalTotal").textContent = d.total_scored;
+  document.getElementById("evalFlagged").textContent = d.flagged_count;
+  document.getElementById("evalAvg").textContent = d.avg_score ?? "–";
+  const body = document.getElementById("evalBody");
+  body.innerHTML = d.leaves.map(l=>{
+    const cls = l.score >= 0.7 ? "score-good" : l.score >= 0.4 ? "score-mid" : "score-bad";
+    return `<tr>
+      <td><span class="score-badge ${cls}">${l.score.toFixed(2)}</span></td>
+      <td class="path-cell">${escapeHtml(l.path)}</td>
+      <td class="primitive">${escapeHtml(String(l.value))}</td>
+      <td class="evidence-cell" title="${escapeHtml(l.evidence||"")}">${escapeHtml(truncate(l.evidence,90))}</td>
+    </tr>`;
+  }).join("");
+}
+
+function loadResultIntoViewer(){
+  fetch(`/api/json/${currentRunId}`).then(r=>r.json()).then(d=>{
+    jvData = d;
+    document.getElementById("jsonFile").value = "";
+    jvRender();
+    document.getElementById("jsonToolbar").scrollIntoView({behavior:"smooth"});
+  });
+}
+
+function escapeHtml(v){
+  return String(v).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+function truncate(s, n){ if(!s) return ""; return s.length>n ? s.slice(0,n)+"…" : s; }
+
+/* ============================= JSON VIEWER ============================= */
+/* Evolved from the original company_intelligence_json_viewer.html — same
+   look/behavior, extended for the evidence/eval_score leaf keys added by
+   the pipeline's faithfulness pass, plus a "run's own result" load path. */
+let jvData = null;
+
+document.getElementById("jsonFile").addEventListener("change", e=>{
+  if(e.target.files[0]) jvLoadFile(e.target.files[0]);
+});
+async function jvLoadFile(file){
+  try { jvData = JSON.parse(await file.text()); jvRender(); }
+  catch(e){ alert("Invalid JSON: " + e.message); }
+}
+
+function jvIsLeaf(v){
+  return v && typeof v === "object" && !Array.isArray(v) &&
+    Object.prototype.hasOwnProperty.call(v, "value") &&
+    Object.keys(v).every(k => ["value","source","as_of","formula","evidence","eval_score"].includes(k));
+}
+
+function jvRenderValue(v){
+  if(v === null || v === undefined) return '<span class="null">null</span>';
+  if(typeof v !== "object") return '<span class="primitive">' + escapeHtml(v) + '</span>';
+
+  if(Array.isArray(v)){
+    if(!v.length) return '<span class="empty">[]</span>';
+    return '<div class="array">' + v.map((x,i)=>
+      '<div class="array-item"><b>['+i+']</b> ' + jvRenderValue(x) + '</div>'
+    ).join("") + '</div>';
+  }
+
+  if(jvIsLeaf(v)){
+    let out = jvRenderValue(v.value);
+    if(typeof v.eval_score === "number"){
+      const cls = v.eval_score >= 0.7 ? "score-good" : v.eval_score >= 0.4 ? "score-mid" : "score-bad";
+      out += ` <span class="flag-chip ${cls}">eval ${v.eval_score.toFixed(2)}</span>`;
+    }
+    if(v.source !== undefined && v.source !== null) out += '<div class="meta">source: ' + escapeHtml(v.source) + '</div>';
+    if(v.as_of !== undefined && v.as_of !== null) out += '<div class="meta">as_of: ' + escapeHtml(v.as_of) + '</div>';
+    if(v.formula !== undefined && v.formula !== null) out += '<div class="meta">formula: ' + escapeHtml(v.formula) + '</div>';
+    if(v.evidence !== undefined && v.evidence !== null) out += '<div class="meta evidence">evidence: ' + escapeHtml(truncate(v.evidence,160)) + '</div>';
+    return out;
+  }
+  return jvRenderObject(v);
+}
+
+function jvRenderObject(obj){
+  const onlyFlagged = document.getElementById("onlyFlagged").checked;
+  const onlyNull = document.getElementById("onlyNull").checked;
+  return Object.entries(obj).map(([k,v])=>{
+    if(v && typeof v === "object" && !Array.isArray(v) && !jvIsLeaf(v)){
+      const s = jvAnalyzeTree(v);
+      if(onlyFlagged && s.flagged === 0) return "";
+      if(onlyNull && s.nulls === 0) return "";
+      const completion = jvPct(s.filled, s.fields);
+      const badge = s.fields
+        ? ` <span style="font-size:11px;color:#69737d;font-weight:600">${s.filled}/${s.fields} filled · ${s.nulls} null${s.flagged? ' · '+s.flagged+' flagged':''} · ${completion}%</span>`
+        : "";
+      return `<details class="section" open><summary>${escapeHtml(k)}${badge}</summary><div class="content">${jvRenderObject(v)}</div></details>`;
+    }
+    if(onlyFlagged){
+      const isFlagged = v && typeof v === "object" && jvIsLeaf(v) && typeof v.eval_score === "number" && v.eval_score < 0.7;
+      if(!isFlagged) return "";
+    }
+    if(onlyNull){
+      const isNullLeaf = v && typeof v === "object" && jvIsLeaf(v) && !jvIsFilledValue(v.value);
+      if(!isNullLeaf) return "";
+    }
+    return `<div class="field"><div class="key">${escapeHtml(k)}</div><div class="value">${jvRenderValue(v)}</div></div>`;
+  }).join("");
+}
+
+function jvIsFilledValue(v){ return v !== null && v !== undefined && !(typeof v === "string" && v.trim()===""); }
+
+function jvAnalyzeTree(v){
+  let fields=0, filled=0, nulls=0, arrays=0, sections=0, flagged=0;
+  function walk(x, root=false){
+    if(Array.isArray(x)){ arrays++; x.forEach(y=>walk(y)); return; }
+    if(x && typeof x === "object"){
+      if(!root && !jvIsLeaf(x)) sections++;
+      if(jvIsLeaf(x)){
+        fields++;
+        if(jvIsFilledValue(x.value)) filled++; else nulls++;
+        if(typeof x.eval_score === "number" && x.eval_score < 0.7) flagged++;
+        return;
+      }
+      Object.values(x).forEach(y=>walk(y));
+    }
+  }
+  walk(v, true);
+  return {fields, filled, nulls, arrays, sections, flagged};
+}
+
+function jvPct(a,b){ return b ? Math.round((a/b)*100) : 0; }
+
+function jvRenderAnalytics(){
+  const stats = jvAnalyzeTree(jvData);
+  document.getElementById("jvAnalytics").style.display = "";
+  document.getElementById("jvTotal").textContent = stats.fields.toLocaleString();
+  document.getElementById("jvFilled").textContent = stats.filled.toLocaleString();
+  document.getElementById("jvNull").textContent = stats.nulls.toLocaleString();
+  document.getElementById("jvFlagged").textContent = stats.flagged.toLocaleString();
+  document.getElementById("jvSections").textContent = stats.sections.toLocaleString();
+}
+
+function jvRender(){
+  const viewer = document.getElementById("jvViewer");
+  viewer.innerHTML = jvRenderObject(jvData);
+  const stats = jvAnalyzeTree(jvData);
+  document.getElementById("jsonStats").textContent =
+    `${stats.filled}/${stats.fields} filled · ${stats.nulls} null · ${stats.flagged} flagged · ${stats.sections} sections`;
+  jvRenderAnalytics();
+}
+
+function jvExpandAll(){ document.querySelectorAll("#jvViewer details.section").forEach(x=>x.open=true); }
+function jvCollapseAll(){ document.querySelectorAll("#jvViewer details.section").forEach(x=>x.open=false); }
+
+document.getElementById("onlyFlagged").addEventListener("change", (e)=>{
+  if(e.target.checked) document.getElementById("onlyNull").checked = false;
+  if(jvData) jvRender();
+});
+document.getElementById("onlyNull").addEventListener("change", (e)=>{
+  if(e.target.checked) document.getElementById("onlyFlagged").checked = false;
+  if(jvData) jvRender();
+});
+
+document.getElementById("jsonSearch").addEventListener("input", e=>{
+  const q = e.target.value.trim().toLowerCase();
+  document.querySelectorAll("#jvViewer .section, #jvViewer .field").forEach(el=>{
+    el.classList.remove("match");
+    if(!q){ el.style.display=""; return; }
+    const hit = el.textContent.toLowerCase().includes(q);
+    el.style.display = hit ? "" : "none";
+    if(hit){
+      el.classList.add("match");
+      let p = el.parentElement;
+      while(p){ if(p.tagName === "DETAILS") p.open = true; p = p.parentElement; }
+    }
+  });
+});
+</script>
+</body>
+</html>

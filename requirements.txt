@@ -1,0 +1,19 @@
+# --- core pipeline ---
+edgartools          # fetch.py — SEC EDGAR 10-K/10-Q fetch
+requests
+yfinance             # enrich.py — market cap, price, competitors
+certifi
+urllib3
+
+# --- PPT build ---
+python-pptx          # build_ppt.py
+
+# --- DeepEval faithfulness stage ---
+deepeval             # evaluate.py
+
+# --- webapp dashboard ---
+flask                # webapp/server.py
+
+# --- optional: only needed if you run pipeline_tests.py (manual pre-ship sanity check, not part of run_pipeline.py) ---
+# giskard
+# httpx
