@@ -1,0 +1,11 @@
+ways to do 
+
+- crawling, robots.txt to get the correct url and find the pdf link
+- use ddg to get the pdf- site:nsearchives.nseindia.com/annual_reports/ "infosys"
+then download from the first link 
+- build url for india (under process): https://chatgpt.com/share/6a7c109a-8cac-83e8-a14b-84a4f63555b9
+- country-wise archives: https://chatgpt.com/share/6a7c10d7-8858-83ee-ae0c-72fc514d0bbb
+- ddg usage policy: https://duckduckgo.com/acceptable-use?utm_source=chatgpt.com
+- sec.gov json: https://www.sec.gov/files/company_tickers.json
+- company's official IR using web crawrl and scrape , selenium works too 
+- 
